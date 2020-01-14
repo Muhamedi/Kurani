@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="90" ChapterName="The City">
+	<Verse VerseID="1"><![CDATA[Betohem në këtë qytet! ]]></Verse>
+	<Verse VerseID="2"><![CDATA[E ti je që gjendesh në këtë qytet! ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Betohem në prindin dhe në atë që lind prej tij! ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Vërtet, Ne e krijuam njeriun në vështirësi të njëpasnjëshme. ]]></Verse>
+	<Verse VerseID="5"><![CDATA[A mendon ai, se atë nuk mund ta mposhtë askush? ]]></Verse>
+	<Verse VerseID="6"><![CDATA[E thotë: “Unë kam shpenzuar shumë pasuri!” ]]></Verse>
+	<Verse VerseID="7"><![CDATA[A mendon ai se atë askush nuk e ka parë? ]]></Verse>
+	<Verse VerseID="8"><![CDATA[A nuk i dhamë Ne atij dy sy? ]]></Verse>
+	<Verse VerseID="9"><![CDATA[Edhe gjuhë e dy buzë? ]]></Verse>
+	<Verse VerseID="10"><![CDATA[Dhe i sqaruam atij për të dy rrugët. ]]></Verse>
+	<Verse VerseID="11"><![CDATA[E ai nuk u hodh në përpjetëzen (rrugë e vështirë - qafëmalit). ]]></Verse>
+	<Verse VerseID="12"><![CDATA[E ç’gjë të mësoi ty se ç’është Akabe (rruga e vështirë)? ]]></Verse>
+	<Verse VerseID="13"><![CDATA[Është lirimi i një skllavi, ]]></Verse>
+	<Verse VerseID="14"><![CDATA[Ose dhënia e ushqimit në kohën kur mbretëron uria: ]]></Verse>
+	<Verse VerseID="15"><![CDATA[Ndonjë jetimi që është i afërt, ]]></Verse>
+	<Verse VerseID="16"><![CDATA[Ose ndonjë të varfëri që e ka molisur varfëria. ]]></Verse>
+	<Verse VerseID="17"><![CDATA[E pastaj të bëhej prej atyre që besuan, që këshilluan njëri-tjetrin për durim dhe që këshillluan për mëshirë (për ndihmë). ]]></Verse>
+	<Verse VerseID="18"><![CDATA[Të tillët janë të zotët e anës së djathtë. ]]></Verse>
+	<Verse VerseID="19"><![CDATA[Ndërsa ata që nuk i besuan argumentet Tona, ata jaanë të të majtës. ]]></Verse>
+	<Verse VerseID="20"><![CDATA[Kundër tyre është zjarri i mbyllur.  ]]></Verse>
+</Chapter>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="98" ChapterName="The Clear Evidence">
+	<Verse VerseID="1"><![CDATA[Ata nga ithtarët e librit dhe idhujtarët, të cilët nuk besuan, nuk iu ndanë (besimit të tyre) derisa atyre u erdhi argumenti i qartë, ]]></Verse>
+	<Verse VerseID="2"><![CDATA[I dërguari prej All-llahut, që lexon fletë të pastra, ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Në të cilat ka vetëm dispozita të drejta. ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Dhe ata të cilëve u është dhënë libri, nuk u ndanë vetëm pasi që u erdhi argumenti. ]]></Verse>
+	<Verse VerseID="5"><![CDATA[E duke qenë se ata nuk ishin të urdhëruar me tjetër, pos që ta adhuronin All-llahun me një adhurim të sinqertë ndaj Tij, që të largohen prej çdo besimi të kotë, ta falin namazin, të japin zeqatin, se ajo është feja e drejtë. ]]></Verse>
+	<Verse VerseID="6"><![CDATA[S’ka dyshim se ata, të cilët nuk besuan nga ithtarët e librit dhe nga idhujtarët, do të jenë në zjarrin e Xhehennemit, aty do të jenë përgjithmonë. Të tilët janë krijesa më e dëmshme. ]]></Verse>
+	<Verse VerseID="7"><![CDATA[Ndërsa, ata që besuan dhe bënë vepra të mira, të tillët janë krijesa më e dobishme. ]]></Verse>
+	<Verse VerseID="8"><![CDATA[Shpërblimi për ta te Zoti i tyre janë: vendet ne Xhennete nëpër të cilët burojnë lumenj, e aty janë përgjithmonë, pakëputur. All-llahu është i kënaqur ndaj tyre, e edhe ata të kënaqur prej Tij. E ky është për atë, që i ka pasur frikën Zotit të vet.  ]]></Verse>
+</Chapter>

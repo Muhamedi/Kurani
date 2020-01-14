@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="109" ChapterName="The Unbelievers">
+	<Verse VerseID="1"><![CDATA[Thuaj: “O ju jobesimtarë! ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Unë nuk adhuroj atë që ju e adhuroni! ]]></Verse>
+	<Verse VerseID="3"><![CDATA[As ju nuk jeni adhurues të Atij që unë e adhuroj! ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Dhe unë kurr nuk do të jem adhurues i asaj që ju adhuroni! ]]></Verse>
+	<Verse VerseID="5"><![CDATA[Por edhe ju nuk do të jeni adhurues të Atij që unë adhuroj! ]]></Verse>
+	<Verse VerseID="6"><![CDATA[Ju keni fenë tuaj (që i përmbaheni), e unë kam fenë time (që i përmbahem)! ]]></Verse>
+</Chapter>

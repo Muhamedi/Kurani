@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="91" ChapterName="The Sun">
+	<Verse VerseID="1"><![CDATA[Pasha diellin dhe dritën e tij! ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Pasha hënën kur vjen pas tij! ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Pasha ditën kur ai (dielli) e shndrit! ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Pasha natën kur ajo e mbulon atë (dritën e diellit)! ]]></Verse>
+	<Verse VerseID="5"><![CDATA[Pasha qiellin dhe Atë që e ndërtoi atë! ]]></Verse>
+	<Verse VerseID="6"><![CDATA[Pasha tokën dhe Atë që e shtriu atë (e sheshoi)! ]]></Verse>
+	<Verse VerseID="7"><![CDATA[Pasha njeriun dhe Atë që e krijoi atë! ]]></Verse>
+	<Verse VerseID="8"><![CDATA[Dhe ia mësoi se cilat janë të këqijat dhe të mirat e tij. ]]></Verse>
+	<Verse VerseID="9"><![CDATA[Pra, ka shpëtuar ai që e pastroi vetveten. ]]></Verse>
+	<Verse VerseID="10"><![CDATA[E ka dështuar ai që e poshtëroi vetveten. ]]></Verse>
+	<Verse VerseID="11"><![CDATA[Themudi përgënjeshtroi për shkak të arrogancës së vet. ]]></Verse>
+	<Verse VerseID="12"><![CDATA[Kur më i keqi i tyre u ngrit me të shpejtë. ]]></Verse>
+	<Verse VerseID="13"><![CDATA[e Pejgamberi atyre u pat thënë: “Kinie kujdes devenë e All-llahut dhe ndaj pengimit të saj që të pijë ujë. ]]></Verse>
+	<Verse VerseID="14"><![CDATA[Ata nuk i besuan atij dhe atë (devenë) e therrën dhe Zoti i tyre për shkak të mëkatit të tyre ua rreshtoi ndëshkimet dhe i rrafshoi, ]]></Verse>
+	<Verse VerseID="15"><![CDATA[Duke mos iu frikësuar prapavisë së atij (ndëshkimi).  ]]></Verse>
+</Chapter>

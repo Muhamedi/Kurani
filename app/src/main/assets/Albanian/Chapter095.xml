@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="95" ChapterName="The Fig">
+	<Verse VerseID="1"><![CDATA[Pasha fikun dhe ullirin! ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Dhe (kodrën) Turi Sina-en! ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Dhe këtë qytet të sigurisë! ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Vërtet, Ne e krijuam njerin në formën më të bukur. ]]></Verse>
+	<Verse VerseID="5"><![CDATA[Pastaj e zbritëm atë në më të ultin e të ultëve. ]]></Verse>
+	<Verse VerseID="6"><![CDATA[Përveç atyre që besuan dhe bënë vepra të mira; ata kanë shpërblim të pandërprerë. ]]></Verse>
+	<Verse VerseID="7"><![CDATA[E pas gjithë kësaj, ç’të shtyri të përgënjeshtrosh ditën e shpërblimit (përgjegjësisë)? ]]></Verse>
+	<Verse VerseID="8"><![CDATA[A nuk është All-llahu më i urti gjykuesve?  ]]></Verse>
+</Chapter>

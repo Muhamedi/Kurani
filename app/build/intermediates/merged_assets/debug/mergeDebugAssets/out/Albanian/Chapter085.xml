@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="85" ChapterName="The Mansions Of The Stars">
+	<Verse VerseID="1"><![CDATA[Pasha qiellin me plot yje, ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Pasha ditën e premtuar, ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Pasha atë që dëshmon dhe atë që dëshmohet! ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Mallkuar qofshin ata të zotët e hendeqeve, ]]></Verse>
+	<Verse VerseID="5"><![CDATA[Të zjarrit më plot lëndë djegëse, ]]></Verse>
+	<Verse VerseID="6"><![CDATA[Kur ata rrinin ulur rreth tij, ]]></Verse>
+	<Verse VerseID="7"><![CDATA[Dhe dëshmonin atë që bënin me besimtarët. ]]></Verse>
+	<Verse VerseID="8"><![CDATA[E nuk patën pse t’i urrejë, përveç që e besuan All-llahun, ngadhënjyesin, të lavdëruarin, ]]></Verse>
+	<Verse VerseID="9"><![CDATA[Të cilit i takon sundimi i qiejve e i tokës;, e All-llahu është dëshmitar i çdo sendi. ]]></Verse>
+	<Verse VerseID="10"><![CDATA[Është i sigurt se ata që i sprovuan besimtarët dhe besimtaret dhe nuk u penduan; ata kanë dënimin e Xhehennemit dhe dënimin e djegies. ]]></Verse>
+	<Verse VerseID="11"><![CDATA[Ata që besuan dhe bënë vepra të mira, ata kanë Xhennete nën të cilët burojnë lumenj. e ai është suksesi më i madh. ]]></Verse>
+	<Verse VerseID="12"><![CDATA[Është e vërtetë se goditja e Zotit tënd është e fortë. ]]></Verse>
+	<Verse VerseID="13"><![CDATA[Në të vërtetë, Ai është që e fillon (krijimin) dhe e rikthen. ]]></Verse>
+	<Verse VerseID="14"><![CDATA[Ai është që falë mëkatet, është i dashur. ]]></Verse>
+	<Verse VerseID="15"><![CDATA[Është i zoti i Arshit, të madhëruar! ]]></Verse>
+	<Verse VerseID="16"><![CDATA[E punon atë që dëshiron. ]]></Verse>
+	<Verse VerseID="17"><![CDATA[A të ka ardhur ty lajmi i ushtrive, ]]></Verse>
+	<Verse VerseID="18"><![CDATA[Të faraonit dhe të Thmeudit? ]]></Verse>
+	<Verse VerseID="19"><![CDATA[Por, këta që mohuan (idhujtarët), vazhdojnë me gënjeshtër. ]]></Verse>
+	<Verse VerseID="20"><![CDATA[Po All-llahu ata i ka rrethuar (nuk mund t’i shpëtojnë)! ]]></Verse>
+	<Verse VerseID="21"><![CDATA[Përkundrazi, (ata që gënjejnë), ai është Kur’an i famshëm. ]]></Verse>
+	<Verse VerseID="22"><![CDATA[Në një pllakë të ruajtur mirë (në Levhi Mahfudhë).  ]]></Verse>
+</Chapter>

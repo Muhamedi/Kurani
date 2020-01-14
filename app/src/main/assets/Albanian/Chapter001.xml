@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="1" ChapterName="The Opening">
+	<Verse VerseID="1"><![CDATA[Me emrin e  All-llahut,  Mëshiruesit, Mëshirëbërësit! ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Falënderimi  i takon All-llahut , Zotit  të botërave ! ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Mëshiruesit, Mëshirëbërësit! ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Sunduesit të ditës së Gjykimit! ]]></Verse>
+	<Verse VerseID="5"><![CDATA[Ty të adhurojmë  dhe prej Teje ndihmë kërkojmë!]]></Verse>
+	<Verse VerseID="6"><![CDATA[Udhëzona në rrugën e drejtë! ]]></Verse>
+	<Verse VerseID="7"><![CDATA[Në rrugën e atyre ndaj të cilëve ke bekimin,  e jo në të atyre që je i hidhëruar , dhe që kanë humbur ! ]]></Verse>
+</Chapter>

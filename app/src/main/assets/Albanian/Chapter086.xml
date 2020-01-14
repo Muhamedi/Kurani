@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="86" ChapterName="The Night-Comer">
+	<Verse VerseID="1"><![CDATA[Pasha qiellin dhe yllin ndriçues (të natës)! ]]></Verse>
+	<Verse VerseID="2"><![CDATA[E ku e di tise çka është tariku - trokitësi? ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Ai është ylli që shpon (errësirën me dritë). ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Nuk ka asnjëri njeri që ndaj tij të mos ketë përcjellës. ]]></Verse>
+	<Verse VerseID="5"><![CDATA[Le të shikojë njeriu se prej çkahit është krijuar? ]]></Verse>
+	<Verse VerseID="6"><![CDATA[Ai është krijuar prej një uji që hidhet fuqishëm, ]]></Verse>
+	<Verse VerseID="7"><![CDATA[E që del nga kurrizi i shpinës dhe dërrasa e gjoksit. ]]></Verse>
+	<Verse VerseID="8"><![CDATA[E s’ka dyshim se Ai ka fuqi ta rikthejë në jetë atë. ]]></Verse>
+	<Verse VerseID="9"><![CDATA[Ditën kur do të gjurmohen të fshehtat. ]]></Verse>
+	<Verse VerseID="10"><![CDATA[E ai (njeriu) nuk ka forcë as ndihmëtarë. ]]></Verse>
+	<Verse VerseID="11"><![CDATA[Pasha qiellin që kohë pas kohe kthehet me shi. ]]></Verse>
+	<Verse VerseID="12"><![CDATA[Edhe kohën që qahet për bimë. ]]></Verse>
+	<Verse VerseID="13"><![CDATA[Është e vërtetë se ai (Kur’ani) është fjalë që dallon - gjykon. ]]></Verse>
+	<Verse VerseID="14"><![CDATA[Nuk është ai i parëndësishëm (lojë e kotë)! ]]></Verse>
+	<Verse VerseID="15"><![CDATA[Ata vërtetë bëjnë kurtha. ]]></Verse>
+	<Verse VerseID="16"><![CDATA[Po edhe Unë përgatis dështimin e kurtheve të tyre! ]]></Verse>
+	<Verse VerseID="17"><![CDATA[E ti jobesimtarët jepju afat, afatizoi ata pak.   ]]></Verse>
+</Chapter>

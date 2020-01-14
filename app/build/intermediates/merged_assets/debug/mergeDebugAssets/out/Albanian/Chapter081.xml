@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="81" ChapterName="The Covering Up">
+	<Verse VerseID="1"><![CDATA[Kur dielli të jetë mbështjellur (dhe errësohet), ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Dhe kur yjet të kenë rënë (e shkapërderdhur), ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Dhe kur kodrat të kenë udhëtuar (e bërë pluhur në ajër), ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Dhe kur devetë e shtrenjta të lihen pa bari në fushë, ]]></Verse>
+	<Verse VerseID="5"><![CDATA[Dhe kur egërsirat të jenë bashkuar (tubuar). ]]></Verse>
+	<Verse VerseID="6"><![CDATA[Dhe kur detet të vlojnë si zjarr i flakruar, ]]></Verse>
+	<Verse VerseID="7"><![CDATA[Dhe kur shpirtrat të jenë bashkuar. ]]></Verse>
+	<Verse VerseID="8"><![CDATA[Dhe kur të pyeten ato vajza të varrosura të gjalla, ]]></Verse>
+	<Verse VerseID="9"><![CDATA[Për çfarë mëkati ato janë mbytur, ]]></Verse>
+	<Verse VerseID="10"><![CDATA[Dhe kur fletushkat të jenë shpaluar, ]]></Verse>
+	<Verse VerseID="11"><![CDATA[Dhe kur qielli të jetë hequr, ]]></Verse>
+	<Verse VerseID="12"><![CDATA[Dhe kur Xhehennemi të jetë ndezur fort, ]]></Verse>
+	<Verse VerseID="13"><![CDATA[Dhe kur Xhenneti të jetë afruar, ]]></Verse>
+	<Verse VerseID="14"><![CDATA[Atëbotë njeriu do të dijë se çka ka ofruar (të mirë ose të keqe). ]]></Verse>
+	<Verse VerseID="15"><![CDATA[Betohem fuqimisht në yjet që tërhiqen (ditën, e ndriçojnë natën), ]]></Verse>
+	<Verse VerseID="16"><![CDATA[Që udhëtojnë e fshihen (si dreni në strofkë), ]]></Verse>
+	<Verse VerseID="17"><![CDATA[Pasha natën kur ajo ia beh me errësirë. ]]></Verse>
+	<Verse VerseID="18"><![CDATA[Pasha agimin kur ia shkrep! ]]></Verse>
+	<Verse VerseID="19"><![CDATA[S’ka dyshim se ai (Kur’ani) është thënie e të dërguarit fisnik (që e pranoi prej Zotit). ]]></Verse>
+	<Verse VerseID="20"><![CDATA[Që është i fortë dhe që ka vend të lartë te Zoti i Arshit. ]]></Verse>
+	<Verse VerseID="21"><![CDATA[Që është i respektuar atje (në mesin e engjëjve) dhe besnik. ]]></Verse>
+	<Verse VerseID="22"><![CDATA[Nuk është i marrë shoku juaj (Muhammedi)! ]]></Verse>
+	<Verse VerseID="23"><![CDATA[Dhe se ai e pat parë atë (Xhibrilin) në horizontin e qartë lindor. ]]></Verse>
+	<Verse VerseID="24"><![CDATA[Dhe ai nuk është që në të fshehtën (shpalljen) ka dyshim (ose ua lë mangu). ]]></Verse>
+	<Verse VerseID="25"><![CDATA[Dhe ai (Kur’ani) nuk është thënie e djallit të mallkuar! ]]></Verse>
+	<Verse VerseID="26"><![CDATA[Pra, ku jeni, kah shkoni? ]]></Verse>
+	<Verse VerseID="27"><![CDATA[Ai (Kur’ani) s’është tjetër pos këshillë për njerëzit! ]]></Verse>
+	<Verse VerseID="28"><![CDATA[Për atë nga mesi juaj që dëshiron të gjendet në të vërtetën. ]]></Verse>
+	<Verse VerseID="29"><![CDATA[Po ju nuk mundeni, por vetëm nëse dëshiron All-llahu, Zoti i botëve!    ]]></Verse>
+</Chapter>

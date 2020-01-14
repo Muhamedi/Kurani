@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="56" ChapterName="The Great Event">
+	<Verse VerseID="1"><![CDATA[E kur të ngjajë ndodhia (kijameti). ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Realitetin e asaj ndodhie nuk a kush që do ta përgënjeshtrojë. ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Ajo ëshë që rrëzon, është që grit (lart). ]]></Verse>
+	<Verse VerseID="4"><![CDATA[(ajo ndodh) Kur toka tundet me dridhje të forta. ]]></Verse>
+	<Verse VerseID="5"><![CDATA[E kodrat shkapërderdhën e bëhen copë e thërmi. ]]></Verse>
+	<Verse VerseID="6"><![CDATA[E bëhen pluhur i shpërndarë. ]]></Verse>
+	<Verse VerseID="7"><![CDATA[Dhe ju të ndaheni në tri grupe. ]]></Verse>
+	<Verse VerseID="8"><![CDATA[E ata të djathtit, kush janë ata të djathtit se?]]></Verse>
+	<Verse VerseID="9"><![CDATA[Po të majtit, kush janë ata të majtit?]]></Verse>
+	<Verse VerseID="10"><![CDATA[Ndërsa të përparmit janë të dalluar (janë në ballë). ]]></Verse>
+	<Verse VerseID="11"><![CDATA[Ata pra, janë më të afruarit (te Zoti). ]]></Verse>
+	<Verse VerseID="12"><![CDATA[Janë në Xhennetet e begatshme. ]]></Verse>
+	<Verse VerseID="13"><![CDATA[(ata janë) Shumë prej (popujve) të hershmëve. ]]></Verse>
+	<Verse VerseID="14"><![CDATA[E janë pak prej të mëvonshmëve. ]]></Verse>
+	<Verse VerseID="15"><![CDATA[Janë në shtretër të qendisur me ar. ]]></Verse>
+	<Verse VerseID="16"><![CDATA[Të mbështetur në to përballë njëri-tjetrit. ]]></Verse>
+	<Verse VerseID="17"><![CDATA[Atyre u shërbejnë djelmosha të gjithmonshëm. ]]></Verse>
+	<Verse VerseID="18"><![CDATA[Me gastare, me ibrigë dhe me gota të mbushura plot prej burimit. ]]></Verse>
+	<Verse VerseID="19"><![CDATA[Prej së cilës pije (vere) as nuk i dhemb koka, as nuk dehen. ]]></Verse>
+	<Verse VerseID="20"><![CDATA[Edhe pemë sipas dëshirës së tyre. ]]></Verse>
+	<Verse VerseID="21"><![CDATA[Edhe mish shpezësh, cilin ta duan. ]]></Verse>
+	<Verse VerseID="22"><![CDATA[Dhe (gratë e tyre janë) hyri symëdha. ]]></Verse>
+	<Verse VerseID="23"><![CDATA[Si të ishim inxhi të ruajtura. ]]></Verse>
+	<Verse VerseID="24"><![CDATA[Shpërblim për atë, që ata punuan. ]]></Verse>
+	<Verse VerseID="25"><![CDATA[Aty nuk dëgjojnë fjalë të këqija as që janë mëkat (gënjeshtër). ]]></Verse>
+	<Verse VerseID="26"><![CDATA[Vetëm thënie: selam pas selami. ]]></Verse>
+	<Verse VerseID="27"><![CDATA[E për sa u përket atyre të djathtëve, çka është gjendja e të djathtëve?]]></Verse>
+	<Verse VerseID="28"><![CDATA[Janë nën drunj të pemëve pa therra (pa gjemba). ]]></Verse>
+	<Verse VerseID="29"><![CDATA[Të bananeve me fruta palë-palë. ]]></Verse>
+	<Verse VerseID="30"><![CDATA[Nën hije të përhershme. ]]></Verse>
+	<Verse VerseID="31"><![CDATA[Pranë ujit rrjedhës. ]]></Verse>
+	<Verse VerseID="32"><![CDATA[Edhe ndër pemë shumë llojesh. ]]></Verse>
+	<Verse VerseID="33"><![CDATA[Që as nuk ndërprehen, as nuk janë të ndaluara. ]]></Verse>
+	<Verse VerseID="34"><![CDATA[Edhe shtretër të lartë (ose gra të larta). ]]></Verse>
+	<Verse VerseID="35"><![CDATA[Ne i kemi krijuar ato në një krijim të ri (formë të re). ]]></Verse>
+	<Verse VerseID="36"><![CDATA[Dhe ato i kemi bërë virgjëresha. ]]></Verse>
+	<Verse VerseID="37"><![CDATA[Të dashuruara (për burrat e vet), të një moshe. ]]></Verse>
+	<Verse VerseID="38"><![CDATA[(Ato janë) për ata të djathtët. ]]></Verse>
+	<Verse VerseID="39"><![CDATA[(Të djathtët) Janë shumë nga të parët (të hershmit). ]]></Verse>
+	<Verse VerseID="40"><![CDATA[Janë shmë nga më të vonshmit. ]]></Verse>
+	<Verse VerseID="41"><![CDATA[E të majtit, ç’është puna e të majtëve?]]></Verse>
+	<Verse VerseID="42"><![CDATA[Janë në vapë të zjarrit dhe në ujë të valë. ]]></Verse>
+	<Verse VerseID="43"><![CDATA[Dhe në errësirë tymi. ]]></Verse>
+	<Verse VerseID="44"><![CDATA[As e freskët e as e këndshme. ]]></Verse>
+	<Verse VerseID="45"><![CDATA[Ata përpara kësajkanë qenë të dhënë pas komoditetit (qejfeve). ]]></Verse>
+	<Verse VerseID="46"><![CDATA[Dhe ata ishin vazhdimisht në mëkatin e madh. ]]></Verse>
+	<Verse VerseID="47"><![CDATA[Dhe ishin që thonin: “A pasi të vdesim, të bëhemi dhe e eshtra të kalbur, njëmend do të ringjallemi? ]]></Verse>
+	<Verse VerseID="48"><![CDATA[A edhe prindërit tanë të hershëm?]]></Verse>
+	<Verse VerseID="49"><![CDATA[Thuaj: “Edhe të parët edhe të fundit!”]]></Verse>
+	<Verse VerseID="50"><![CDATA[Kemi për t’u tubuar në një ditë të caktuar!]]></Verse>
+	<Verse VerseID="51"><![CDATA[Pastaj ju, o të humbur e gënjeshtarë!]]></Verse>
+	<Verse VerseID="52"><![CDATA[Keni për të ngrënë prej pemës Zekumë!]]></Verse>
+	<Verse VerseID="53"><![CDATA[Prej saj keni për t’i mbushur barqet!]]></Verse>
+	<Verse VerseID="54"><![CDATA[E menjëherë pas do të pini pre ujit t vluar!]]></Verse>
+	<Verse VerseID="55"><![CDATA[Do të pini si deveja e etshme!”]]></Verse>
+	<Verse VerseID="56"><![CDATA[Kjo është mirëseardhja e tyre ditën e gjykimit. ]]></Verse>
+	<Verse VerseID="57"><![CDATA[Ne u kemi krijuar juve, e përse nuk pranoni (ringjalljen)?]]></Verse>
+	<Verse VerseID="58"><![CDATA[A më tregoni për farën që e dredhni,]]></Verse>
+	<Verse VerseID="59"><![CDATA[A ju e krijoni atë, apo Ne jemi që e krijojmë?]]></Verse>
+	<Verse VerseID="60"><![CDATA[Ne e kemi caktuar (dhe barazuar) ndërmjet jush vdekjen dhe Ne nuk ka kush që mund të na pengojë. ]]></Verse>
+	<Verse VerseID="61"><![CDATA[Që t’ju zëvendësojë me ë tjerë si ju dhe t’ju krijojmë rishtazi siç nuk dini ju. ]]></Verse>
+	<Verse VerseID="62"><![CDATA[Ju e keni të njohur zanafillën e parë, e përse nuk mendoni. ]]></Verse>
+	<Verse VerseID="63"><![CDATA[A nuk e shihni atë që e mblidhni?]]></Verse>
+	<Verse VerseID="64"><![CDATA[A ju e bëni të mbijë ajo, apo Ne e bëjmë të mbijë?]]></Verse>
+	<Verse VerseID="65"><![CDATA[Sikur Ne të dëshironim, do ta bënim atë të thyer (të shkatërruar) e ju do të mbeteshit gjithmonë të habitur (duke thënë). ]]></Verse>
+	<Verse VerseID="66"><![CDATA[S’ka dyshim se ne mbetëm të dëmtuar. ]]></Verse>
+	<Verse VerseID="67"><![CDATA[Po jo, ne mbetëm pa të (të varfëruar). ]]></Verse>
+	<Verse VerseID="68"><![CDATA[A e shihni ujin që po e pini?]]></Verse>
+	<Verse VerseID="69"><![CDATA[A ju e lëshoni atë prej reve, apo Ne jemi që e lëshojmë?]]></Verse>
+	<Verse VerseID="70"><![CDATA[Sikur Ne të dëshirojmë, e bëjmë atë të njelmët, përse nuk falënderoni?]]></Verse>
+	<Verse VerseID="71"><![CDATA[A e keni parë zjarrin që ju e ndizni?]]></Verse>
+	<Verse VerseID="72"><![CDATA[A ju krijuat drurin e tij, apo Ne jemi krijues?]]></Verse>
+	<Verse VerseID="73"><![CDATA[Ne e bëmë atë si përkujtim (për zjarrin e Xhehennemit) dhe të nevojshëm për ata në vende të pabanuara (në shkretërirë). ]]></Verse>
+	<Verse VerseID="74"><![CDATA[Pra, ti lartësoje emrin e Zoti tënd të madh. ]]></Verse>
+	<Verse VerseID="75"><![CDATA[Betohem në shuarjen (përëndimin) e yjeve. ]]></Verse>
+	<Verse VerseID="76"><![CDATA[E ai është betim imadh, sikur ta dini!]]></Verse>
+	<Verse VerseID="77"><![CDATA[Se me të vërtetë ai është Kur’an i famshëm. ]]></Verse>
+	<Verse VerseID="78"><![CDATA[Është në një libër të ruajtur. ]]></Verse>
+	<Verse VerseID="79"><![CDATA[Atë nuk e prek kush, vetëm të pastrit (melaiket). ]]></Verse>
+	<Verse VerseID="80"><![CDATA[Është i zbritur prej Zotit të botëve. ]]></Verse>
+	<Verse VerseID="81"><![CDATA[A, ndaj këtij ligjërimi (Kur’ani) ju jeni që e gënjeni. ]]></Verse>
+	<Verse VerseID="82"><![CDATA[Dhe falënderimi për furnizimin tuaj, ju jeni që e gënjeni. ]]></Verse>
+	<Verse VerseID="83"><![CDATA[Përse, pra kur arrin shpirti në fyt. ]]></Verse>
+	<Verse VerseID="84"><![CDATA[E ju në atë moment shikoni (se ç’po i ngjet). ]]></Verse>
+	<Verse VerseID="85"><![CDATA[E Ne jemi më afër te se ju, por ju nuk shihni. ]]></Verse>
+	<Verse VerseID="86"><![CDATA[Dhe përse, nëse ju nuk jeni përgjegjës (për vepra),]]></Verse>
+	<Verse VerseID="87"><![CDATA[(Përse) Nuk e ktheni atë (shpirtin të mos dalë). ]]></Verse>
+	<Verse VerseID="88"><![CDATA[E nëse ai (i vdekuri) është prej të afërmëve (të Zotit). ]]></Verse>
+	<Verse VerseID="89"><![CDATA[Ai ka (te Zoti) kënaqësi, furnizim të mirë dhe Xhennet të begatshëm. ]]></Verse>
+	<Verse VerseID="90"><![CDATA[Po në qoftë se është nga të djathtët?]]></Verse>
+	<Verse VerseID="91"><![CDATA[Pra, ty të qoftë se selam prej të djathtëve (i thuhet). ]]></Verse>
+	<Verse VerseID="92"><![CDATA[E në qoftë se është prej gënjeshtarëve të humbur,]]></Verse>
+	<Verse VerseID="93"><![CDATA[Mirëseardhja e tyre është pritje me ujë të valë. ]]></Verse>
+	<Verse VerseID="94"><![CDATA[Dhe djegie nga zjarri i Xhehennemit. ]]></Verse>
+	<Verse VerseID="95"><![CDATA[E s’ka dyshim se kjo është ajo e vërteta e sigurt. ]]></Verse>
+	<Verse VerseID="96"><![CDATA[Pra ti lartëso Zotin tënd të madhëruar ]]></Verse>
+</Chapter>

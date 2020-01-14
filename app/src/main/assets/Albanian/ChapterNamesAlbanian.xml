@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE HolyQuran [
+	<!ATTLIST HolyQuran TranslationID CDATA #REQUIRED>
+	<!ATTLIST HolyQuran Writer CDATA #REQUIRED>
+	<!ATTLIST HolyQuran Language CDATA #REQUIRED>
+	<!ATTLIST HolyQuran LanguageIsoCode CDATA #REQUIRED>
+	<!ATTLIST HolyQuran Direction (rtl|ltr) #REQUIRED>
+	<!ATTLIST HolyQuran Directory CDATA #REQUIRED>
+	<!ELEMENT HolyQuran (Chapter+)>
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ATTLIST Chapter FileName CDATA #REQUIRED>
+	<!ELEMENT Chapter EMPTY>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<HolyQuran TranslationID="116" Writer="Sherif Ahmeti" Language="Albanian" LanguageIsoCode="alb" Direction="ltr" Directory="Albanian-116">
+	<Chapter ChapterID="1" ChapterName="The Opening" FileName="Chapter001.xml" />
+	<Chapter ChapterID="2" ChapterName="The Cow" FileName="Chapter002.xml" />
+	<Chapter ChapterID="3" ChapterName="The Family Of Imran" FileName="Chapter003.xml" />
+	<Chapter ChapterID="4" ChapterName="Women" FileName="Chapter004.xml" />
+	<Chapter ChapterID="5" ChapterName="The Food" FileName="Chapter005.xml" />
+	<Chapter ChapterID="6" ChapterName="The Cattle" FileName="Chapter006.xml" />
+	<Chapter ChapterID="7" ChapterName="The Elevated Place" FileName="Chapter007.xml" />
+	<Chapter ChapterID="8" ChapterName="The Spoils Of War" FileName="Chapter008.xml" />
+	<Chapter ChapterID="9" ChapterName="Repentance" FileName="Chapter009.xml" />
+	<Chapter ChapterID="10" ChapterName="Yunus" FileName="Chapter010.xml" />
+	<Chapter ChapterID="11" ChapterName="Hud" FileName="Chapter011.xml" />
+	<Chapter ChapterID="12" ChapterName="Yusuf" FileName="Chapter012.xml" />
+	<Chapter ChapterID="13" ChapterName="The Thunder" FileName="Chapter013.xml" />
+	<Chapter ChapterID="14" ChapterName="Ibrahim" FileName="Chapter014.xml" />
+	<Chapter ChapterID="15" ChapterName="The Rock" FileName="Chapter015.xml" />
+	<Chapter ChapterID="16" ChapterName="The Bee" FileName="Chapter016.xml" />
+	<Chapter ChapterID="17" ChapterName="The Israelites" FileName="Chapter017.xml" />
+	<Chapter ChapterID="18" ChapterName="The Cave" FileName="Chapter018.xml" />
+	<Chapter ChapterID="19" ChapterName="Marium" FileName="Chapter019.xml" />
+	<Chapter ChapterID="20" ChapterName="Ta Ha" FileName="Chapter020.xml" />
+	<Chapter ChapterID="21" ChapterName="The Prophets" FileName="Chapter021.xml" />
+	<Chapter ChapterID="22" ChapterName="The Pilgrimage" FileName="Chapter022.xml" />
+	<Chapter ChapterID="23" ChapterName="The Believers" FileName="Chapter023.xml" />
+	<Chapter ChapterID="24" ChapterName="The Light" FileName="Chapter024.xml" />
+	<Chapter ChapterID="25" ChapterName="The Criterion" FileName="Chapter025.xml" />
+	<Chapter ChapterID="26" ChapterName="The Poets" FileName="Chapter026.xml" />
+	<Chapter ChapterID="27" ChapterName="The Ant" FileName="Chapter027.xml" />
+	<Chapter ChapterID="28" ChapterName="The Narrative" FileName="Chapter028.xml" />
+	<Chapter ChapterID="29" ChapterName="The Spider" FileName="Chapter029.xml" />
+	<Chapter ChapterID="30" ChapterName="The Romans" FileName="Chapter030.xml" />
+	<Chapter ChapterID="31" ChapterName="Luqman" FileName="Chapter031.xml" />
+	<Chapter ChapterID="32" ChapterName="The Adoration" FileName="Chapter032.xml" />
+	<Chapter ChapterID="33" ChapterName="The Allies" FileName="Chapter033.xml" />
+	<Chapter ChapterID="34" ChapterName="Saba" FileName="Chapter034.xml" />
+	<Chapter ChapterID="35" ChapterName="The Originator" FileName="Chapter035.xml" />
+	<Chapter ChapterID="36" ChapterName="Ya Seen" FileName="Chapter036.xml" />
+	<Chapter ChapterID="37" ChapterName="The Rangers" FileName="Chapter037.xml" />
+	<Chapter ChapterID="38" ChapterName="Suad" FileName="Chapter038.xml" />
+	<Chapter ChapterID="39" ChapterName="The Companies" FileName="Chapter039.xml" />
+	<Chapter ChapterID="40" ChapterName="The Believer" FileName="Chapter040.xml" />
+	<Chapter ChapterID="41" ChapterName="Ha Mim" FileName="Chapter041.xml" />
+	<Chapter ChapterID="42" ChapterName="The Counsel" FileName="Chapter042.xml" />
+	<Chapter ChapterID="43" ChapterName="The Embellishment" FileName="Chapter043.xml" />
+	<Chapter ChapterID="44" ChapterName="The Evident Smoke" FileName="Chapter044.xml" />
+	<Chapter ChapterID="45" ChapterName="The Kneeling" FileName="Chapter045.xml" />
+	<Chapter ChapterID="46" ChapterName="The Sandhills" FileName="Chapter046.xml" />
+	<Chapter ChapterID="47" ChapterName="Muhammad" FileName="Chapter047.xml" />
+	<Chapter ChapterID="48" ChapterName="The Victory" FileName="Chapter048.xml" />
+	<Chapter ChapterID="49" ChapterName="The Chambers" FileName="Chapter049.xml" />
+	<Chapter ChapterID="50" ChapterName="Qaf" FileName="Chapter050.xml" />
+	<Chapter ChapterID="51" ChapterName="The Scatterers" FileName="Chapter051.xml" />
+	<Chapter ChapterID="52" ChapterName="The Mountain" FileName="Chapter052.xml" />
+	<Chapter ChapterID="53" ChapterName="The Star" FileName="Chapter053.xml" />
+	<Chapter ChapterID="54" ChapterName="The Moon" FileName="Chapter054.xml" />
+	<Chapter ChapterID="55" ChapterName="The Beneficient" FileName="Chapter055.xml" />
+	<Chapter ChapterID="56" ChapterName="The Great Event" FileName="Chapter056.xml" />
+	<Chapter ChapterID="57" ChapterName="The Iron" FileName="Chapter057.xml" />
+	<Chapter ChapterID="58" ChapterName="The Pleading One" FileName="Chapter058.xml" />
+	<Chapter ChapterID="59" ChapterName="The Banishment" FileName="Chapter059.xml" />
+	<Chapter ChapterID="60" ChapterName="The Examined One" FileName="Chapter060.xml" />
+	<Chapter ChapterID="61" ChapterName="The Ranks" FileName="Chapter061.xml" />
+	<Chapter ChapterID="62" ChapterName="Friday" FileName="Chapter062.xml" />
+	<Chapter ChapterID="63" ChapterName="The Hypocrites" FileName="Chapter063.xml" />
+	<Chapter ChapterID="64" ChapterName="Loss And Gain" FileName="Chapter064.xml" />
+	<Chapter ChapterID="65" ChapterName="The Divorce" FileName="Chapter065.xml" />
+	<Chapter ChapterID="66" ChapterName="The Prohibition" FileName="Chapter066.xml" />
+	<Chapter ChapterID="67" ChapterName="The Kingdom" FileName="Chapter067.xml" />
+	<Chapter ChapterID="68" ChapterName="The Pen" FileName="Chapter068.xml" />
+	<Chapter ChapterID="69" ChapterName="The Sure Calamity" FileName="Chapter069.xml" />
+	<Chapter ChapterID="70" ChapterName="The Ways Of Ascent" FileName="Chapter070.xml" />
+	<Chapter ChapterID="71" ChapterName="Nuh" FileName="Chapter071.xml" />
+	<Chapter ChapterID="72" ChapterName="The Jinn" FileName="Chapter072.xml" />
+	<Chapter ChapterID="73" ChapterName="The Wrapped Up" FileName="Chapter073.xml" />
+	<Chapter ChapterID="74" ChapterName="The Clothe Done" FileName="Chapter074.xml" />
+	<Chapter ChapterID="75" ChapterName="The Resurrection" FileName="Chapter075.xml" />
+	<Chapter ChapterID="76" ChapterName="The Man" FileName="Chapter076.xml" />
+	<Chapter ChapterID="77" ChapterName="The Emissaries" FileName="Chapter077.xml" />
+	<Chapter ChapterID="78" ChapterName="The Great Event" FileName="Chapter078.xml" />
+	<Chapter ChapterID="79" ChapterName="Those Who Pull Out" FileName="Chapter079.xml" />
+	<Chapter ChapterID="80" ChapterName="He Frowned" FileName="Chapter080.xml" />
+	<Chapter ChapterID="81" ChapterName="The Covering Up" FileName="Chapter081.xml" />
+	<Chapter ChapterID="82" ChapterName="The Cleaving Asund" FileName="Chapter082.xml" />
+	<Chapter ChapterID="83" ChapterName="The Defrauders" FileName="Chapter083.xml" />
+	<Chapter ChapterID="84" ChapterName="The Bursting Asund" FileName="Chapter084.xml" />
+	<Chapter ChapterID="85" ChapterName="The Mansions Of The Stars" FileName="Chapter085.xml" />
+	<Chapter ChapterID="86" ChapterName="The Night-Comer" FileName="Chapter086.xml" />
+	<Chapter ChapterID="87" ChapterName="The Most High" FileName="Chapter087.xml" />
+	<Chapter ChapterID="88" ChapterName="The Overwhelming" FileName="Chapter088.xml" />
+	<Chapter ChapterID="89" ChapterName="The Daybreak" FileName="Chapter089.xml" />
+	<Chapter ChapterID="90" ChapterName="The City" FileName="Chapter090.xml" />
+	<Chapter ChapterID="91" ChapterName="The Sun" FileName="Chapter091.xml" />
+	<Chapter ChapterID="92" ChapterName="The Night" FileName="Chapter092.xml" />
+	<Chapter ChapterID="93" ChapterName="The Early Hours" FileName="Chapter093.xml" />
+	<Chapter ChapterID="94" ChapterName="The Expansion" FileName="Chapter094.xml" />
+	<Chapter ChapterID="95" ChapterName="The Fig" FileName="Chapter095.xml" />
+	<Chapter ChapterID="96" ChapterName="The Clot" FileName="Chapter096.xml" />
+	<Chapter ChapterID="97" ChapterName="The Majesty" FileName="Chapter097.xml" />
+	<Chapter ChapterID="98" ChapterName="The Clear Evidence" FileName="Chapter098.xml" />
+	<Chapter ChapterID="99" ChapterName="The Shaking" FileName="Chapter099.xml" />
+	<Chapter ChapterID="100" ChapterName="The Assaulters" FileName="Chapter100.xml" />
+	<Chapter ChapterID="101" ChapterName="The Terrible Calam" FileName="Chapter101.xml" />
+	<Chapter ChapterID="102" ChapterName="The Multiplicatio" FileName="Chapter102.xml" />
+	<Chapter ChapterID="103" ChapterName="Time" FileName="Chapter103.xml" />
+	<Chapter ChapterID="104" ChapterName="The Slanderer" FileName="Chapter104.xml" />
+	<Chapter ChapterID="105" ChapterName="The Elephant" FileName="Chapter105.xml" />
+	<Chapter ChapterID="106" ChapterName="The Qureaish" FileName="Chapter106.xml" />
+	<Chapter ChapterID="107" ChapterName="The Daily Necessar" FileName="Chapter107.xml" />
+	<Chapter ChapterID="108" ChapterName="The Heavenly Fount" FileName="Chapter108.xml" />
+	<Chapter ChapterID="109" ChapterName="The Unbelievers" FileName="Chapter109.xml" />
+	<Chapter ChapterID="110" ChapterName="The Help" FileName="Chapter110.xml" />
+	<Chapter ChapterID="111" ChapterName="The Flame" FileName="Chapter111.xml" />
+	<Chapter ChapterID="112" ChapterName="The Unity" FileName="Chapter112.xml" />
+	<Chapter ChapterID="113" ChapterName="The Dawn" FileName="Chapter113.xml" />
+	<Chapter ChapterID="114" ChapterName="The Men" FileName="Chapter114.xml" />
+</HolyQuran>

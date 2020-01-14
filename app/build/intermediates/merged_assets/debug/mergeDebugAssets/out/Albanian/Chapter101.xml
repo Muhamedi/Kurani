@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="101" ChapterName="The Terrible Calam">
+	<Verse VerseID="1"><![CDATA[Krisma e kijametit. ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Ç´ka është krisma? ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Dhe ç’të mësoi ty se ç’është krisma? ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Ajo është ditë kur njerëzit bëhen si insekte të shpërndara. ]]></Verse>
+	<Verse VerseID="5"><![CDATA[Dhe kodrat bëhen si leshi i shprishur. ]]></Verse>
+	<Verse VerseID="6"><![CDATA[E sa i përket atij që i rëndohet peshoja e veprave të tij, ]]></Verse>
+	<Verse VerseID="7"><![CDATA[Ai është në një jetë të këndshme. ]]></Verse>
+	<Verse VerseID="8"><![CDATA[Ndërsa, atij që ka peshojën e lehtë të veprave të tij, ]]></Verse>
+	<Verse VerseID="9"><![CDATA[Vendi i tij do të jetë në Havije. ]]></Verse>
+	<Verse VerseID="10"><![CDATA[E ç’është ajo që të njoftoi ç’është ai (Havije)? ]]></Verse>
+	<Verse VerseID="11"><![CDATA[Është zjarri me nxehtësi shumë të lartë.  ]]></Verse>
+</Chapter>

@@ -1,0 +1,4 @@
+#Wed Feb 27 19:32:08 CET 2019
+base.0=D\:\\Kurani\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex

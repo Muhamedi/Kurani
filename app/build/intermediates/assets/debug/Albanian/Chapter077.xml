@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="77" ChapterName="The Emissaries">
+	<Verse VerseID="1"><![CDATA[Pasha erërat që fryejnë njëpasnjë (pandërprerë)! ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Që janë shumë të stuhishme e shkaktojnë furtunë. ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Pasha engjëjt që u është besuar shpërndarja e reve dhe që i shpërndajnë. ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Dhe që ndajnë qartë (të vërtetën nga e pavërteta). ]]></Verse>
+	<Verse VerseID="5"><![CDATA[Dhe ata që sjellin shpallje (libra të Zotit, te pejgamberët). ]]></Verse>
+	<Verse VerseID="6"><![CDATA[Si arsyetim ose si vërejtje. ]]></Verse>
+	<Verse VerseID="7"><![CDATA[S’ka dyshim se ajo që premtoheni ka për të ndodh pa tjetër. ]]></Verse>
+	<Verse VerseID="8"><![CDATA[Kur yjet të shuhen. ]]></Verse>
+	<Verse VerseID="9"><![CDATA[Dhe kur qielli të hapet, ]]></Verse>
+	<Verse VerseID="10"><![CDATA[Dhe kur kodrat të copëtohen, ]]></Verse>
+	<Verse VerseID="11"><![CDATA[Dhe kur të dërguarve u është caktuar koha? ]]></Verse>
+	<Verse VerseID="12"><![CDATA[E për cilën ditë atyre u është caktuar koha? ]]></Verse>
+	<Verse VerseID="13"><![CDATA[Për ditën e gjykimit (kur drejtësia e Zotit ndan të mirën nga e keqja). ]]></Verse>
+	<Verse VerseID="14"><![CDATA[E ku e di ti se çka është dita e gjykimit? ]]></Verse>
+	<Verse VerseID="15"><![CDATA[Atë ditë është shkatërrim për ata që përgënjeshtruan. ]]></Verse>
+	<Verse VerseID="16"><![CDATA[A nuk i kemi është shkatërrim Ne popujt më të hershëm? ]]></Verse>
+	<Verse VerseID="17"><![CDATA[Dhe pastaj pas tyre ua shoqëruam të tjerë më të vonshëm. ]]></Verse>
+	<Verse VerseID="18"><![CDATA[Ne ashtu bëjmë me kriminelët. ]]></Verse>
+	<Verse VerseID="19"><![CDATA[Atë ditë është mjerim i madh për ata që përgënjeshtruan. ]]></Verse>
+	<Verse VerseID="20"><![CDATA[A nuk u kemi krijuar juve nga një lëng i dobët? ]]></Verse>
+	<Verse VerseID="21"><![CDATA[Dhe atë e vendosëm në një vend të sigurt. ]]></Verse>
+	<Verse VerseID="22"><![CDATA[Për deri në një kohë të caktuar. ]]></Verse>
+	<Verse VerseID="23"><![CDATA[Dhe Ne bëmë përcaktimin e krijimit. Sa përcaktues të mirë jemi! ]]></Verse>
+	<Verse VerseID="24"><![CDATA[Atë ditë është shkatërrim për ata që nuk e njohën fuqinë tonë. ]]></Verse>
+	<Verse VerseID="25"><![CDATA[A nuk e bëmë Ne tokën që në gjirin e vet mban, ]]></Verse>
+	<Verse VerseID="26"><![CDATA[Të gjallë dhe të vdekur? ]]></Verse>
+	<Verse VerseID="27"><![CDATA[Dhe në të kemi vënë kodra të forta e të larta dhe ju dhamë të pini ujë që ua shuan etjen. ]]></Verse>
+	<Verse VerseID="28"><![CDATA[Atë ditë është mjerim për ata që përgënjeshtruan,. ]]></Verse>
+	<Verse VerseID="29"><![CDATA[(u thuhet) Shkoni te ai (Xhehennemi) që ju e konsuderuat rrenë. ]]></Verse>
+	<Verse VerseID="30"><![CDATA[Shkoni te ajo hije (mjegull) që ka tri degëzime. ]]></Verse>
+	<Verse VerseID="31"><![CDATA[Që nuk bën as hije, as nuk mbron prej flakës. ]]></Verse>
+	<Verse VerseID="32"><![CDATA[Ai (Xhehennemi) hedh gaca të mëdha si ndonjë kështjellë. ]]></Verse>
+	<Verse VerseID="33"><![CDATA[E që janë si të ishin deve të verdha (shumë të shpejta). ]]></Verse>
+	<Verse VerseID="34"><![CDATA[Atë ditë është shkatërrim për mohuesit. ]]></Verse>
+	<Verse VerseID="35"><![CDATA[Kjo është një ditë që ata nuk flasin. ]]></Verse>
+	<Verse VerseID="36"><![CDATA[Atyre as nuk u lejohet që të arsyetohen. ]]></Verse>
+	<Verse VerseID="37"><![CDATA[Atë ditë, mjerë ata që përgënjeshtruan! ]]></Verse>
+	<Verse VerseID="38"><![CDATA[Kjo është dita e gjykimit, u kemi tubuar juve dhe të mëparshmit. ]]></Verse>
+	<Verse VerseID="39"><![CDATA[Dhe nëse keni ndonjë dredhi, atëherë bëni dredhira! ]]></Verse>
+	<Verse VerseID="40"><![CDATA[Atë ditë është shkatërrim për ata që nuk besuan. ]]></Verse>
+	<Verse VerseID="41"><![CDATA[Dhe, nuk ka dyshim se të devotshmit do të jenë nën hije pranë burimeve, ]]></Verse>
+	<Verse VerseID="42"><![CDATA[Dhe kanë pemë çfarë të dëshirojnë. ]]></Verse>
+	<Verse VerseID="43"><![CDATA[Hani e pini shijshëm e me ëndje, për atë e keni vepruar. ]]></Verse>
+	<Verse VerseID="44"><![CDATA[Ne kështu i shpërblejmë mirëbërësit. ]]></Verse>
+	<Verse VerseID="45"><![CDATA[Atë ditë është mjerim për përgënjeshtuesit. ]]></Verse>
+	<Verse VerseID="46"><![CDATA[Ju (jobesimtarë në dynja) hani e kënaquni përpak kohë, sepse vërtet ju jeni rrebelë. ]]></Verse>
+	<Verse VerseID="47"><![CDATA[Atë ditë është mjerim për ata që mohuan të mirat e Zotit. ]]></Verse>
+	<Verse VerseID="48"><![CDATA[Dhe kur atyre u thuhej: “Përkuluni!”, ata nuk përkuleshin. ]]></Verse>
+	<Verse VerseID="49"><![CDATA[Atë ditë është mjerim për ata që përgënjeshtuan. ]]></Verse>
+	<Verse VerseID="50"><![CDATA[Pra, cilës fjale (libër) pas këtij (Kur’anit) i besojnë?  ]]></Verse>
+</Chapter>

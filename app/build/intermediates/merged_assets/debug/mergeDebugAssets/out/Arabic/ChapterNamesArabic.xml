@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE HolyQuran [
+	<!ATTLIST HolyQuran TranslationID CDATA #REQUIRED>
+	<!ATTLIST HolyQuran Writer CDATA #REQUIRED>
+	<!ATTLIST HolyQuran Language CDATA #REQUIRED>
+	<!ATTLIST HolyQuran LanguageIsoCode CDATA #REQUIRED>
+	<!ATTLIST HolyQuran Direction (rtl|ltr) #REQUIRED>
+	<!ATTLIST HolyQuran Directory CDATA #REQUIRED>
+	<!ELEMENT HolyQuran (Chapter+)>
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ATTLIST Chapter FileName CDATA #REQUIRED>
+	<!ELEMENT Chapter EMPTY>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<!--
+Tanzil Quran Text
+Copyright (C) 2008-2009 Tanzil.info
+License: Creative Commons 3.0 Unported (by-nd)
+
+This copy of quran text is carefully produced, highly
+verified and continuously monitored by a group of specialists
+at the Tanzil project.
+
+TERMS OF USE:
+- Permission is granted to copy and distribute verbatim copies
+  of this text, but CHANGING IT IS NOT ALLOWED.
+
+- This quran text can be used in any website or application,
+  provided its source (Tanzil.info) is clearly indicated, and
+  a link is made to http://tanzil.info to enable users to keep
+  track of changes.
+
+- This copyright notice shall be included in all verbatim copies
+  of the text, and shall be reproduced appropriately in all files
+  derived from or containing substantial portion of this text.
+
+  Please check updates at: http://tanzil.info/updates/
+-->
+<HolyQuran TranslationID="1" Writer="(Original Book)" Language="Arabic" LanguageIsoCode="ara" Direction="rtl" Directory="Arabic-1">
+	<Chapter ChapterID="1" ChapterName="الفاتحة" FileName="Chapter001.xml" />
+	<Chapter ChapterID="2" ChapterName="البقرة" FileName="Chapter002.xml" />
+	<Chapter ChapterID="3" ChapterName="ال عمران" FileName="Chapter003.xml" />
+	<Chapter ChapterID="4" ChapterName="النساء" FileName="Chapter004.xml" />
+	<Chapter ChapterID="5" ChapterName="المائدة" FileName="Chapter005.xml" />
+	<Chapter ChapterID="6" ChapterName="الانعام" FileName="Chapter006.xml" />
+	<Chapter ChapterID="7" ChapterName="الاعراف" FileName="Chapter007.xml" />
+	<Chapter ChapterID="8" ChapterName="الانفال" FileName="Chapter008.xml" />
+	<Chapter ChapterID="9" ChapterName="التوبة" FileName="Chapter009.xml" />
+	<Chapter ChapterID="10" ChapterName="يونس" FileName="Chapter010.xml" />
+	<Chapter ChapterID="11" ChapterName="هود" FileName="Chapter011.xml" />
+	<Chapter ChapterID="12" ChapterName="يوسف" FileName="Chapter012.xml" />
+	<Chapter ChapterID="13" ChapterName="الرعد" FileName="Chapter013.xml" />
+	<Chapter ChapterID="14" ChapterName="ابراهيم" FileName="Chapter014.xml" />
+	<Chapter ChapterID="15" ChapterName="الحجر" FileName="Chapter015.xml" />
+	<Chapter ChapterID="16" ChapterName="النحل" FileName="Chapter016.xml" />
+	<Chapter ChapterID="17" ChapterName="الاسراء" FileName="Chapter017.xml" />
+	<Chapter ChapterID="18" ChapterName="الكهف" FileName="Chapter018.xml" />
+	<Chapter ChapterID="19" ChapterName="مريم" FileName="Chapter019.xml" />
+	<Chapter ChapterID="20" ChapterName="طه" FileName="Chapter020.xml" />
+	<Chapter ChapterID="21" ChapterName="الانبياء" FileName="Chapter021.xml" />
+	<Chapter ChapterID="22" ChapterName="الحج" FileName="Chapter022.xml" />
+	<Chapter ChapterID="23" ChapterName="المؤمنون" FileName="Chapter023.xml" />
+	<Chapter ChapterID="24" ChapterName="النور" FileName="Chapter024.xml" />
+	<Chapter ChapterID="25" ChapterName="الفرقان" FileName="Chapter025.xml" />
+	<Chapter ChapterID="26" ChapterName="الشعراء" FileName="Chapter026.xml" />
+	<Chapter ChapterID="27" ChapterName="النمل" FileName="Chapter027.xml" />
+	<Chapter ChapterID="28" ChapterName="القصص" FileName="Chapter028.xml" />
+	<Chapter ChapterID="29" ChapterName="العنكبوت" FileName="Chapter029.xml" />
+	<Chapter ChapterID="30" ChapterName="الروم" FileName="Chapter030.xml" />
+	<Chapter ChapterID="31" ChapterName="لقمان" FileName="Chapter031.xml" />
+	<Chapter ChapterID="32" ChapterName="السجدة" FileName="Chapter032.xml" />
+	<Chapter ChapterID="33" ChapterName="الاحزاب" FileName="Chapter033.xml" />
+	<Chapter ChapterID="34" ChapterName="سبأ" FileName="Chapter034.xml" />
+	<Chapter ChapterID="35" ChapterName="فاطر" FileName="Chapter035.xml" />
+	<Chapter ChapterID="36" ChapterName="يس" FileName="Chapter036.xml" />
+	<Chapter ChapterID="37" ChapterName="الصافات" FileName="Chapter037.xml" />
+	<Chapter ChapterID="38" ChapterName="ص" FileName="Chapter038.xml" />
+	<Chapter ChapterID="39" ChapterName="الزمر" FileName="Chapter039.xml" />
+	<Chapter ChapterID="40" ChapterName="غافر" FileName="Chapter040.xml" />
+	<Chapter ChapterID="41" ChapterName="فصلت" FileName="Chapter041.xml" />
+	<Chapter ChapterID="42" ChapterName="الشورى" FileName="Chapter042.xml" />
+	<Chapter ChapterID="43" ChapterName="الزخرف" FileName="Chapter043.xml" />
+	<Chapter ChapterID="44" ChapterName="الدخان" FileName="Chapter044.xml" />
+	<Chapter ChapterID="45" ChapterName="الجاثية" FileName="Chapter045.xml" />
+	<Chapter ChapterID="46" ChapterName="الاحقاف" FileName="Chapter046.xml" />
+	<Chapter ChapterID="47" ChapterName="محمد" FileName="Chapter047.xml" />
+	<Chapter ChapterID="48" ChapterName="الفتح" FileName="Chapter048.xml" />
+	<Chapter ChapterID="49" ChapterName="الحجرات" FileName="Chapter049.xml" />
+	<Chapter ChapterID="50" ChapterName="ق" FileName="Chapter050.xml" />
+	<Chapter ChapterID="51" ChapterName="الذاريات" FileName="Chapter051.xml" />
+	<Chapter ChapterID="52" ChapterName="الطور" FileName="Chapter052.xml" />
+	<Chapter ChapterID="53" ChapterName="النجم" FileName="Chapter053.xml" />
+	<Chapter ChapterID="54" ChapterName="القمر" FileName="Chapter054.xml" />
+	<Chapter ChapterID="55" ChapterName="الرحمن" FileName="Chapter055.xml" />
+	<Chapter ChapterID="56" ChapterName="الواقعة" FileName="Chapter056.xml" />
+	<Chapter ChapterID="57" ChapterName="الحديد" FileName="Chapter057.xml" />
+	<Chapter ChapterID="58" ChapterName="المجادلة" FileName="Chapter058.xml" />
+	<Chapter ChapterID="59" ChapterName="الحشر" FileName="Chapter059.xml" />
+	<Chapter ChapterID="60" ChapterName="الممتحنة" FileName="Chapter060.xml" />
+	<Chapter ChapterID="61" ChapterName="الصف" FileName="Chapter061.xml" />
+	<Chapter ChapterID="62" ChapterName="الجمعة" FileName="Chapter062.xml" />
+	<Chapter ChapterID="63" ChapterName="المنافقون" FileName="Chapter063.xml" />
+	<Chapter ChapterID="64" ChapterName="التغابن" FileName="Chapter064.xml" />
+	<Chapter ChapterID="65" ChapterName="الطلاق" FileName="Chapter065.xml" />
+	<Chapter ChapterID="66" ChapterName="التحريم" FileName="Chapter066.xml" />
+	<Chapter ChapterID="67" ChapterName="الملك" FileName="Chapter067.xml" />
+	<Chapter ChapterID="68" ChapterName="القلم" FileName="Chapter068.xml" />
+	<Chapter ChapterID="69" ChapterName="الحاقة" FileName="Chapter069.xml" />
+	<Chapter ChapterID="70" ChapterName="المعارج" FileName="Chapter070.xml" />
+	<Chapter ChapterID="71" ChapterName="نوح" FileName="Chapter071.xml" />
+	<Chapter ChapterID="72" ChapterName="الجن" FileName="Chapter072.xml" />
+	<Chapter ChapterID="73" ChapterName="المزمل" FileName="Chapter073.xml" />
+	<Chapter ChapterID="74" ChapterName="المدثر" FileName="Chapter074.xml" />
+	<Chapter ChapterID="75" ChapterName="القيامة" FileName="Chapter075.xml" />
+	<Chapter ChapterID="76" ChapterName="الانسان" FileName="Chapter076.xml" />
+	<Chapter ChapterID="77" ChapterName="المرسلات" FileName="Chapter077.xml" />
+	<Chapter ChapterID="78" ChapterName="النبا" FileName="Chapter078.xml" />
+	<Chapter ChapterID="79" ChapterName="النازعات" FileName="Chapter079.xml" />
+	<Chapter ChapterID="80" ChapterName="عبس" FileName="Chapter080.xml" />
+	<Chapter ChapterID="81" ChapterName="التكوير" FileName="Chapter081.xml" />
+	<Chapter ChapterID="82" ChapterName="الانفطار" FileName="Chapter082.xml" />
+	<Chapter ChapterID="83" ChapterName="المطففين" FileName="Chapter083.xml" />
+	<Chapter ChapterID="84" ChapterName="الانشقاق" FileName="Chapter084.xml" />
+	<Chapter ChapterID="85" ChapterName="البروج" FileName="Chapter085.xml" />
+	<Chapter ChapterID="86" ChapterName="الطارق" FileName="Chapter086.xml" />
+	<Chapter ChapterID="87" ChapterName="الاعلى" FileName="Chapter087.xml" />
+	<Chapter ChapterID="88" ChapterName="الغاشية" FileName="Chapter088.xml" />
+	<Chapter ChapterID="89" ChapterName="الفجر" FileName="Chapter089.xml" />
+	<Chapter ChapterID="90" ChapterName="البلد" FileName="Chapter090.xml" />
+	<Chapter ChapterID="91" ChapterName="الشمس" FileName="Chapter091.xml" />
+	<Chapter ChapterID="92" ChapterName="الليل" FileName="Chapter092.xml" />
+	<Chapter ChapterID="93" ChapterName="الضحى" FileName="Chapter093.xml" />
+	<Chapter ChapterID="94" ChapterName="الانشراح" FileName="Chapter094.xml" />
+	<Chapter ChapterID="95" ChapterName="التين" FileName="Chapter095.xml" />
+	<Chapter ChapterID="96" ChapterName="العلق" FileName="Chapter096.xml" />
+	<Chapter ChapterID="97" ChapterName="القدر" FileName="Chapter097.xml" />
+	<Chapter ChapterID="98" ChapterName="البينة" FileName="Chapter098.xml" />
+	<Chapter ChapterID="99" ChapterName="الزلزلة" FileName="Chapter099.xml" />
+	<Chapter ChapterID="100" ChapterName="العاديات" FileName="Chapter100.xml" />
+	<Chapter ChapterID="101" ChapterName="القارعة" FileName="Chapter101.xml" />
+	<Chapter ChapterID="102" ChapterName="التكاثر" FileName="Chapter102.xml" />
+	<Chapter ChapterID="103" ChapterName="العصر" FileName="Chapter103.xml" />
+	<Chapter ChapterID="104" ChapterName="الهمزة" FileName="Chapter104.xml" />
+	<Chapter ChapterID="105" ChapterName="الفيل" FileName="Chapter105.xml" />
+	<Chapter ChapterID="106" ChapterName="قريش" FileName="Chapter106.xml" />
+	<Chapter ChapterID="107" ChapterName="الماعون" FileName="Chapter107.xml" />
+	<Chapter ChapterID="108" ChapterName="الكوثر" FileName="Chapter108.xml" />
+	<Chapter ChapterID="109" ChapterName="الكافرون" FileName="Chapter109.xml" />
+	<Chapter ChapterID="110" ChapterName="النصر" FileName="Chapter110.xml" />
+	<Chapter ChapterID="111" ChapterName="المسد" FileName="Chapter111.xml" />
+	<Chapter ChapterID="112" ChapterName="الاخلاص" FileName="Chapter112.xml" />
+	<Chapter ChapterID="113" ChapterName="الفلق" FileName="Chapter113.xml" />
+	<Chapter ChapterID="114" ChapterName="الناس" FileName="Chapter114.xml" />
+</HolyQuran>

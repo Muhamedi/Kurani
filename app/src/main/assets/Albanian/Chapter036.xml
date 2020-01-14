@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="36" ChapterName="Ya Seen">
+	<Verse VerseID="1"><![CDATA[Ja, Sinë! ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Pasha Kur’anin e pacenueshëm në urtësinë e tij të lartë. ]]></Verse>
+	<Verse VerseID="3"><![CDATA[S’ka dyshim se ti (Muhammed) je prej të dërguarve. ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Je në një rrugë të drejtë. ]]></Verse>
+	<Verse VerseID="5"><![CDATA[(Kur’ani është) Zbritje e plotfuqishmit, e Mëshiruesit. ]]></Verse>
+	<Verse VerseID="6"><![CDATA[Për t’ia tërhequr një populli, që të parët e tyre nuk u është tërhequr, e për atë shkak ata janë të hutuar. ]]></Verse>
+	<Verse VerseID="7"><![CDATA[Për Zotin tashmë ka marrë fund (thënia) shumicës së tyre, andaj ata edhe nuk besojnë. ]]></Verse>
+	<Verse VerseID="8"><![CDATA[Ne u kemi varë në qafat e tyre pranga e ato u arrijnë deri në nofulla, andaj ata mbesin me koka lart. ]]></Verse>
+	<Verse VerseID="9"><![CDATA[Ne u kemi vënë edhe para tyre pendë edhe mbrapa tyre pendë dhe ua kemi mbuluar sytë, prandaj ata nuk shohin. ]]></Verse>
+	<Verse VerseID="10"><![CDATA[Dhe për ata është e njejtë, a ua tërhoqe vërejtjen a nuk ua tërhoqe, ata nuk besojnë. ]]></Verse>
+	<Verse VerseID="11"><![CDATA[Ti ia tërheq vërejtjen vetëm atij që e përvetson Kur’anin dhe i frikësohet Mëshiruesit dhe kur është vetëm (i papashëm prej njerëzve), pra jepi myzhde atij prë falje dhe shpërblim të mirë. ]]></Verse>
+	<Verse VerseID="12"><![CDATA[Vërtet, Ne i ngjallim të vdekurit dhe i shkruajmë veprat; gjurmët e tyre dhe çdo gjë kemi regjistruar në librin e ruajtur (lehvi mahvudh). ]]></Verse>
+	<Verse VerseID="13"><![CDATA[Përmendju atyre një shembull të banorëve të fshatit, kur atyre u patë ardhur të dërguarit. ]]></Verse>
+	<Verse VerseID="14"><![CDATA[Kur Ne dërguam te ata dy, e ata i përgënjeshtruan që të dy, atëherë i përforcum me një të tretë dhe u thanë: “Ne jemi të dërguar te ju. ]]></Verse>
+	<Verse VerseID="15"><![CDATA[Ata (fshatarët) thanë: “Ju nuk jeni tjetër, vetëm se njerëz sikurse ne dhe se All-llahu nuk u ka shpallur asgjë; ju nuk jeni tjetër vetëm se rrenacakë. ]]></Verse>
+	<Verse VerseID="16"><![CDATA[Ata thanë: “Zoti ynë e di se me të vërtetë ne jemi të dërguar te ju. ]]></Verse>
+	<Verse VerseID="17"><![CDATA[Dhe nuk jemi të aobliguar për tjetër, përveç t’ju kumtojmë ashtu qartë. ]]></Verse>
+	<Verse VerseID="18"><![CDATA[Ata (fshatarët) thanë: “Ne parandiejmë kob me ju dhe nëse nuk tërhiqeni, ne do t’ju gyrëzojmë dhe do të përjetoni ndëshkim të idhët prej nesh. ]]></Verse>
+	<Verse VerseID="19"><![CDATA[Ata (të dërguarit) thanë: “Fati i keq është i juaji, a pse u këshilluat, a (na kërcënoheni)? Jo, por ju jeni popull i shfrenuar!” ]]></Verse>
+	<Verse VerseID="20"><![CDATA[Dhe prej skajit më të largët të qytetit erdhi një njeri qëngutej e tha: “O populli im, dëgjoni të dërguarit!” ]]></Verse>
+	<Verse VerseID="21"><![CDATA[Dëgjoni atë që nuk kërkon prej jush ndonjë shpërblim dhe janë udhërrëfyes! ]]></Verse>
+	<Verse VerseID="22"><![CDATA[E, ç’kam unë që të mos e adhuroj atë që më krijoi dhe, te Ai ktheheni. ]]></Verse>
+	<Verse VerseID="23"><![CDATA[A mos do të pranoj zota tjerë pos Tij, e nëse do Mëshiruesi të më godasë me ndonjë të keqe, ndërmjetësimi i tyre nuk do të më vlejë asgjë,e as që do të më shpëtjnë. ]]></Verse>
+	<Verse VerseID="24"><![CDATA[Unë do të jem atëherë në një humbje të hapët. ]]></Verse>
+	<Verse VerseID="25"><![CDATA[Unë i kam besuar Zotit tuaj, pra më dëgjoni!” ]]></Verse>
+	<Verse VerseID="26"><![CDATA[Atij i është thënë: “Hyn në Xhennet! e ai tha: “Ah, sikur ta dinte populli im, ]]></Verse>
+	<Verse VerseID="27"><![CDATA[për çka më fali Zoti im dhe më bëri prej të nderuarve!” ]]></Verse>
+	<Verse VerseID="28"><![CDATA[Pas tij, Ne nuk zbritëm ndonjë ushtri nga qieeli kundër popullit të tij, e as që ishte vendimi yni të zbresim tjetër, ]]></Verse>
+	<Verse VerseID="29"><![CDATA[përveç një britmë të tmerrshme, kur qe, ata të ftohur (të vdekur). ]]></Verse>
+	<Verse VerseID="30"><![CDATA[O sa dëshprim i madh për robërit që nuk u erdhi ndonjë i dërguar, vetëm se ata u tallën me të. ]]></Verse>
+	<Verse VerseID="31"><![CDATA[A nuk e panë ata se sa gjenerata kemi zhdukur para tyre dhe ata nuk u kthyen. ]]></Verse>
+	<Verse VerseID="32"><![CDATA[Dhe të gjithë, të tubuar, do të paraqiten pranë Nesh. ]]></Verse>
+	<Verse VerseID="33"><![CDATA[Dhe për ata është argument (për fuqinë e Zotit) toka e vdekur, të cilën Ne e ngjallim, nxjerrim prej saj drith nga i cili ata hanë. ]]></Verse>
+	<Verse VerseID="34"><![CDATA[Dhe në të Ne u kemi bërë kpshte hurmash e rrushi dhe në të u kemi dhënë burime (uji). ]]></Verse>
+	<Verse VerseID="35"><![CDATA[Ashtu që ata të hanë nga ata fruta dhe nga çka prodhojnë vetë duart e tyre. A i gëzojnë këto dhe nik falënderojnë. ]]></Verse>
+	<Verse VerseID="36"><![CDATA[I pastër nga të metat është Ai që krijoi të gjitha llojet (çiftet) nga çka mban toka, nga vetë ata dhe nga çka ata nuk dinë. ]]></Verse>
+	<Verse VerseID="37"><![CDATA[Për ata është argument edhe nata, prej të cilës largojmë ditën, kurse ata mbesin në terr. ]]></Verse>
+	<Verse VerseID="38"><![CDATA[Edhe dielli udhëton për në kufirin e vet (në cakun përfundimtar). Ai është (udhëtim) përcaktim i ngadhnjyesit, të dijshmit. ]]></Verse>
+	<Verse VerseID="39"><![CDATA[Edhe hënës i kemi caktuar (pozicionet) derisa të kthehet në trajtën e harku (rrem i hurmës së tharë). ]]></Verse>
+	<Verse VerseID="40"><![CDATA[As dielli nuk mund ta arrijë hënën, e as nata para ditës po secili noton në një galaksion. ]]></Verse>
+	<Verse VerseID="41"><![CDATA[Argument për ta është edhe ajo se Ne pasardhësit e tyre (të Ademit) i vartëm në anije të mbushur përplot. ]]></Verse>
+	<Verse VerseID="42"><![CDATA[Dhe ngjashëm me të, u krijuam atyre diçka që t’i hipin. ]]></Verse>
+	<Verse VerseID="43"><![CDATA[E sikur të duam Ne, i i përmbytim ata, e nuk ka efekt as lutja e tyre dhe as që do të shpëtonin. ]]></Verse>
+	<Verse VerseID="44"><![CDATA[Përveç nga mëshira Jonë ndaj tyre, dhe që të përjetojnë të mirat deri në një kohë të caktuar. ]]></Verse>
+	<Verse VerseID="45"><![CDATA[E kur u thuhet atyre: “Kini frikë asaj që ngjau para jush dhe asaj çka do t’ju ngjajë më vonë, e që të mëshiroheni (ata nuk dëgjojnë). ]]></Verse>
+	<Verse VerseID="46"><![CDATA[Nuk ka asnjë argument që u erdhi atyre nga argumentet e Zotit, e që ata nuk ia kthyen shpinën. ]]></Verse>
+	<Verse VerseID="47"><![CDATA[Dhe kur u thuhej: “Jepni nga ajo që All-llahu u begatoi, ata që nuk besuan, besimtarëve u thanë: “A ta ushqejmë atë që sikur të donte All-llahu do ta ushqente? Ju nuk jeni tjetër vetëm se të humbur qartë!”. ]]></Verse>
+	<Verse VerseID="48"><![CDATA[Dhe thoshin: “Po qe se jeni të vërtetë, kur do të jetë ai premtim?” ]]></Verse>
+	<Verse VerseID="49"><![CDATA[(All-llahu u përgjigjet) Nuk janë duke pritur tjetër vetëm se një britmë që i rrëmben ata kur janë duke u zënë mes vete. ]]></Verse>
+	<Verse VerseID="50"><![CDATA[E nuk do të mund të lënë as porosi (vasijet-testament) as të kthehen në familjet e tyre. ]]></Verse>
+	<Verse VerseID="51"><![CDATA[Dhe i fryhet Surit, kur qe, duke u ngutur prej varrezave paraqiten te Zoti i tyre. ]]></Verse>
+	<Verse VerseID="52"><![CDATA[E thonë: “Të mjerët ne! Po kush na ngriti prej ku ishim të shtrirë në varre?” E, kjo është ajo që premtoi Zoti dhe vëtetuan të dërguarit. ]]></Verse>
+	<Verse VerseID="53"><![CDATA[Ajo nuk është tjetër, përveç një zë i fuqishëm dhe ata të gjithë të paraqitur para Nesh. ]]></Verse>
+	<Verse VerseID="54"><![CDATA[Sot pra, akujt nuk i bëhet e padrejtë diçka dhe nuk shpërbleheni me tjeër vetëm për atë që vepruat. ]]></Verse>
+	<Verse VerseID="55"><![CDATA[Ata të Xhennetit tash janë të angazhuar me kënaqësi. ]]></Verse>
+	<Verse VerseID="56"><![CDATA[Ata dhe shoqet e tyre janë nën hijet të mbështetur në kolltukë. ]]></Verse>
+	<Verse VerseID="57"><![CDATA[Aty kanë pemë dhe çka të duan. ]]></Verse>
+	<Verse VerseID="58"><![CDATA[Kanë “Selam”, thënie e Zotit mëshirues! ]]></Verse>
+	<Verse VerseID="59"><![CDATA[E tash, ju kriminelë, ndahuni! ]]></Verse>
+	<Verse VerseID="60"><![CDATA[O bijtë e Ademit (kriminelë), po a nuk u dërgova porosinë që të mos e dëgjoni djallin, se me të vërtetë ai është armiku juaj i hapët!? ]]></Verse>
+	<Verse VerseID="61"><![CDATA[*Ju porosita) Të më adhuroni Mua, se kjo është rruga e sigurt! ]]></Verse>
+	<Verse VerseID="62"><![CDATA[Vërtet, ai ka humbur shumë njerëz prej jush, a nuk mblodhët mend? ]]></Verse>
+	<Verse VerseID="63"><![CDATA[Ky është Xhehennemi që juve u premtohe. ]]></Verse>
+	<Verse VerseID="64"><![CDATA[Hyni tash në të, për shkak se mohuaat çdo të vërtetë! ]]></Verse>
+	<Verse VerseID="65"><![CDATA[Sot Ne ua mbyllim gojët e atyre, Neve na flasin duart e tyre, kurse këmbët e tyre dëshmojën për atë që punuan. ]]></Verse>
+	<Verse VerseID="66"><![CDATA[E sikur të duam Ne do t’ua verbonim ytë e tyre, e ata do ta mësynin rrugën, po si do të dhihnin? ]]></Verse>
+	<Verse VerseID="67"><![CDATA[Dhe sikur të duam, do t’i kishim gjymtuar ata në vend, e nuk do tëmund të shkoninas para as prapa. ]]></Verse>
+	<Verse VerseID="68"><![CDATA[E atij që i japim të jetojë gjatë, e kthejmë prapa në krijimin e tij. A nuk janë duke menduar? ]]></Verse>
+	<Verse VerseID="69"><![CDATA[Ne as nuk ia mësuam atij (Muhammedit) poezinë, e as që i takon ajo atij, ai (Kur’ani) nuk është tjetër vetëm se këshillë dhe Kur’an i qartë. ]]></Verse>
+	<Verse VerseID="70"><![CDATA[Për t’ia tërhequr vërejtjen ati që është gjallë (me mend e zemër) dhe dënimi të bëhet meritë për jobesimtarët. ]]></Verse>
+	<Verse VerseID="71"><![CDATA[A nuk e shohin ata se nga ajo që Ne vetë e shpikëm, u krijuam atyre kafshët që i kanë. ]]></Verse>
+	<Verse VerseID="72"><![CDATA[Dhe ua bëmë ato që t’u biden atyre, e disave prej tyre u hipnin, ndërsa prej disave ushqehen. ]]></Verse>
+	<Verse VerseID="73"><![CDATA[Ata kanë edhe dobi të tjera në to, e edhe pinë (qumësht) prej tyre. A nuk duhet falënderojnë? ]]></Verse>
+	<Verse VerseID="74"><![CDATA[Po, shkojnë e në vend të All-llahut adhurojnë zota të tjerë me shpresë se do të ndihmohen prej tyre. ]]></Verse>
+	<Verse VerseID="75"><![CDATA[Ata nuk mund t’u ndihmojnë atyre, por këta (idhujtarët) u janë bërë ushtri e gatshme e tyre. ]]></Verse>
+	<Verse VerseID="76"><![CDATA[E ty mos të brengosin thëniet e tyre, Ne dimë çka mbajnë ata fshehtë dhe çka publikojnë. ]]></Verse>
+	<Verse VerseID="77"><![CDATA[A nuk mendon njeriu se Ne e krijuam atë prej një pike uji (fare), kur qe, ai kundërshtarë i rreptë. ]]></Verse>
+	<Verse VerseID="78"><![CDATA[Ai na solli Neve shembull, e harroi krijimin e vet e tha: “Kush i ngjall eshtrat duke qenë ata të kalbur? ]]></Verse>
+	<Verse VerseID="79"><![CDATA[Thuaj: “I ngjall Ai që i krijoi për herë të parë, e Ai është shumë i dijshëm për çdo krijim. ]]></Verse>
+	<Verse VerseID="80"><![CDATA[Ai që prej drurit të gjelbër ju bëri zjarrin, e ju prej tij ndezni. ]]></Verse>
+	<Verse VerseID="81"><![CDATA[A nuk është i fuqishëm Ai, që kerijoi qiejt e tokën, të krijojë njerëz sikundër që i krijoi ata? Po Ai është krijuesi, i dijshmi. ]]></Verse>
+	<Verse VerseID="82"><![CDATA[Kur Ai dëshiron ndonjë send, urdhëri i Tij është vetëm t’i thotë: “Bëhu!” Ai menjëherë bëhet. ]]></Verse>
+	<Verse VerseID="83"><![CDATA[I lartë është Ai ë në dorën e Tij është pushteti mbi çdo send dhe vetëm te Ai ktheheni. ]]></Verse>
+</Chapter>

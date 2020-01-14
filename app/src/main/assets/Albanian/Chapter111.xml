@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="111" ChapterName="The Flame">
+	<Verse VerseID="1"><![CDATA[Qoftë i shkatërruar Ebi Lehebi, e ai më është shkatërruar! ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Atij nuk i bëri dobi pasuria e vet, as ajo çka fitoi! ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Ai do të hyjë në një zjarr të ndezur flakë. ]]></Verse>
+	<Verse VerseID="4"><![CDATA[E edhe gruaja e tij, ajo që barti dru (ferra), ]]></Verse>
+	<Verse VerseID="5"><![CDATA[E në qafën e saj ajo ka një litar të përdredhur.  ]]></Verse>
+</Chapter>

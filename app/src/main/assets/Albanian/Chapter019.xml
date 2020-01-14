@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="19" ChapterName="Marium">
+	<Verse VerseID="1"><![CDATA[Kaf Ha Ja’ A’jn Sadë! ]]></Verse>
+	<Verse VerseID="2"><![CDATA[(ky është) Përkujtim i mëshirës së Zotit tënd ndaj robit të vet Zekeriait, ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Kur ai iu lut Zotit të vet me një zë të ulët, e ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Tha: “Zoti im! Vërtet, mia më janë dobësuar eshtrat, më janë përhapur thinjat në kokën time, e me lutjen time ndaj Teje o Zoti im, asnjëherë nuk kam qenë i dëshpëruar”. ]]></Verse>
+	<Verse VerseID="5"><![CDATA[Unë ua kam frikë pasardhësve të mi pas meje (kushërinjve se do ta humbnin fenë), ndërsa gruaja ime është sterile, pra më falë nga ajo mirësia Jote një pasardhës (një fëmijë).]]></Verse>
+	<Verse VerseID="6"><![CDATA[Të më trashëgojnë mua dhe t’i trashëgojë ata nga familja e Jakubit, dhe bërë atë, o Zoti, të këndshëm! (të vyeshëm)!” ]]></Verse>
+	<Verse VerseID="7"><![CDATA[O Zekëria, Ne po të përgëzojmë ty me një djalë, emri i të cilit është Jahja, e që askush para tij nuk u emërtua me këtë emër. ]]></Verse>
+	<Verse VerseID="8"><![CDATA[Ai tha: “Zoti im, si do të kemë unë djalë kur gruaja ime ishte që nuk lind, e unë kam arritur pleqëri të thellë?” ]]></Verse>
+	<Verse VerseID="9"><![CDATA[Tha: “Ja, kështu Zoti yt ka thënë: se ajo për Mua është lehtë; Unë të krijova më parë ty, që nuk ishe fare!” ]]></Verse>
+	<Verse VerseID="10"><![CDATA[Ai (Zekeriai) tha: Zoti im, më jep mua një shenjë (që të di)!” Ai (All-llahu) tha: “Shenja jote është se, (duke qenë shëndoshë e mirë), nuk do të mund t’u flasesh njerëzve tri net (e tri ditë)”. ]]></Verse>
+	<Verse VerseID="11"><![CDATA[Dhe ai doli prej faltores para popullit të vet dhe u dha shenjë adhuroni (All-llahun) mëngjes e mbrëmje. ]]></Verse>
+	<Verse VerseID="12"><![CDATA[O Jahja, merre librin me shumë kujdes, dhe ashtu, dhe ashtu Ne i dhamë atij urtësi kur ishte fëmijë. ]]></Verse>
+	<Verse VerseID="13"><![CDATA[Dhe nga ana jonë i mundësuam të jetë i butë, i pastër dhe respektues (i dëgjueshëm). ]]></Verse>
+	<Verse VerseID="14"><![CDATA[Edhe i sjellshëm ndaj prindërve të vet, nuk ishte kryelartë e i padëgjueshëm. ]]></Verse>
+	<Verse VerseID="15"><![CDATA[Dhe selam (prej nesh) atij ditën kur u lind, ditën kur vdes dhe ditën kur do të ngritet i gjallë (e përshëndetën dhe i garantuam)! ]]></Verse>
+	<Verse VerseID="16"><![CDATA[E, përmendju në këtë libër (tregimin për) Merjemen kur ajo u largua prej familjes së saj në një vend në lindje. ]]></Verse>
+	<Verse VerseID="17"><![CDATA[Ajo, vuri një perde ndaj tyre, e Ne ia dërguam asaj Xhebrilin, e ai iu paraqit asaj njeri në tërësi. ]]></Verse>
+	<Verse VerseID="18"><![CDATA[Ajo tha: “Unë i mbështetem të Gjithëmëshirëshmit prej teje, nëse je që frikësohesh Atij (pra më le të lirë)!” ]]></Verse>
+	<Verse VerseID="19"><![CDATA[Ai (Xhibrili) tha: “Unë jam vetëm i dërguar (melek) i Zotit tënd për të dhuruar ty një djalë të pastër (pejgamber)”. ]]></Verse>
+	<Verse VerseID="20"><![CDATA[Ajo tha: “Si do të kem unë djalë, kur mua nuk më është afruar njeri (nuk jam e martuar), e as nuk kamë qenë e pamoralshme”. ]]></Verse>
+	<Verse VerseID="21"><![CDATA[Ai (Xhibrili) tha: “Ja, kështu ka thënë Zoti yt; ajo për Mua është lehtë, e për ta bërë atë (djalin e krijuar pa babë) argument për njerëzit e edhe mëshirë nga ana e Jonë. Kjo është çështje e kryer!” ]]></Verse>
+	<Verse VerseID="22"><![CDATA[Ajo e barti atë (Isain), andaj (me të në bark) u izolua në një vend të largët. ]]></Verse>
+	<Verse VerseID="23"><![CDATA[E dhembja (e lindjes) e mbështeti atë te një trup i hurmës. Ajo tha: “Ah sa mirë ka qenë për mua të kisha vdekur para kësaj e të isha e harruar që moti!” ]]></Verse>
+	<Verse VerseID="24"><![CDATA[E prej së poshtmi atë e thirri (Xhibrili): “Mos u brengos, Zoti yt bëri pranë teje një përrockë (uji)”. ]]></Verse>
+	<Verse VerseID="25"><![CDATA[E ti shkunde trupin e hurmës se do të bijnë ty hurma të freskëta. ]]></Verse>
+	<Verse VerseID="26"><![CDATA[Ti pra, ha pi e qetësou, dhe nëse sheh ndonjë prej njerëzve thuaj: “Unë ka vendsur heshtje për hir të Gjitëhmëshirshmit, andaj asnjë njeriu sot nuk i flas!” ]]></Verse>
+	<Verse VerseID="27"><![CDATA[Dhe duke e bartur ngryk shkoj me të te të afërmit e vet ata i thanë: “Oj Merjeme, ke bërë një punë shumë tëkeqe!” ]]></Verse>
+	<Verse VerseID="28"><![CDATA[Oj motra e Harunit, babai yt nuk ishte njeri i prishur e as nëna jote nuk ka qenë e pamoralshme! ]]></Verse>
+	<Verse VerseID="29"><![CDATA[Atëherë ajo u dha shenjë kah (Isai). Ata thanë: “Si t’i flasim atij që ëshë foshnjë në djep?” ]]></Verse>
+	<Verse VerseID="30"><![CDATA[Ai (Isai) tha: “Unë jam rob i All-llahut, mua më ka dhënë (ka caktuar të më japë) librin dhe më ka bërë Pejgamber. ]]></Verse>
+	<Verse VerseID="31"><![CDATA[Më ka bërë dobiprurës kudo që të jem dhe më ka porositur me namaz (falje) e zeqatë për sa të jemë gjallë! ]]></Verse>
+	<Verse VerseID="32"><![CDATA[Më ka bërë të mirësjellshëm ndaj nënës sime, e nuk më ka bërë kryelartë as të padëgjueshëm! ]]></Verse>
+	<Verse VerseID="33"><![CDATA[Selami (shpëtim prej All-llahut) është me mua ditën kur u linda, ditën kur të vdes dhe ditën kur të dal (prej varrit) i gjallë!” ]]></Verse>
+	<Verse VerseID="34"><![CDATA[Kjo është (fjalë) e vërtetë, rreth Isait, birit të Merjemes në të cilin ata shkaktojnë dyshime. ]]></Verse>
+	<Verse VerseID="35"><![CDATA[Nuk i takoi (nuk ka nevojë) All-llahu të ketë ndonjë fëmijë, i pastër është Ai, kur dëshiron një send Ai vetëm i thotë atij: Bëhu!”. Ai menjëherë bëhet. ]]></Verse>
+	<Verse VerseID="36"><![CDATA[(Isai i tha popullit të vet) Dhe se All-llahu është Zoti im dhe Zoti juaj, pra adhuronie Atë, kjo është rrugë (fe) e drejtë. ]]></Verse>
+	<Verse VerseID="37"><![CDATA[Po, grupet u kundërshtuan mes vete (rreth Isait). Të mjerët ata që nuk besuan se çka kanë për të parë ditën e madhe! ]]></Verse>
+	<Verse VerseID="38"><![CDATA[Ditën kur do të na paraqiten neve, sa mirë do të dëgjojnë edhe shohin (ose njerëzit do të dëgjojnë e shohin çka i gjen ata), por tash për tash (në këtë jetë) zullumqarët janë të humbur qartë. ]]></Verse>
+	<Verse VerseID="39"><![CDATA[Ti tërhiqu atyre vërejtjen për ditën e dëshprimit, kur të marrë fund çështja (e përgjejgësisë e dikush në xhehet, dikush në zjarr), se ata (sot) janë të painformuar, dhe ata nuk janë duke besuar. ]]></Verse>
+	<Verse VerseID="40"><![CDATA[S’ka dyshim se Ne e trashëgojmë (na mbetet) tokën dhe çka ka në të, dhe të Ne do të jetë e ardhmja e tyre. ]]></Verse>
+	<Verse VerseID="41"><![CDATA[Përkujtoju (lexoju idhujtarëve e të tjerëve) në Libër (në Kur’an) Ibrahimin. Ai vërtet ishte shumë i drejtë dhe pejgamber. ]]></Verse>
+	<Verse VerseID="42"><![CDATA[Kur babait të vet i tha: “O babai im, pse adhuron atë që as nuk dëgjon, as nuk sheh, e as nuk ke asgjë prej tij? ]]></Verse>
+	<Verse VerseID="43"><![CDATA[O babai im, mua më është dhënë nga dituria çka ty nuk të është dhënë, andaj më dëgjo se unë të udhëzoj në rrugë të drejtë. ]]></Verse>
+	<Verse VerseID="44"><![CDATA[O babai im, mos adhuro djallin, sepse djalli është kundërshtar i Mëshiruesit. ]]></Verse>
+	<Verse VerseID="45"><![CDATA[O babai im, unë kam frikë se do të godet ndonjë dënim prej të Gjithmëshirshmit e do të jesh shok i djallit!” ]]></Verse>
+	<Verse VerseID="46"><![CDATA[Ai (babai) tha: “A ti, Ibrahim, i refuzon zotat e mi? Nëse nuk ndalesh (së fyeri ndaj zotave të mi), unë do të gurëzoj, ndaj largohu prej meje për një kohë të gjatë!” ]]></Verse>
+	<Verse VerseID="47"><![CDATA[Ai (Ibrahimi) tha: “Qofsh i lirë prej meje! Unë do ta lus Zotin tim për të falur ty, pse ai (babai) shte i kujdsshëm ndaj meje. ]]></Verse>
+	<Verse VerseID="48"><![CDATA[Unë po largohem prej jush dhe prej çka adhuroni ju pos All-llahut, e shpresoj se me adhurimin ndaj Zotit tim nuk do të jem i humbur!” ]]></Verse>
+	<Verse VerseID="49"><![CDATA[E pasi u largua prej tyre dhe prej çka adhuronin ata pos All-llahut, Ne i dhuruam atij Is-hakun dhe Jakubin dhe që të dy i bëmë pejgamberë. ]]></Verse>
+	<Verse VerseID="50"><![CDATA[Dhe atyre (të gjithëve) u dhamë (të mira) nga mëshira Jonë, edhe i bëmë që të jenë të përmendur për të mirë (ndër njerëz). ]]></Verse>
+	<Verse VerseID="51"><![CDATA[Përmendju në Libër (tregimin për) Musain! ai ishte i zgjedhur (prej Zotit) dhe ishte i dërguar, pejgamber. ]]></Verse>
+	<Verse VerseID="52"><![CDATA[Dhe Ne e thirrëm nga ana e djathtë e kodrës Tur, e afruam për t’i folur (të dëgjojë bisedën tonë). ]]></Verse>
+	<Verse VerseID="53"><![CDATA[Nga mëshira Jonë i dhamë vëllain e tij Harunin, Pejgamber. ]]></Verse>
+	<Verse VerseID="54"><![CDATA[Përkujtoju në këtë Libër Ismailin! Ai ka qenë shumë besnik (premtoi të bëhet kurban) dhe i dërguar, pejgamber. ]]></Verse>
+	<Verse VerseID="55"><![CDATA[Ai urdhëronte familjen e vet me faljen e namazit dhe me zeqatë, dhe ishte dhumë i pranishëm te Zoti i tij. ]]></Verse>
+	<Verse VerseID="56"><![CDATA[Përkujtoju në libër edhe Idrisin! Ai ishte shumë i drejtë dhe pejgamber. ]]></Verse>
+	<Verse VerseID="57"><![CDATA[Ne e ngriëm atë në një vend të Lartë (ia ngritëm lart famën). ]]></Verse>
+	<Verse VerseID="58"><![CDATA[Këta (të përmendur) ishin që All-llahu i gradoi nga pejgamberët pasardhës të Ademit, prej pasardhësve të atyre që i patëm bartur (në anije) bashkë me Nuhun, prej pasardhësve të Ibrahimit dhe të Jakubit (Israilët), dhe prej atyre që i udhëzuam dhe i bëmë të zgjedhur; kur u lexoheshin atyre ajetet e Zotit, binin në sexhde dhe qanin. ]]></Verse>
+	<Verse VerseID="59"><![CDATA[E pas tyre (të mirëve) erdhën pasardhës të këqij, që e lanë namazin e u dhanë pas kënaqësive (trupore), e më vonë do të hidhen në çdo gjë të keqe (ose në Gaja). ]]></Verse>
+	<Verse VerseID="60"><![CDATA[Me pëjashtim të atij që pendohet dhe beson e bën vepra të mira, të tillët do të hyjnë në Xhennet dhe atyre nuk u bëhet padrejtë. ]]></Verse>
+	<Verse VerseID="61"><![CDATA[Ato janë Xhennetet e Adnit. që Mëshiruesi u pat premtuar robve të vet, pa i parë ata (i besuan pa i parë), e premtimi i Tij është i kryer. ]]></Verse>
+	<Verse VerseID="62"><![CDATA[Aty nuk dëgjojnë fjalë boshe, por vetëm përshëndetje. Aty manë ushqimin e vet (të llojllojshëm) mëngjes e mbrëmje. ]]></Verse>
+	<Verse VerseID="63"><![CDATA[Ato janë Xhennetet që do t’ua trashëgojnë robve Tanë që ishin të ruajtur. ]]></Verse>
+	<Verse VerseID="64"><![CDATA[Ne (engjënt, thotë Xhibrili) nuk zbresim (nuk vijmë) vetëm me urdhërin e Zotit tënd. Vetëm Atij i takon e tërë çështja e tashme e ardhme dhe mes tyre, e Zoti yt nuk është që harron. ]]></Verse>
+	<Verse VerseID="65"><![CDATA[Ai është Zoti i qiejve dhe i tokës dhe çka ka në mes tyre, pra Atë adhuroje, e në adhurim ndaj Tij bëhu i qëndrueshëm. A di për Të ndonjë emnak (adash)! ]]></Verse>
+	<Verse VerseID="66"><![CDATA[E njeriu thota: “A njëmed pasi të vdes do të nxirrem i gjallë (do të ringja;;en)?” ]]></Verse>
+	<Verse VerseID="67"><![CDATA[Po, a nuk po mendon njeriu se Ne e krijuam atë më parë kur ai nuk ishte asgjë? ]]></Verse>
+	<Verse VerseID="68"><![CDATA[Pasha Zotin tënd, Ne do t’i tubojmë (pas ringjalljes) ata bashkë më djajtë dhe do t’i afrojmë ata rreth Xhehennemit të gjunjësuar. ]]></Verse>
+	<Verse VerseID="69"><![CDATA[Pastaj, nga secili grup do t’i kapim ata që kishin qenë më jorespektues ndaj të Gjithmëshirshmit. ]]></Verse>
+	<Verse VerseID="70"><![CDATA[E Ne e dujmë më së miri se cili prej tyre ka më meritë të hudhet në të. ]]></Verse>
+	<Verse VerseID="71"><![CDATA[Dhe nuk ka asnjë prej jush që nuk do t’i afrohet atij. Ky (kontaktim i Xhehennemit) është vendim i kryer i Zotit tënd. ]]></Verse>
+	<Verse VerseID="72"><![CDATA[Pastaj, (pas kalimit pran tij) do t’i shpëtojmë ata që ishin ruajtur (mëkateve), e zullumqarët do t’i lëmë aty të gjunjëzuar. ]]></Verse>
+	<Verse VerseID="73"><![CDATA[E kur u lexoheshin atyre ajetet tona të argumentuara, ata që nuk kshin besuar u thoshin atyre që kishin besuar: “Cili grup (ne ose ju) ka vend jete më të mirë dhe kuvend më autoritativ?” ]]></Verse>
+	<Verse VerseID="74"><![CDATA[E, sa e sa gjenerata kemi shkatërruar para tyre e që ishin më të pajisur dhe më të dukshëm. ]]></Verse>
+	<Verse VerseID="75"><![CDATA[Thuaj: “Atij që është në humbje (në mosbesim), le t’ia vazhdojë atij i Gjithfuqishmi për një kohë, e kur do ta shohin atë që po u premtohet: ose dënimin (në këtë jetë) ose kijametin, atëherë do ta kuptojnë se kush do të jetë në pozitë më të keqe dhe më i dobët në përkrahje!” ]]></Verse>
+	<Verse VerseID="76"><![CDATA[E All-llahu u shton besimi atyre që u udhëzuan, e veprat e mira të pëjetshme, janë shprblim më i dobishëm te Zoti yt, dhe përfundim me i mirë. ]]></Verse>
+	<Verse VerseID="77"><![CDATA[77-78. A je i njoftyar për atë që mohoi argumentet Tona e tha: “Mua githqysh do të më jepet pasuri e fëmijë (në botën tjetër)?” ]]></Verse>
+	<Verse VerseID="78"><![CDATA[77-78. A je i njoftyar për atë që mohoi argumentet Tona e tha: “Mua githqysh do të më jepet pasuri e fëmijë (në botën tjetër)?” ]]></Verse>
+	<Verse VerseID="79"><![CDATA[Jo, nuk është ashtu, po Ne do të shënojmë atë që po e thotë ai, dhe do të vazhdojmë atij dënim pas dënimi. ]]></Verse>
+	<Verse VerseID="80"><![CDATA[Dhe Ne e trashëgojmë atë (në pasuri e fëmijë) që të thotë ai, e ai ka për të na ardhur i vetmuar. ]]></Verse>
+	<Verse VerseID="81"><![CDATA[Dhe kur ata në vend të All-llahut adhuruan zota tjerë për t’u krenuar me ta. ]]></Verse>
+	<Verse VerseID="82"><![CDATA[Përkundrazi, ata (idhujt) do të tërhiqen prej adhurimit të atyre dhe do të bëhen armiq të tyre. ]]></Verse>
+	<Verse VerseID="83"><![CDATA[A nuk e di ti se Ne i kemi lëshuar djajt kundër jobesimtarëve, e ata nxisin pa ndërpreë në vepra të këqija. ]]></Verse>
+	<Verse VerseID="84"><![CDATA[Pra, ti mos u ngut kundër tyre, se Ne jemi duke ua numëruar atyre (jetën në ditë, frymëmarrje etj. ). ]]></Verse>
+	<Verse VerseID="85"><![CDATA[Ditën kur do t’i tubojmë të devotshmit te i Gjithëmëshirshmi si musafirë të ftuar. ]]></Verse>
+	<Verse VerseID="86"><![CDATA[Ndërsa mëkatarëve u grahim në Xhehennem të etshëm. ]]></Verse>
+	<Verse VerseID="87"><![CDATA[Nuk ka të drejtë ndërmjetësim askush, përveç atij që ka lejuar i Gjithëfuqishmi. ]]></Verse>
+	<Verse VerseID="88"><![CDATA[Ata thanë: “I Gjithëfuqishmi ka fëmijë”. ]]></Verse>
+	<Verse VerseID="89"><![CDATA[Ju (jobesimtarë) vërtet sollët një fjalë shumë të shëmtuar. ]]></Verse>
+	<Verse VerseID="90"><![CDATA[Aq të shëmtuar sa gati u copëtuan qiejt, gati pëlciti toka dhe gati u shembën kodra nga ajo (fjalë). ]]></Verse>
+	<Verse VerseID="91"><![CDATA[Për atë se të Gjithëmëshirshmit i përshkruan fëmijë. ]]></Verse>
+	<Verse VerseID="92"><![CDATA[E të Gjithëmëshirshmit nuk i takon të ketë fëmijë. ]]></Verse>
+	<Verse VerseID="93"><![CDATA[Nuk ka tjeër, vetëm se githë çka është në qiej e në tokë ka për t’iu paraqitur Zotit si rob. ]]></Verse>
+	<Verse VerseID="94"><![CDATA[Ai me diturinë e vet i ka përfshirë të githë, dhe ka numëruar e evidntuar çdo gjë të tyre në mënyrë të saktësishme. ]]></Verse>
+	<Verse VerseID="95"><![CDATA[Dhe në ditën e kijametit secili do t’i paraqitet Atij i vetëmuar. ]]></Verse>
+	<Verse VerseID="96"><![CDATA[Nuk ka dshim se ata që bënë vepra të mira, atyre i Gjithëmëshirshmi do t’u krijojë (në zemrat e tyre) dashuri. ]]></Verse>
+	<Verse VerseID="97"><![CDATA[Ne e bëmë atë (Kur’anin) të lehtë me gjuhën tënde vetëm që me të t’i përgëzosh të devotshmit, dhe me të t’i tëheqish vërejtjen një populli që ëshë kryeneç. ]]></Verse>
+	<Verse VerseID="98"><![CDATA[Sa shumë brezni kemi shkatërruar para tyre. A po vëreni ndonjë prej tyre, ose a po dëgjon zërin e ulët të tyre (nuk u ndihet zëri)?    ]]></Verse>
+</Chapter>

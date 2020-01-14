@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="54" ChapterName="The Moon">
+	<Verse VerseID="1"><![CDATA[Momenti (i katastrofës së përgjigjthshme) është afruar, e hëna është çarë (në dysh). ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Po ata (idhujtarët) edhe nëse shohin ndonjë argument (mrekulli) zprapsen e thonë: “Kjo është magji e vazhdueshme!” ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Dhe përgënjeshtruan, e ndoqën dëshirat e veta, por çdo çështje arrinë cakun e fundit. ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Atyre u patën ardhur aso lajmesh (të popujve të lashtë), ku ka mjaft qortime, (për ata që kuptojnë). ]]></Verse>
+	<Verse VerseID="5"><![CDATA[Urtësi e përsosur (është Kur’ani)! Po sa bëjnë dobi qortimet! ]]></Verse>
+	<Verse VerseID="6"><![CDATA[Pra, largohu prej tyre. ditën kur thirrësi (Israfili) kumton një send të tmerrshëm. ]]></Verse>
+	<Verse VerseID="7"><![CDATA[Dalin prej varreve, e si karkaleca të shpërndarë e me shikim ë përulur. ]]></Verse>
+	<Verse VerseID="8"><![CDATA[Duke shpejtuar drejt atij që i thërret, e, jobesimtarët thonë: “Kjo është ditë e vështirë”. ]]></Verse>
+	<Verse VerseID="9"><![CDATA[Populli i Nuhut që ishte para tyre përgënjeshtroi, dhe robin Tonë (Nuhun) e quajti rrenacak dhe i thanë: “I marrë!” dhe iu bë kërcënim. ]]></Verse>
+	<Verse VerseID="10"><![CDATA[E ai iu drejtua Zotit të vet: “Unë jam i mundur, prandaj më ndihmo!” ]]></Verse>
+	<Verse VerseID="11"><![CDATA[Atëherë Ne me një shi të vrullshëm i hapëm dyert e qiellit. ]]></Verse>
+	<Verse VerseID="12"><![CDATA[Dhe Ne tokën e zbërthyem në burime uji, kurse uji u bashkua siç ishte e caktuar. ]]></Verse>
+	<Verse VerseID="13"><![CDATA[E atë (Nuhun) e bartëm në (anije) dërrasash e shtyllash të gojëzuara. ]]></Verse>
+	<Verse VerseID="14"><![CDATA[Që lundronte në mbikëqyrje Tonë. (I fundosëm) Si ndëshkim për atë (Nuhun) që ishte mohuar (përbuzur). ]]></Verse>
+	<Verse VerseID="15"><![CDATA[Atë (ngjarje) Ne e lamë kujtim, po a ka ndokush që merr mësim? ]]></Verse>
+	<Verse VerseID="16"><![CDATA[E çfarë ishte ndëshkimi Im dhe kërcënimi Im! ]]></Verse>
+	<Verse VerseID="17"><![CDATA[Ne Kur’anin e bëmë të lehtë për mësim, po a ndokush që merr mësim? ]]></Verse>
+	<Verse VerseID="18"><![CDATA[Adi përgënjeshtroi, e çfarë ishte ndëshkimi Im dhe kërcënimi? ]]></Verse>
+	<Verse VerseID="19"><![CDATA[Atyre Nenjë ditë fatkeqe të përjetshme u lëshuamnjë erë të fortë. ]]></Verse>
+	<Verse VerseID="20"><![CDATA[I ngriste njerëzit si të ishin trupa hurmash të shkulura. ]]></Verse>
+	<Verse VerseID="21"><![CDATA[Dhe çfarë ishte ndëshkimi Im dhe vërejtja Ime? ]]></Verse>
+	<Verse VerseID="22"><![CDATA[Ne Kur’anin e bëmë të lehtë për të kuptuar, a ka ndokush që merr këshillë? ]]></Verse>
+	<Verse VerseID="23"><![CDATA[Themudi përgënjeshtroi të dërguarit. ]]></Verse>
+	<Verse VerseID="24"><![CDATA[E thamë: “A të shkojmë pas një të vetmit njeri që doli nga mesi ynë, po Ne atëherë do të jemi të humbur në një marrësi!” ]]></Verse>
+	<Verse VerseID="25"><![CDATA[A, atij nga mesi jonë iu dha shpallja? Jo, por ai është një gënjeshtar mendjemadh. ]]></Verse>
+	<Verse VerseID="26"><![CDATA[Mirëpo ata nesër do të kuptojmë se kush është gënjeshtari, mendjemadhi! ]]></Verse>
+	<Verse VerseID="27"><![CDATA[Ne atyre do t’ua dërgojmë deven si sprovë e ti vetëm dhe bën durim. ]]></Verse>
+	<Verse VerseID="28"><![CDATA[Dhe lajmëroji ata se uji është i ndarë për ta veç e veç, secili do të paraqitet për të pirë ujë në rendin e vet. ]]></Verse>
+	<Verse VerseID="29"><![CDATA[Po ata e ftuan shokun e vet, e ai mori dhe e theri atë. ]]></Verse>
+	<Verse VerseID="30"><![CDATA[E çfarë ishte ndëshkimi ndëshkimi Im dhe kërcënimi Im? ]]></Verse>
+	<Verse VerseID="31"><![CDATA[Ne lëshuam kundër tyre një ushtimë , e ata u bënë si shtrojë vathi. (Mbeturinë e ushqimit të kafshëve që u shtohet). ]]></Verse>
+	<Verse VerseID="32"><![CDATA[Ne Kur’anin e bëmë të lehtë për këshillë, po a ka ndokush që merr mësim? ]]></Verse>
+	<Verse VerseID="33"><![CDATA[Populli i Lutit i përgënjeshtroi vërejtjet e pejgamberit të vet. ]]></Verse>
+	<Verse VerseID="34"><![CDATA[Ne atyre, përveç famijes së Lutit të cilën e shpëtuam para se të agonte, u lëshuam një erë që solli gurë mbi ta. ]]></Verse>
+	<Verse VerseID="35"><![CDATA[(Shpëtimi ishte) Një mirësi nga ana Jonë, ashtu Ne shpërblejmë atë që falënderon. ]]></Verse>
+	<Verse VerseID="36"><![CDATA[Ai (Luti) u pat tërhequr vërejtjen atyre për dënimin Tonë të rëndë, por ata dyshuan në ato kërcënime. ]]></Verse>
+	<Verse VerseID="37"><![CDATA[Ata deshën t’u afrohen mysafirëve të tij e Ne ua verbëruam sytë atyre, pra përjetoni ndëshkimin Tim dhe qortimet e Mia! ]]></Verse>
+	<Verse VerseID="38"><![CDATA[E, atyre në një mëngjes të hershëm u erdhi dënimi i përhershëm. ]]></Verse>
+	<Verse VerseID="39"><![CDATA[Pra, vuanie dënimin Tim dhe qortimin Tim! ]]></Verse>
+	<Verse VerseID="40"><![CDATA[Ne Kur’anin e bëmë të lehtë për të studiuar, a ka ndokush që merr përvojë nga ai? ]]></Verse>
+	<Verse VerseID="41"><![CDATA[Edhe rrethit të faraonit i patëm ardhur shumë vërejtje. ]]></Verse>
+	<Verse VerseID="42"><![CDATA[Ata i përgënjeshtruan të gjitha argumentet Tona, prandaj Ne i dënuam ashtu siç është dënimi i një ngadhënjyesi, i një fuqiploti. ]]></Verse>
+	<Verse VerseID="43"><![CDATA[A jobesimtarët tuaj janë më të vlefshëm se ata që u përmendën, apo ju keni ndonjë kontratë në librat e qiellit? ]]></Verse>
+	<Verse VerseID="44"><![CDATA[A mos po thonë: “Ne jemi një grup ngadhënjyes tok të bashkuar?” ]]></Verse>
+	<Verse VerseID="45"><![CDATA[Grupi do të pësojë disfatë dhe ata do të kthehen prapa. ]]></Verse>
+	<Verse VerseID="46"><![CDATA[Por jo, afati i tyre është kijameti, e kijameti është edhe më i vështirë, edhe më i hidhur. ]]></Verse>
+	<Verse VerseID="47"><![CDATA[S’ka dyshim se idhujtarët kriminelë, janë edhe në një huti edhe në zjarr të madh. ]]></Verse>
+	<Verse VerseID="48"><![CDATA[Ditën kur me fytyrat e tyre do të tërhiqen zvarrë në zjarr. “Vuanie dënimin Sekar”. (emër i një Xhehennemi). ]]></Verse>
+	<Verse VerseID="49"><![CDATA[Ne çdo send kemi krijuar me masë të caktuar. ]]></Verse>
+	<Verse VerseID="50"><![CDATA[Puna Jonë (në krijim) është e shpejtë sa çel e mshel sytë. ]]></Verse>
+	<Verse VerseID="51"><![CDATA[Ne, ata që ishin si ju i shkatërruam, a ka ndokush që merr mësim? ]]></Verse>
+	<Verse VerseID="52"><![CDATA[Dhe çdo gjë që ata e punuan, gjendet (e shkruar) në shënime. ]]></Verse>
+	<Verse VerseID="53"><![CDATA[Dhe çdo vepër, qoftë e vogël dhe qoftë e madhe është rradhitur (evidentuar në Lehvi Mahfudh). ]]></Verse>
+	<Verse VerseID="54"><![CDATA[Është e vërtetë se të devotshmit do të jenë në Xhennete e në lumenj. ]]></Verse>
+	<Verse VerseID="55"><![CDATA[Në një vend të kënaqshëm, te Sunduesi i plotfuqishëm (te All-llahu).     ]]></Verse>
+</Chapter>

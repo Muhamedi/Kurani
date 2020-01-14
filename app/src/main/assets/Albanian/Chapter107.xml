@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="107" ChapterName="The Daily Necessar">
+	<Verse VerseID="1"><![CDATA[A e ke parë ti (a e sheh) atë, që përgënjeshtron përgjegjësinë dhe llogarinënë botën tjetër? ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Po ai është që e përzë në mënyrë të vrazhdë bonjakun. ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Dhe që nuk nxit për të ushqyer të varfërin. ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Pra shkatërrim është për ata që falen, ]]></Verse>
+	<Verse VerseID="5"><![CDATA[të cilët ndaj namazit të tyre janë të pakujdesshëm. ]]></Verse>
+	<Verse VerseID="6"><![CDATA[Ata që vetëm shtiren (sa për sy e faqe). ]]></Verse>
+	<Verse VerseID="7"><![CDATA[Dhe nuk japin as sendin më të vogël (as hua). ]]></Verse>
+</Chapter>

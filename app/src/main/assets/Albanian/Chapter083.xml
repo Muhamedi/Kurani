@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="83" ChapterName="The Defrauders">
+	<Verse VerseID="1"><![CDATA[Të mjerët ata që masin e peshojnë. ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Ata që kur matin prej njerëzve prej njerëzve, për vete e plotësojnë, ]]></Verse>
+	<Verse VerseID="3"><![CDATA[E kur u matin të tjerëve ose u peshojnë, u lënë mangu. ]]></Verse>
+	<Verse VerseID="4"><![CDATA[A nuk e donë të tillët se kanë për t’u ringjallur? ]]></Verse>
+	<Verse VerseID="5"><![CDATA[Në një ditë të madhe, ]]></Verse>
+	<Verse VerseID="6"><![CDATA[Në ditën kur njerëzit ngriten (prej varrezave) për të dalë para Zotit të botëve. ]]></Verse>
+	<Verse VerseID="7"><![CDATA[Jo, të mos rrinë gafil! Se shënimet e veprave të mëkatarëve janë në Sixhin (në një libër shënimesh të të këqijave më të dëmshme). ]]></Verse>
+	<Verse VerseID="8"><![CDATA[E, ku e di ti se ç’është sixhini? ]]></Verse>
+	<Verse VerseID="9"><![CDATA[Ai është një libër i qendisur (në një qeli në fund të burgut). ]]></Verse>
+	<Verse VerseID="10"><![CDATA[Atë ditë është shkatërrimi për gënjeshtarët. ]]></Verse>
+	<Verse VerseID="11"><![CDATA[Të cilët nuk e besojnë ditën e përgjegjësisë. ]]></Verse>
+	<Verse VerseID="12"><![CDATA[E atë ditë nuk e mohon kush, përveç atij që ka sharruar tepër në mosbesim e në punë të këqija. ]]></Verse>
+	<Verse VerseID="13"><![CDATA[E që kur i lexohen atij argumentet Tona, thonë: “Legjenda të të parëve!” ]]></Verse>
+	<Verse VerseID="14"><![CDATA[Jo, nuk është ashtu! Por të këqijat që i punuan, zemrat e tyre ua mbuluan. ]]></Verse>
+	<Verse VerseID="15"><![CDATA[Jo dhe Jo! Atë ditë do të jenë të penguar prej (ta shohin) Zotit të tyre. ]]></Verse>
+	<Verse VerseID="16"><![CDATA[Pastaj ata do të hyjnë në Xhehennem. ]]></Verse>
+	<Verse VerseID="17"><![CDATA[Dhe do t’u thuhet: “Ky është ai të cilin e keni përgënjeshtruar!” ]]></Verse>
+	<Verse VerseID="18"><![CDATA[Jo, nuk janë të njejtë! Se libri i të mirave gjendet në Il-lijjinë! ]]></Verse>
+	<Verse VerseID="19"><![CDATA[E ku e di ti se çka është Ilijunë? ]]></Verse>
+	<Verse VerseID="20"><![CDATA[Është një llibër i qendisur qartë. ]]></Verse>
+	<Verse VerseID="21"><![CDATA[Të cilin e dëshmojnë engjëjt që janë më të të afërmit. ]]></Verse>
+	<Verse VerseID="22"><![CDATA[E s’ka dyshim se vepërmirët janë në përjetime e kënaqësi (Xhennet). ]]></Verse>
+	<Verse VerseID="23"><![CDATA[Të mbështetur në kolltukë vështrojnë. ]]></Verse>
+	<Verse VerseID="24"><![CDATA[Në fytyrat e tyre mund të kuptosh kënaqësinë e përjetimeve. ]]></Verse>
+	<Verse VerseID="25"><![CDATA[U jepet të pijnë pije në enë të mbyllura. ]]></Verse>
+	<Verse VerseID="26"><![CDATA[Pije që në fund asaj i vjen era misk! E për shpërblim të tillë le të garojnë ata që lakmojnë të mirën. ]]></Verse>
+	<Verse VerseID="27"><![CDATA[Dhe përzierja e asaj pije është në tensim (uji më i mirë). ]]></Verse>
+	<Verse VerseID="28"><![CDATA[Krua nga i cili do të pijnë më të afërmit e Zotit. ]]></Verse>
+	<Verse VerseID="29"><![CDATA[Mëkatarët ishin ata të cilët i përqeshnin ata që besuan. ]]></Verse>
+	<Verse VerseID="30"><![CDATA[Dhe kur kalonin (besimtarët) pranë (idhujtarëve), ata ia bënin me sy njëri-tjetrit. ]]></Verse>
+	<Verse VerseID="31"><![CDATA[E kur ktheheshin te familjet e veta, ktheheshin të kënaqur. ]]></Verse>
+	<Verse VerseID="32"><![CDATA[Dhe kur i shihnin ata (besimtarët) janë të humbur!” ]]></Verse>
+	<Verse VerseID="33"><![CDATA[Po Ne, nuk i caktuam ata (idhujtarët) si rojë të atyre (besimtarëve). ]]></Verse>
+	<Verse VerseID="34"><![CDATA[E sot, (në ditën e gjykimit), ata që besuan do të tallen me jobesimtarët. ]]></Verse>
+	<Verse VerseID="35"><![CDATA[Duke qëndruar të mbështetur (besimtarët) në kolltukë e duke shikuar. ]]></Verse>
+	<Verse VerseID="36"><![CDATA[A thua a u shpërblyen jobesimtarët për atë që punuan? (Po) ]]></Verse>
+</Chapter>

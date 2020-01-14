@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="51" ChapterName="The Scatterers">
+	<Verse VerseID="1"><![CDATA[Për erërat që ngrehin dheun dhe shpërndajnë. ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Për retë që e bartin shiun e rëndë. ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Për anijet që lundrojnë lehtë. ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Për engjëjt që bëjnë ndarjen e çështjeve. ]]></Verse>
+	<Verse VerseID="5"><![CDATA[S’ka dyshim se ajo qe u premtohet është e vërtetë e sigurt. ]]></Verse>
+	<Verse VerseID="6"><![CDATA[Dhe se shpërblimi (gjykimi për vepra) do të ndodhë pa tjetër. ]]></Verse>
+	<Verse VerseID="7"><![CDATA[Për qiellin plot rrugë. ]]></Verse>
+	<Verse VerseID="8"><![CDATA[Ju gjendeni në nje thënie kontradiktore, ]]></Verse>
+	<Verse VerseID="9"><![CDATA[Nga ai (besimi) zbrapset ai që ishte zmbrapsur. ]]></Verse>
+	<Verse VerseID="10"><![CDATA[Mallkuar qofshin gënjeshtarët! ]]></Verse>
+	<Verse VerseID="11"><![CDATA[Ata të cilët janë gafilë në injorancë (në verbëri, në padituri). ]]></Verse>
+	<Verse VerseID="12"><![CDATA[E pyesin: “Kur është dita e gjykimit?” ]]></Verse>
+	<Verse VerseID="13"><![CDATA[Dita kur ata digjen në zjarr. ]]></Verse>
+	<Verse VerseID="14"><![CDATA[Përjetonie dënimin tuaj, ky është ai që kërkonit t’ju shpejtohet. ]]></Verse>
+	<Verse VerseID="15"><![CDATA[Të devotshmit janë në kopshte e burime. ]]></Verse>
+	<Verse VerseID="16"><![CDATA[Të kënaqur se kanë shtënë në dorë atë që u dha Zoti i tyre, ata edhe më parë (në dynja) ishin mirëbërës. ]]></Verse>
+	<Verse VerseID="17"><![CDATA[Ata qenë të cilët pak flinin natën. ]]></Verse>
+	<Verse VerseID="18"><![CDATA[Dhe në syfyr (kah mbarimi i natës) ata kërkonin falje për mëkata. ]]></Verse>
+	<Verse VerseID="19"><![CDATA[Dhe në pasurinë e tyre kishin përcaktuar të drejtë për lypësin dhe për të ngratin (që ka nevojë por nuk lyp). ]]></Verse>
+	<Verse VerseID="20"><![CDATA[Edhe në tokë ka argumente për ata të bindurit. ]]></Verse>
+	<Verse VerseID="21"><![CDATA[Po edhe në veten tuaj. A nuk jeni kah e shihni? ]]></Verse>
+	<Verse VerseID="22"><![CDATA[E në qiell është furnizimi juaj dhe ajo që ju premtohet. ]]></Verse>
+	<Verse VerseID="23"><![CDATA[Pasha Zotin e qiellit e të tokës, kjo është një e vërtetë, ashtu siç është se ju flisni. ]]></Verse>
+	<Verse VerseID="24"><![CDATA[A ke arritur të dëgjosh ti për rrëfimin e musafirëve të ndershëm të Ibrahimit? ]]></Verse>
+	<Verse VerseID="25"><![CDATA[Kur patën hyrë te Ai dhe thanë: “Të përshendesin me paqe!” (E më vete tha): “Njerëz të panjohur!” ]]></Verse>
+	<Verse VerseID="26"><![CDATA[Dhe ai pa u vërejtur shkoi te familja e vet dhe solli një viç të majmë të pjekur. ]]></Verse>
+	<Verse VerseID="27"><![CDATA[Atë ua afroi atyre e tha: “Përse nuk po hani?” ]]></Verse>
+	<Verse VerseID="28"><![CDATA[Dhe ndjeu njëfarë frike prej atyre, po ata thanë: “Mos kij frikë!” Mandej i dhanë myzhde për një djalë të dijshëm. ]]></Verse>
+	<Verse VerseID="29"><![CDATA[E gruaja e tij nisi të bërtasë e ri ra shuplakë fyyrës së vet e tha: “Unë jam një plakë që nuk lind!” ]]></Verse>
+	<Verse VerseID="30"><![CDATA[Ata (engjëjt) thanë: “Keshtu ka thënë Zoti yt, e Ai është i urti, i gjithedijshmi”. ]]></Verse>
+	<Verse VerseID="31"><![CDATA[Ai (Ibrahimi) tha: “E ç’është puna juaj, o ju të dërguar?” ]]></Verse>
+	<Verse VerseID="32"><![CDATA[Ata thanë: “Ne jemi të dërguar te një popull kriminel!” ]]></Verse>
+	<Verse VerseID="33"><![CDATA[Që të hedhim mbi ta gurë nga balta (e pjekur)! ]]></Verse>
+	<Verse VerseID="34"><![CDATA[(gurë) Të shënuar te Zoti yt, për ata që i kaluan kufijtë (në mëkate). ]]></Verse>
+	<Verse VerseID="35"><![CDATA[Dhe kush ishte aty nga besimtarët, Ne i nxorrëm (i larguam). ]]></Verse>
+	<Verse VerseID="36"><![CDATA[Po nuk gjetëm aty pos një shtëpie myslimane. ]]></Verse>
+	<Verse VerseID="37"><![CDATA[Dhe Ne kemi lënë aty shenjë dënimit të hidhur. ]]></Verse>
+	<Verse VerseID="38"><![CDATA[(Kemi lënë shenjë) Edhe në Musain kur Ne e dërguam te faraoni me fakte të forta. ]]></Verse>
+	<Verse VerseID="39"><![CDATA[E ai, me tërë anën (fuqinë) e vet, ia ktheu shpinën dhe tha: “Është magjistar, ose është i çmendur!” ]]></Verse>
+	<Verse VerseID="40"><![CDATA[E Ne e kapëm atë dhe ushtrinë e tij dhe e hodhëm në det, dhe ai e bëri veten të jetë i sharë. ]]></Verse>
+	<Verse VerseID="41"><![CDATA[Edhe në Adin (kemi lënë shenjë) kur Ne lëshuam kundër tyre erën rrënuese, ]]></Verse>
+	<Verse VerseID="42"><![CDATA[E cila nuk la send pa e shënderruar në mbeturinë. ]]></Verse>
+	<Verse VerseID="43"><![CDATA[Edhe Themudin kur atyre iu pat thënë: kënaquni deri në një kohë . ]]></Verse>
+	<Verse VerseID="44"><![CDATA[E ata nga kryelartësia nuk respektuan urdhërin e Zotit të tyre, andaj i përfshiu rrufeja me krismë, e ata e shihnin. ]]></Verse>
+	<Verse VerseID="45"><![CDATA[Dhe nuk mundën as të ngriten e as t’i kundërvihen. ]]></Verse>
+	<Verse VerseID="46"><![CDATA[Edhe popullin e Nuhut (e dënuam) që ishte më parë. Ai ishte një popull i prishur. ]]></Verse>
+	<Verse VerseID="47"><![CDATA[Ne, me forcën tonë e ngritëm qiellin dhe Ne e zgjërojmë atë. ]]></Verse>
+	<Verse VerseID="48"><![CDATA[Edhe tokën Ne e kemi shtruar, sa shtrues të mirë jemi. ]]></Verse>
+	<Verse VerseID="49"><![CDATA[Dhe Ne krijuam prej çdo sendi dy lloje (mashkull e femër) që ju të përkujtoni (madhështnë e Zotit). ]]></Verse>
+	<Verse VerseID="50"><![CDATA[Pra, ikni e mbështetuni te All-llahu, unë prej Tij jam një qortues i hapët. ]]></Verse>
+	<Verse VerseID="51"><![CDATA[E mos i shoqëroni All-llahut edhe ndonjë zot tjetër, edhe për këtë unë jam i dërguar prej Tij që t’ju tërheqë haptazi vërejtjen. ]]></Verse>
+	<Verse VerseID="52"><![CDATA[Ja, ashtu pra, edhe atyre që ishin më parë nuk u erdhi i dëguar e që nuk i thanë: “Është magjistar ose është i çmendur!” ]]></Verse>
+	<Verse VerseID="53"><![CDATA[A mos e porositën njëri-tjetrin me këtë? Jo, por ata janë popull renegat. ]]></Verse>
+	<Verse VerseID="54"><![CDATA[Andaj ti larohu prej tyre, ti nuk je i qoruar. ]]></Verse>
+	<Verse VerseID="55"><![CDATA[Vazhdo me keshillë, sepse këshilla besimtarëve u bën dobi. ]]></Verse>
+	<Verse VerseID="56"><![CDATA[Unë nuk i krijova xhinët dhe njerëzit për tjetër pos që të më adhurojnë. ]]></Verse>
+	<Verse VerseID="57"><![CDATA[Unë nuk kërkoj prej tyre ndonjë furnizim e as dëshiroj të më ushqejnë ata. ]]></Verse>
+	<Verse VerseID="58"><![CDATA[All-llahu është furnizues i madh, Ai fuqiforti. ]]></Verse>
+	<Verse VerseID="59"><![CDATA[S’ka dyshim se atyre që bënë mizori u përket dënimi si pjesa e dënimit të shokëve të tyre, andaj, të mos e kërkojnë shpejtimin e tij. ]]></Verse>
+	<Verse VerseID="60"><![CDATA[Të mjerët ata që nuk besuan për atë ditën e tyre të premtuar!   ]]></Verse>
+</Chapter>

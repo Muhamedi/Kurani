@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="75" ChapterName="The Resurrection">
+	<Verse VerseID="1"><![CDATA[Betohem në ditën e kijametit; ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Betohem në shpirtin që është shumë qortues! ]]></Verse>
+	<Verse VerseID="3"><![CDATA[A mendon njeriu se nuk do t’i tubojmë eshtrat e tij? ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Po, do t’ia tubojmë! Duke qenë se Ne jemi të zotët t’ia rikrijojmë si kanë qenë edhe majat e gishtave të tij! ]]></Verse>
+	<Verse VerseID="5"><![CDATA[Por, njeriu dëshiron të vazhdojë edhe mëtej në mëkate. ]]></Verse>
+	<Verse VerseID="6"><![CDATA[Andaj edhe pyet: “Kur është dita e kijametit?” ]]></Verse>
+	<Verse VerseID="7"><![CDATA[E, kur të merren sytë (të parët)? ]]></Verse>
+	<Verse VerseID="8"><![CDATA[E të zëhet hëna (errësohet), ]]></Verse>
+	<Verse VerseID="9"><![CDATA[Dhe të bashkohet dielli e hëna. ]]></Verse>
+	<Verse VerseID="10"><![CDATA[Atë ditë njeriu do të thotë: “Nga të iket!” ]]></Verse>
+	<Verse VerseID="11"><![CDATA[Jo, nuk ka strehim! ]]></Verse>
+	<Verse VerseID="12"><![CDATA[Atë ditë vetëm te Zoti yt është caku! ]]></Verse>
+	<Verse VerseID="13"><![CDATA[Atë ditë njeriu do të njihet me atë që çoi para dhe me atë që la prapa. ]]></Verse>
+	<Verse VerseID="14"><![CDATA[Po njeriu është dëshmitar i vetvetes. ]]></Verse>
+	<Verse VerseID="15"><![CDATA[Edhe nëse i paraqet arsyetimet e veta. ]]></Verse>
+	<Verse VerseID="16"><![CDATA[Ti (Muhammed) mos shqipto atë (Kur’anin) me gjuhën tënde për ta nxënë atë me të shpejtë! ]]></Verse>
+	<Verse VerseID="17"><![CDATA[Sepse Ne e kemi për detyrë tubimin dhe leximin e tij! ]]></Verse>
+	<Verse VerseID="18"><![CDATA[E kur ta lexojnë atë ty, ti përcille me të dëgjuar leximin e tij. ]]></Verse>
+	<Verse VerseID="19"><![CDATA[Dhe pastaj është obligim i yni që ta shkoqisim atë. ]]></Verse>
+	<Verse VerseID="20"><![CDATA[Jo, nuk është ashtu! Por ju jeni që e doni të ngutshmen (dynjanë). ]]></Verse>
+	<Verse VerseID="21"><![CDATA[Dhe e lini pas shpine atë të ardhmen (ahiretin). ]]></Verse>
+	<Verse VerseID="22"><![CDATA[Atë ditë do të ketë fytyra të shkëlqyera (të gëzuara). ]]></Verse>
+	<Verse VerseID="23"><![CDATA[Që Zotin e tyre e shikojnë. ]]></Verse>
+	<Verse VerseID="24"><![CDATA[Atë ditë ka fytyra edhe të vrazhda. ]]></Verse>
+	<Verse VerseID="25"><![CDATA[Që presin t’u thyhet kurrizi (të shkatërrohen). ]]></Verse>
+	<Verse VerseID="26"><![CDATA[Jo dhe Jo! Po kur të arrijë (shpirti) në gropë të fytit (të gjoksit), ]]></Verse>
+	<Verse VerseID="27"><![CDATA[Dhe thuhet (nga familja e të afërmit): “Kush do ta shërojë?” ]]></Verse>
+	<Verse VerseID="28"><![CDATA[Dhe ai bindet se ai po ndahet. ]]></Verse>
+	<Verse VerseID="29"><![CDATA[E t’i puqet kofsha për kofshe (t’i vështirësohet gjendja). ]]></Verse>
+	<Verse VerseID="30"><![CDATA[Atë ditë vetëm te Zoti yt shkohet. ]]></Verse>
+	<Verse VerseID="31"><![CDATA[E ai as nuk vërtetoi atë që duhej, as nuk u falë. ]]></Verse>
+	<Verse VerseID="32"><![CDATA[Por përgënjeshtroi dhe ktheu shpinën. ]]></Verse>
+	<Verse VerseID="33"><![CDATA[Dhe shkonte te familja e tij me fodullëk. ]]></Verse>
+	<Verse VerseID="34"><![CDATA[Të është afruar ty e keqja e t’u afroftë! (ose i mjeri ti i mjeri). ]]></Verse>
+	<Verse VerseID="35"><![CDATA[Edhe nje herë t’u afrua ty e keqja; t’u afroftë! ]]></Verse>
+	<Verse VerseID="36"><![CDATA[A mos mendon njeriu se do të lihet duke mos zënë asgjë (pa kurrfarë përgjegjësie). ]]></Verse>
+	<Verse VerseID="37"><![CDATA[A nuk ka qenë ai në një pikë ujë që derdhet. ]]></Verse>
+	<Verse VerseID="38"><![CDATA[E pastaj u bë gjak i trashë, e Ai e krijoi dhe e përsosi? ]]></Verse>
+	<Verse VerseID="39"><![CDATA[Dhe prej tij Ai i bëri dy lloje: mashkullin dhe femrën. ]]></Verse>
+	<Verse VerseID="40"><![CDATA[A nuk është Ai (Zot) i fuqishëm që i ngjall të vdekurit? ]]></Verse>
+</Chapter>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="97" ChapterName="The Majesty">
+	<Verse VerseID="1"><![CDATA[Ne e zbritëm atë (Kur’anin) në natën e Kadrit. ]]></Verse>
+	<Verse VerseID="2"><![CDATA[E ç’të bëri ty të dijsh se ç’është nata e Kadrit? ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Nata e Kadrit është më e rëndësishme se një mijë muaj! ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Me lejen e Zotit të tyre në (atë natë) të zbresin engjëj dhe shpirti (Xhibrili) për secilën çështje. ]]></Verse>
+	<Verse VerseID="5"><![CDATA[Ajo (që përcakton Zoti) është paqe deri në agim të mëngjesit.  ]]></Verse>
+</Chapter>

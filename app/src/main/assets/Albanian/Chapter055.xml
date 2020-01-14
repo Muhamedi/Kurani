@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="55" ChapterName="The Beneficient">
+	<Verse VerseID="1"><![CDATA[Rrahmani - Mëshiruesi (Zoti ynë), ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Ai ia mësoi Kur’anin ]]></Verse>
+	<Verse VerseID="3"><![CDATA[E krijoi njeriun. ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Ia mësoi atij të folurit (të shprehurit të shqiptuarit). ]]></Verse>
+	<Verse VerseID="5"><![CDATA[Dielli dhe hëna udhëtojnë sipas një përcaktimi të saktë. ]]></Verse>
+	<Verse VerseID="6"><![CDATA[Edhe yjet dhe bimët i bëjnë përulje (dëshirës së Rrahmanit). ]]></Verse>
+	<Verse VerseID="7"><![CDATA[Ai e ngriti qiellin dhe Ai vuri drejtësinë. ]]></Verse>
+	<Verse VerseID="8"><![CDATA[Që të mos kaloni kufirin në drejtësi. ]]></Verse>
+	<Verse VerseID="9"><![CDATA[Edhe ju mbani me drejtësi peshojën, e mos leni mangu në peshojë! ]]></Verse>
+	<Verse VerseID="10"><![CDATA[Ai edhe tokën e bëri të shtrirë për krijesat. ]]></Verse>
+	<Verse VerseID="11"><![CDATA[Në të ka pemë të llojllojta, ka edhe hurma ma shporta të mbështjella. ]]></Verse>
+	<Verse VerseID="12"><![CDATA[Edhe drithi me kashtën e tij edhe bimët aromatike (ose ushqyese). ]]></Verse>
+	<Verse VerseID="13"><![CDATA[E, cilën të mirë të Zotit tuaj po e mohoni (ju o njerëz dhe ju o xhinë)? ]]></Verse>
+	<Verse VerseID="14"><![CDATA[Ai e krijoi njeriun nga balta e terur si (enë balte) e pjekur. ]]></Verse>
+	<Verse VerseID="15"><![CDATA[Dhe Ai krijoi xhinët nga flaka (pa tym0 e zjarrit. ]]></Verse>
+	<Verse VerseID="16"><![CDATA[E , cilën begati të Zotit tuaj e mohoni? ]]></Verse>
+	<Verse VerseID="17"><![CDATA[Zot i dy lindeve dhe Zot i dy perëndimeve. ]]></Verse>
+	<Verse VerseID="18"><![CDATA[E, cilën të mirë të Zotit tuaj e mohoni. ]]></Verse>
+	<Verse VerseID="19"><![CDATA[Ai e lejoi dy detet të puqen ndërmjet vete. ]]></Verse>
+	<Verse VerseID="20"><![CDATA[Ndërmjet atyre të dyve është një pengues që ata të dy nuk kapërcejnë. ]]></Verse>
+	<Verse VerseID="21"><![CDATA[E,cilë të mirë të Zotit tuaj po e mohoni? ]]></Verse>
+	<Verse VerseID="22"><![CDATA[Prej atyre të dyve nxirren margaritarë e diamantë. ]]></Verse>
+	<Verse VerseID="23"><![CDATA[E, cilën të mirë të Zotit tuaj po e mohoni? ]]></Verse>
+	<Verse VerseID="24"><![CDATA[Dhe të Atij janë anijet lundruese të ngritura lart si kodra në det. ]]></Verse>
+	<Verse VerseID="25"><![CDATA[E, cilën të mirë të Zotit tuaj po e mohoni? ]]></Verse>
+	<Verse VerseID="26"><![CDATA[çdo gjë që është në të (në tokë) është zhdukur. ]]></Verse>
+	<Verse VerseID="27"><![CDATA[E dotë mbetet vetëm Zoti yt që është i madhëruar e i nderuar! ]]></Verse>
+	<Verse VerseID="28"><![CDATA[E, cilën të mirë të Zotit tuaj po e mohoni? ]]></Verse>
+	<Verse VerseID="29"><![CDATA[(Ai mbetet) Atij i drejtohen me lutje kush është në qiej e në tokë dhe Ai në çdo moment është i angazhuar në çështje të reja (falë mëkate, largon brengosje, jep jetë, jep vdekje, krijon gjendje, zhduk tëtjera etj. ). ]]></Verse>
+	<Verse VerseID="30"><![CDATA[E, cilën të mirë të Zotit tuaj po e mohoni? ]]></Verse>
+	<Verse VerseID="31"><![CDATA[Ne do të merremi me (llogarinë për ju) ju , o ju dy të rëndësishmit (njerëz dhe xhinë). ]]></Verse>
+	<Verse VerseID="32"><![CDATA[E, cilën të mirë të Zotit tuaj po e mohoni? ]]></Verse>
+	<Verse VerseID="33"><![CDATA[O turmë e xhinëve dhe e njerëzve, nëse keni mundësi të dilni përtej kufijve të qiejve e të tokës, depërtoni pra, po nuk mundeni vetëm me ndonjë fuqi të fortë. ]]></Verse>
+	<Verse VerseID="34"><![CDATA[E, cilën të mirë të Zotit tuaj po e mohoni? ]]></Verse>
+	<Verse VerseID="35"><![CDATA[Juve dy grumbujve u derdhet përmbi flakë zjarri dhe do t’uderdhen rem i shkrirë e nuk do të keni mundësi të mbroheni. ]]></Verse>
+	<Verse VerseID="36"><![CDATA[E, cilën të mirë të Zotit tuaj po e mohoni? ]]></Verse>
+	<Verse VerseID="37"><![CDATA[E kur të çahet qielli e bëhet si vaji i shkrirë. ]]></Verse>
+	<Verse VerseID="38"><![CDATA[E, cilën të mirë të Zotit tuaj po e mohoni? ]]></Verse>
+	<Verse VerseID="39"><![CDATA[Atë ditë nuk pyetet për mëkatin e tij, as njeriu as xhini. ]]></Verse>
+	<Verse VerseID="40"><![CDATA[E, cilën të mirë të Zotit tuaj po e mohonni? ]]></Verse>
+	<Verse VerseID="41"><![CDATA[Kriminelët njhen me tiparet e tyre, andaj me rrëmbim kapen për flok dhe për këmbët e tyre. ]]></Verse>
+	<Verse VerseID="42"><![CDATA[E, cilën të mirë të Zotit tuaj poe mohoni? ]]></Verse>
+	<Verse VerseID="43"><![CDATA[Ja, ky është Xhehennemi, të cilin kriminelët e mohonin. ]]></Verse>
+	<Verse VerseID="44"><![CDATA[Ata do të sillen vërdallë ndërmjet atij (zjarrit) dhe ujit të valë deri në kulminacion. ]]></Verse>
+	<Verse VerseID="45"><![CDATA[E, cilën të mirë të Zotit tuaj po e Mohoni? ]]></Verse>
+	<Verse VerseID="46"><![CDATA[E, për atë që i pat frikë paraqitjes para Zotit të vet, janë dyXhennete. ]]></Verse>
+	<Verse VerseID="47"><![CDATA[E, cilën të mirë të Zotit tuaj po e mohoni? ]]></Verse>
+	<Verse VerseID="48"><![CDATA[(Xhennete) plot degë me gjethe e pemë. ]]></Verse>
+	<Verse VerseID="49"><![CDATA[E, cilën të mirë të Zotit tuaj po e mohoni? ]]></Verse>
+	<Verse VerseID="50"><![CDATA[Në ata të dy janë dy kroje që rrjedhin. ]]></Verse>
+	<Verse VerseID="51"><![CDATA[E, cilën të mirë të Zotit tuaj po e mohoni? ]]></Verse>
+	<Verse VerseID="52"><![CDATA[Në ata të dy, prej të gjtitha pemëve ka nga dy lloje. ]]></Verse>
+	<Verse VerseID="53"><![CDATA[E, cilën të mirë të Zotit tuaj po e mohoni? ]]></Verse>
+	<Verse VerseID="54"><![CDATA[Të mbështëetur në kolltukë që i kanë mbulesat e kadifesë, dhe pemët e atyre dy Xhenneteve janë krejt afër. ]]></Verse>
+	<Verse VerseID="55"><![CDATA[E, cilën të mirë të Zotit tuaj po e Mohoni? ]]></Verse>
+	<Verse VerseID="56"><![CDATA[Aty janë ato që përqëndrojnë shikimet e tyre (vetëm në burrat e vet) e që nuk i ka prekur kush para tyre, as njerëz, as xhin. ]]></Verse>
+	<Verse VerseID="57"><![CDATA[E, cilën të mirë të Zotit tuaj po e mohoni? ]]></Verse>
+	<Verse VerseID="58"><![CDATA[Ato janë si xhevahiri e diamanti (të kuqrremta në të bardhë. ]]></Verse>
+	<Verse VerseID="59"><![CDATA[E, cilën të mirë të Zotit tuaj po e mohoni? ]]></Verse>
+	<Verse VerseID="60"><![CDATA[A mund të jetë shpërblimi i veprës së mirë diç tjetër, pos të së mirës! ]]></Verse>
+	<Verse VerseID="61"><![CDATA[E, cilën të mirë të Zotit tuaj po e mohoni? ]]></Verse>
+	<Verse VerseID="62"><![CDATA[E nën ato dy (Xhennete) janë edhe dy Xhennete. ]]></Verse>
+	<Verse VerseID="63"><![CDATA[Po cilën të mirë nga të mirat e Zotit tuaj po e mohoni? ]]></Verse>
+	<Verse VerseID="64"><![CDATA[Nga gjelbërimi i shumtë duken të mbyllura në të zi. ]]></Verse>
+	<Verse VerseID="65"><![CDATA[E, cilën nga të mirat e Zotit tuaj po e mohoni? ]]></Verse>
+	<Verse VerseID="66"><![CDATA[Aty janë dy burime që gjithnjë gurgullojnë. ]]></Verse>
+	<Verse VerseID="67"><![CDATA[E, cilën të mirë të Zoti tuaj po e mohoni? ]]></Verse>
+	<Verse VerseID="68"><![CDATA[Aty, në ata të dy, ka hurma dhe shegë. ]]></Verse>
+	<Verse VerseID="69"><![CDATA[E cilën të mirë të Zotit tuaj po e mohoni? ]]></Verse>
+	<Verse VerseID="70"><![CDATA[70-72. Ato janë hyri që e kufizojnë ndejën vetëm në shtëpinë (tënde). ]]></Verse>
+	<Verse VerseID="71"><![CDATA[70-72. Ato janë hyri që e kufizojnë ndejën vetëm në shtëpinë (tënde). ]]></Verse>
+	<Verse VerseID="72"><![CDATA[70-72. Ato janë hyri që e kufizojnë ndejën vetëm në shtëpinë (tënde). ]]></Verse>
+	<Verse VerseID="73"><![CDATA[E, cilën të mirë të Zotit tuaj po e mohoni? ]]></Verse>
+	<Verse VerseID="74"><![CDATA[Ato nuk i ka prekur kush para tyre, as njeriu as xhini. ]]></Verse>
+	<Verse VerseID="75"><![CDATA[E, cilën të mirë të Zotit tuaj po e mohoni? ]]></Verse>
+	<Verse VerseID="76"><![CDATA[Aty rrinë të mbështetura në mbështetëse të gjelbra e shtroja të bukura. ]]></Verse>
+	<Verse VerseID="77"><![CDATA[E, cilën të mirë të Zotit tuaj po e mohoni? ]]></Verse>
+	<Verse VerseID="78"><![CDATA[I lartësuar është emri i Zotit tënd, të madhëruar e të nderuar!  ]]></Verse>
+</Chapter>

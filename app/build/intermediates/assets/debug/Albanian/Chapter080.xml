@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="80" ChapterName="He Frowned">
+	<Verse VerseID="1"><![CDATA[Ai vrenjti (fytyrën) dhe u kthye. ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Ngase atij i erdh i verbëri. ]]></Verse>
+	<Verse VerseID="3"><![CDATA[E ku mund ta dish ti, ndoshta ai do të pastrohet. ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Apo do të këshillohet dhe këshilla do t’i bëjë dobi! ]]></Verse>
+	<Verse VerseID="5"><![CDATA[E ai që nuk ndien nevojë (për Zotin) pse ka pasuri, ]]></Verse>
+	<Verse VerseID="6"><![CDATA[Ti atij i vë veshin (i drejtohesh)! ]]></Verse>
+	<Verse VerseID="7"><![CDATA[Po ti nuk ke përgjegjësi, pse ai nuk pastrohet. ]]></Verse>
+	<Verse VerseID="8"><![CDATA[Ndërsa ai që nxiton dhe vjen te ti, ]]></Verse>
+	<Verse VerseID="9"><![CDATA[Dhe meqë ai frikësohet, ]]></Verse>
+	<Verse VerseID="10"><![CDATA[E ti nuk e zë asgjë (dhe nuk ia vë veshin fjalës së tij), ]]></Verse>
+	<Verse VerseID="11"><![CDATA[Jo ashtu! Në të vërtetë këto janë këshilla. ]]></Verse>
+	<Verse VerseID="12"><![CDATA[Kush do merr mesim nga kjo (nga Kur’ani). ]]></Verse>
+	<Verse VerseID="13"><![CDATA[Është këshillë në flet të çmueshme. ]]></Verse>
+	<Verse VerseID="14"><![CDATA[Me vlerë të lartë e të ruajtur. ]]></Verse>
+	<Verse VerseID="15"><![CDATA[Në duar të udhëtuesve (engjëjve udhëtues mes All-llahut e njerëzve). ]]></Verse>
+	<Verse VerseID="16"><![CDATA[Të nderuar e të ruajtur. ]]></Verse>
+	<Verse VerseID="17"><![CDATA[Qoftë mallkuar njeriu, sa mohues i fortë është ai! ]]></Verse>
+	<Verse VerseID="18"><![CDATA[Po prej çkafi e krijoi Ai atë? ]]></Verse>
+	<Verse VerseID="19"><![CDATA[Atë e krijoi prej një pike uji dhe e përgatiti. ]]></Verse>
+	<Verse VerseID="20"><![CDATA[Pastaj atij ia lehtësoi rrugën. ]]></Verse>
+	<Verse VerseID="21"><![CDATA[Mandej atë e bëri të vdesë dhe atij i bëri varr (të varrosët). ]]></Verse>
+	<Verse VerseID="22"><![CDATA[Pastaj kur të dojë Ai e ringjallë atë. ]]></Verse>
+	<Verse VerseID="23"><![CDATA[Jo! Ai nuk zbatoi atë që urdhëroi Ai. ]]></Verse>
+	<Verse VerseID="24"><![CDATA[Njeriu le të shikoje ushqimin e vet. ]]></Verse>
+	<Verse VerseID="25"><![CDATA[Ne lëshuam shi të mjaftueshëm. ]]></Verse>
+	<Verse VerseID="26"><![CDATA[Pastaj e çamë tokën sipas nevojës së bimës, ]]></Verse>
+	<Verse VerseID="27"><![CDATA[Dhe bëmë që në të të mbijnë drithëra ]]></Verse>
+	<Verse VerseID="28"><![CDATA[Edhe rrush e perime, ]]></Verse>
+	<Verse VerseID="29"><![CDATA[Edhe ullinj e hurma, ]]></Verse>
+	<Verse VerseID="30"><![CDATA[Edhe kopshte të dendura, ]]></Verse>
+	<Verse VerseID="31"><![CDATA[Dhe pemë e kullosa, ]]></Verse>
+	<Verse VerseID="32"><![CDATA[Si mjete gjallërimi për ju dhe për bagëtinë tuaj. ]]></Verse>
+	<Verse VerseID="33"><![CDATA[E kur të vijë ushtima (krisma e kijametit); ]]></Verse>
+	<Verse VerseID="34"><![CDATA[Atë ditë njeriu ikën prej vëllait të vet, ]]></Verse>
+	<Verse VerseID="35"><![CDATA[Prej nënës dhe prej babait të vet, ]]></Verse>
+	<Verse VerseID="36"><![CDATA[Prej gruas dhe prej fëmjëve të vet. ]]></Verse>
+	<Verse VerseID="37"><![CDATA[Atë ditë secilit njeri i mjafton çështja e vet. ]]></Verse>
+	<Verse VerseID="38"><![CDATA[Atë ditë do të ketë fytyra të shndritura, ]]></Verse>
+	<Verse VerseID="39"><![CDATA[Të buzëqeshura e të gëzuara. ]]></Verse>
+	<Verse VerseID="40"><![CDATA[Atë ditë do të ketë edhe fytyra të pluhëruara, ]]></Verse>
+	<Verse VerseID="41"><![CDATA[Që i ka mbuluar errësira e zezë, ]]></Verse>
+	<Verse VerseID="42"><![CDATA[E të tillët janë ata mohuesit, mëkatarët.  ]]></Verse>
+</Chapter>

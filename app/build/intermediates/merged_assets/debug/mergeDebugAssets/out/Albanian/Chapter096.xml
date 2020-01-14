@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="96" ChapterName="The Clot">
+	<Verse VerseID="1"><![CDATA[Lexo me emrin e Zotit tënd, i cili krijoi. ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Krijoi njeriun prej gjakut të ngjizur. ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Lexo për Zotin tënd Bujar! ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Është Ai që ua mësoi pendën. ]]></Verse>
+	<Verse VerseID="5"><![CDATA[Ia mësoi njeriut atë që nuk e dinte. ]]></Verse>
+	<Verse VerseID="6"><![CDATA[Jo, është e vërtetë se ai i kalon kufintë, ]]></Verse>
+	<Verse VerseID="7"><![CDATA[Për shkak se e ndien veten të pavarur. ]]></Verse>
+	<Verse VerseID="8"><![CDATA[Po kthimi është vetëm te Zoti yt. ]]></Verse>
+	<Verse VerseID="9"><![CDATA[A më tregon atë që pengon, ]]></Verse>
+	<Verse VerseID="10"><![CDATA[një rob kur ai falet? ]]></Verse>
+	<Verse VerseID="11"><![CDATA[ç’mendon kur ai (robi) është në rrugë të drejtë? ]]></Verse>
+	<Verse VerseID="12"><![CDATA[Ose ai (rob) urdhëroi për sinqeritet. ]]></Verse>
+	<Verse VerseID="13"><![CDATA[A më trego nëse ai përgënjeshtron dhe zmbrapset (nga besimi)? ]]></Verse>
+	<Verse VerseID="14"><![CDATA[A nuk e di ai se All-llahu e sheh? ]]></Verse>
+	<Verse VerseID="15"><![CDATA[Jo, Jo! Nëse nuk tërhiqet, vërtet do ta kapim për flokësh mbi ballin. ]]></Verse>
+	<Verse VerseID="16"><![CDATA[Floku rrenacak, mëkatar. ]]></Verse>
+	<Verse VerseID="17"><![CDATA[E ai le t’i thërret ata të vetët. ]]></Verse>
+	<Verse VerseID="18"><![CDATA[Ne do t’i thërrasim zebanitë. ]]></Verse>
+	<Verse VerseID="19"><![CDATA[Jo, Jo! Ti mos iu bind atij, vazhdo me sexhde dhe afroju Zotit me të.  ]]></Verse>
+</Chapter>

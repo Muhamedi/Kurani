@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="84" ChapterName="The Bursting Asund">
+	<Verse VerseID="1"><![CDATA[Kur të pëlcet qielli. ]]></Verse>
+	<Verse VerseID="2"><![CDATA[T’i bindet urdhërit të Zotit të vet, ashtu si takoi. ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Dhe kur toka të shtrihet në gjerësinë e saj. ]]></Verse>
+	<Verse VerseID="4"><![CDATA[E të nxjerr çka ka brenda e të çlirohet, ]]></Verse>
+	<Verse VerseID="5"><![CDATA[Dhe t’i bindet Zotit të saj, ashtu si takoi. ]]></Verse>
+	<Verse VerseID="6"><![CDATA[O ti njeri, vërtet ti përpiqesh me një përpjekje të madhe që çon te Zoti yt, e atë (përpjekje) do ta gjesh. ]]></Verse>
+	<Verse VerseID="7"><![CDATA[E përsa i përket atij që libri i vet i jepet nga e djathta, ]]></Verse>
+	<Verse VerseID="8"><![CDATA[Ai do të llogaritet me një llogari të lehtë, ]]></Verse>
+	<Verse VerseID="9"><![CDATA[Do të kthehet te familja e vet i gëzuar. ]]></Verse>
+	<Verse VerseID="10"><![CDATA[E përsa i përket atij që libri i vet i jepet pas shpinës, ]]></Verse>
+	<Verse VerseID="11"><![CDATA[Ai do t’i ndjellë vetes shkatërrim, ]]></Verse>
+	<Verse VerseID="12"><![CDATA[Dhe do të hyjë në zjarr të ndezur fort. ]]></Verse>
+	<Verse VerseID="13"><![CDATA[Ai ka qenë i gëzuar në familjen e vet, ]]></Verse>
+	<Verse VerseID="14"><![CDATA[Dhe ka menduar se nuk ka për t’u kthyer. ]]></Verse>
+	<Verse VerseID="15"><![CDATA[Po, se, vërtet Zoti i tij gjithnjë e ka parë atë. ]]></Verse>
+	<Verse VerseID="16"><![CDATA[Betohem në kuqërrimin e horizontit pas perëndimit, ]]></Verse>
+	<Verse VerseID="17"><![CDATA[Dhe në natën dhe çka ajo tubon, ]]></Verse>
+	<Verse VerseID="18"><![CDATA[Dhe në hënën kur ajo është e plotë. ]]></Verse>
+	<Verse VerseID="19"><![CDATA[Ju patjetër do të përjetoni gjendje pas gjendjeje. ]]></Verse>
+	<Verse VerseID="20"><![CDATA[E, çka kanë ata që nuk besojnë? ]]></Verse>
+	<Verse VerseID="21"><![CDATA[Dhe kur u lexohet atyre Kur’ani, nuk përulen (nuk bien në sexhde)? ]]></Verse>
+	<Verse VerseID="22"><![CDATA[Përkundrazi, ata që nuk besuan edhe përgënjeshtrojnë? ]]></Verse>
+	<Verse VerseID="23"><![CDATA[E All-llahu e di më së miri se çka mbajnë fshehtë ata! ]]></Verse>
+	<Verse VerseID="24"><![CDATA[Lajmëroji, pra me një dënim të dhembshëm. ]]></Verse>
+	<Verse VerseID="25"><![CDATA[Me përjashtim të atyre që besuan e bënë vepra të mira, të cilët kanë shpërblim të vazhdueshëm!  ]]></Verse>
+</Chapter>

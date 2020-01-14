@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="68" ChapterName="The Pen">
+	<Verse VerseID="1"><![CDATA[Nun, betohem në pendën dhe në atë çka shkruajnë! ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Ti, me dhuratën pejgamber) e Zotit tënd, nuk je i çmendur! ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Dhe se ti, padyshim do të kesh shpërblim të pandërprerë! ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Vërtet, ti je në një shkallë të lartë morali! ]]></Verse>
+	<Verse VerseID="5"><![CDATA[Më vonë ti do të shohësh, edhe ata do të shohin. ]]></Verse>
+	<Verse VerseID="6"><![CDATA[Se cili prej jush është i çmendur? ]]></Verse>
+	<Verse VerseID="7"><![CDATA[S’ka dyshim se Zoti yt është Ai që e di më së miri se kush është ai që ka humbur prej rrugës së Tij dhe Ai e di më së miri për të udhëzuarit. ]]></Verse>
+	<Verse VerseID="8"><![CDATA[Andaj, ti mos u pajto me gënjeshtarët! ]]></Verse>
+	<Verse VerseID="9"><![CDATA[Ata kanë dëshirë që ti të bësh lajka. ]]></Verse>
+	<Verse VerseID="10"><![CDATA[Mos e respekto askë që betohet shumë dhe është i poshtër! ]]></Verse>
+	<Verse VerseID="11"><![CDATA[që është përgojues e ban fjalë ndër njerëz. ]]></Verse>
+	<Verse VerseID="12"><![CDATA[Shumë koprrac ndaj rrugës së mbarë, i pafrenueshëm, mëkatarë, ]]></Verse>
+	<Verse VerseID="13"><![CDATA[që është shumë i vrazhdë, më në fund edhe kopil (nuk dihet baba). ]]></Verse>
+	<Verse VerseID="14"><![CDATA[(Mos e respekto) Vetëm pse ka pasuri e djem! ]]></Verse>
+	<Verse VerseID="15"><![CDATA[Kur atij i lexohen ajetet Tona, ai thotë: “Legjenda të të parëve!” ]]></Verse>
+	<Verse VerseID="16"><![CDATA[Ne do ti dëmkosim atë në turi (në hundë). ]]></Verse>
+	<Verse VerseID="17"><![CDATA[Ne i sprovuam ata (mekasit) sikurse i kemi pas sprovuar pronarët e kopshtit. Kur u betuan se do të vjelin atë herët në agim. ]]></Verse>
+	<Verse VerseID="18"><![CDATA[E nuk thanë (kur u betuan): “Në dashtë All-llahu - inshaell -llahu!” ]]></Verse>
+	<Verse VerseID="19"><![CDATA[E, sa qenë ata fjetur, atë (kopshtin) e goditi një bela nga Zoti yt. ]]></Verse>
+	<Verse VerseID="20"><![CDATA[Dhe ai gdhiu si të ishte i vjelë. ]]></Verse>
+	<Verse VerseID="21"><![CDATA[Ata në mëngjes thërritnin njëri-tjetrin. ]]></Verse>
+	<Verse VerseID="22"><![CDATA[Ngrihuni herët te prodhimet e tuaja, nëse doni t’i vilni! ]]></Verse>
+	<Verse VerseID="23"><![CDATA[Dhe ata vajtënduke pëshpëritur në mes vete ( të mos i dëgjojnë kush). ]]></Verse>
+	<Verse VerseID="24"><![CDATA[24-25. Të mos lejojnë të afrohet sot në të asnjë i varfër. ]]></Verse>
+	<Verse VerseID="25"><![CDATA[24-25. Të mos lejojnë të afrohet sot në të asnjë i varfër. ]]></Verse>
+	<Verse VerseID="26"><![CDATA[E kur e panë atë, thanë: “S’ka dyshim, ne kemi humbur (rrugën)”. ]]></Verse>
+	<Verse VerseID="27"><![CDATA[Jo, (ne nuk kemi humbur rrugën) por pakemi mbetur pa të! ]]></Verse>
+	<Verse VerseID="28"><![CDATA[Ai me maturi prej tyre tha: “A nuk ju thahë përse nuk e përmendi Zotin?” ]]></Verse>
+	<Verse VerseID="29"><![CDATA[Atëherë ata thanë: “I pafajshëm është Zoti ynë, ne ishim të padrejtë” ]]></Verse>
+	<Verse VerseID="30"><![CDATA[Dhe u kthyen e po e qortojën njëri-tjetrin. ]]></Verse>
+	<Verse VerseID="31"><![CDATA[Thanë: “Të mjerët ne, vërtet ne ishim jashtë rrugës!” ]]></Verse>
+	<Verse VerseID="32"><![CDATA[Shpresohet se Zoti yt do na zëvendsojë me ndonjë edhe më të mirë se ai; ne në të vetëm te Zoti ynë mbajmë shpresën. ]]></Verse>
+	<Verse VerseID="33"><![CDATA[Ja, kështu do të jenë dënimi (i mekasve), ndërsa dënimi i botës tjetër do të jetë shumë më i ashpër, sikur të jenë që e kuptojnë. ]]></Verse>
+	<Verse VerseID="34"><![CDATA[Është e sigurt se për të devotshmit do të ketë te Zoti i tyre kopshte të begatshme. ]]></Verse>
+	<Verse VerseID="35"><![CDATA[A do ti bëjmë krminelët të barabartë me mylimanët? ]]></Verse>
+	<Verse VerseID="36"><![CDATA[ç’është me ju, si gjykoni ashtu? ]]></Verse>
+	<Verse VerseID="37"><![CDATA[A mos keni ndonjë libër, e prej saj mësoni? ]]></Verse>
+	<Verse VerseID="38"><![CDATA[E ju do të keni atje çka të dëshironi? ]]></Verse>
+	<Verse VerseID="39"><![CDATA[Amos keni ndonjë zotim të fortë prej Nesh që vazhdon deri në kijamet, se do ta rrini atë që dëshironi? ]]></Verse>
+	<Verse VerseID="40"><![CDATA[Pyeti ata se cili është prej tyre që u garanton atë? ]]></Verse>
+	<Verse VerseID="41"><![CDATA[Apo ata kanë ortakë (zota) që u garantojnë, pra le t’i sjellin ortakët e vet, nëse e thonë të vëtetën? ]]></Verse>
+	<Verse VerseID="42"><![CDATA[(Përkujto) Ditën kur ashpërsohet çshtja deri në kulm (në kijamet), e ata do të ftohen për të bërë sexhde, po nuk mundën. ]]></Verse>
+	<Verse VerseID="43"><![CDATA[Shikimet e tyre janë të përulura dhe ata i kaplon poshtërimi, kur dihet se ata kanë qenë të ftuar të bëjnë sexhde sa ishin të shëndoshë (e ata - talleshin). ]]></Verse>
+	<Verse VerseID="44"><![CDATA[Pra më lë Mua dhe ata që e mohojnë këtë Kur’an. Ne do t’i afrojmë ata dalëngadalë te dënimi prej nga nuk presin. ]]></Verse>
+	<Verse VerseID="45"><![CDATA[Dhe atyre Unë u jap afat, sepse ndëshkimi Im ëstë shumë i fortë. ]]></Verse>
+	<Verse VerseID="46"><![CDATA[A mos kërkon ti prej tyre shpërblim, e ata janë të ngarkuar me dhëniet? ]]></Verse>
+	<Verse VerseID="47"><![CDATA[A mos te ta është e fshehta (e Lehvi Mahfudhit), e ata prej atu trumbetojnë (se janë të mirë)? ]]></Verse>
+	<Verse VerseID="48"><![CDATA[Po ti, bëhu i durueshëm ndaj caktimit të Zotit tënd, e mos u bë si ai peshkut në kohën kur pat thirrur (Zotin) dhe ishte i mllefosur. ]]></Verse>
+	<Verse VerseID="49"><![CDATA[Sikur të mos i afrohej atij mëshirë nga Zoti i tij, do të hidhej në shkretërirë i demoralizuar. ]]></Verse>
+	<Verse VerseID="50"><![CDATA[Po Zoti i tij, e bëri atë të zgjedhur prej të mirëve. ]]></Verse>
+	<Verse VerseID="51"><![CDATA[E ata që nuk besuan gati sa të zhdukin me shikimet e tyre, kur dëgjuan Kur’anin, e (nga inati) thanë: “Ai është i marrë!” ]]></Verse>
+	<Verse VerseID="52"><![CDATA[Po ai (Kur’ani) nuk është tjetër vetëm se këshillë për botën (e njerëzve e të xhinëve).  ]]></Verse>
+</Chapter>

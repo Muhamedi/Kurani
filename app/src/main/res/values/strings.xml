@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Kurani</string>
+    <string name="copy">Kopjo</string>
+    <string name="clear_savings">Pastro</string>
+    <string name="pdf_text">PDF</string>
+    <string name="read_quran_cardview_text">Lexo Kuran</string>
+    <string name="bookmarked_ayah">Ajeti i mbetur</string>
+    <string name="saved_ayas">Ruajtjet</string>
+    <string name="other_options">Tjera</string>
+    <string name="search_aya">Kërko ajetin</string>
+    <string name="surah_Listing">Suret</string>
+    <string name="ayah_Listing">Ajetet</string>
+    <string name="fb_share">Shpërndaje</string>
+    <string name="save_ayah">Ruaje</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="questions">Pyetje</string>
+</resources>

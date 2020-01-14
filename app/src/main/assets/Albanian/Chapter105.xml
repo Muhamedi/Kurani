@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="105" ChapterName="The Elephant">
+	<Verse VerseID="1"><![CDATA[A nuk e ke parë se ç’bëri Zoti yt me poseduesi e elefantit? ]]></Verse>
+	<Verse VerseID="2"><![CDATA[A nuk ua bëri përpjekjen e tyre të dështuar? ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Dhe Ai kundër tyre lëshoi shpendë që vinin tufë-tufë! ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Dhe i gjuanin ata me gurë nga balta e gurëzuar! ]]></Verse>
+	<Verse VerseID="5"><![CDATA[Dhe ata i bëri si gjeth i grimcuar (i përtypur)!  ]]></Verse>
+</Chapter>

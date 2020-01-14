@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="38" ChapterName="Suad">
+	<Verse VerseID="1"><![CDATA[Sad. Pasha Kur’anin që është përplot përkujtime (është i famshëm dhe s’ka dyshim se është mrekulli). ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Por ata që nuk besuan janë në kryeneçsi e kundërshtim. ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Sa gjenerata para tyre i kemi asgjësuar, të cilët lutën për shpëtim, po nuk ishte koha e shpëtimit. ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Ata (idhujtarët) habiten, ngase u erdhi pejgamberi nga mesi i tyre, e mosbesimtarët thanë: “Ky është magjistar, rrenës”. ]]></Verse>
+	<Verse VerseID="5"><![CDATA[A mendon ai t’i bëjë zotat Një Zot? Vërtet, kjo është gjë shumë e çuditshme! ]]></Verse>
+	<Verse VerseID="6"><![CDATA[Paria nga mesi i tyre shkoi duke i thënë njëri-tjetrit: vazhdoni të jeni të qëndrueshëm në adhurimin e zotave tuaj, pse kjo është një gjë e kurdisur. ]]></Verse>
+	<Verse VerseID="7"><![CDATA[Ne nuk kemi dëgjuar diçka të këtillë në popullin (në fenë) e fundit; kjo nuk është tjetër, pos një trillim! ]]></Verse>
+	<Verse VerseID="8"><![CDATA[A mos atij, nga mesi ynë, iu zbrit Kur’ani? Jo, por ata janë në dyshimndaj Kur’anit Tim, por për shkak se ende nuk e kanë shijuar dënimin Tim. ]]></Verse>
+	<Verse VerseID="9"><![CDATA[A mos ata i kanë depotë e mëshirës së Zotit tënd, Ngadhënjyesit, Dhuruesit! ]]></Verse>
+	<Verse VerseID="10"><![CDATA[A mos është i tyre pushteti i qiejve e i tokës dhe çka ka ndërmjet tyre? Pra, le të rreken me shkaqet (deri në qiell e të komandojnë)! ]]></Verse>
+	<Verse VerseID="11"><![CDATA[(Ata janë) Një ushtri e grupacioneve që është aty, ajo është e thyer. ]]></Verse>
+	<Verse VerseID="12"><![CDATA[Përgënjedhtruan para tyre populli i Nuhut, Adi dhe Firavni i ngrehinave të mëdha. ]]></Verse>
+	<Verse VerseID="13"><![CDATA[(Përgënjeshtruan) Edhe Themudi, edhe populli i Lutit dhe banorët e Ejkes. Ato ishin grupacione (kundërshtare) ]]></Verse>
+	<Verse VerseID="14"><![CDATA[Secili prej tyre përgënjeshtroi të dërguarit, andaj i gjeti dënimi Im. ]]></Verse>
+	<Verse VerseID="15"><![CDATA[Po edhe këta nuk janë duke pritur tjetër vetëm se një ushtimë që nuk ka të përsëritur. ]]></Verse>
+	<Verse VerseID="16"><![CDATA[Ata edhe thanë: “Zoti ynë, ngutna pjesën tonë para ditës së përgjegjësisë (të gjykimit)!” ]]></Verse>
+	<Verse VerseID="17"><![CDATA[Ti duro ndaj asaj që thonë ata, dhe përkujtorobin Tonë Davudin, të fuqishmin (në fe e trup), vërtet ai gjithnjë i drejtohej All-llahut. ]]></Verse>
+	<Verse VerseID="18"><![CDATA[Ne ia nënshtruam kodrat që së bashku që së bashku me të bënin tesbihë mbrëmje e mëngjes, ]]></Verse>
+	<Verse VerseID="19"><![CDATA[Edhe shpezët e tubuara, të gjitha, vetëm Atij i ishin drejtuar. ]]></Verse>
+	<Verse VerseID="20"><![CDATA[Ne ia forcuam edhe sundimin atij, i dhamë mençuri dhe aftësi në gjykime. ]]></Verse>
+	<Verse VerseID="21"><![CDATA[A të ka arritur lajmi i palëve ndërgjykuese, kur kaluan prej së larti në dhomën ku lutej. ]]></Verse>
+	<Verse VerseID="22"><![CDATA[Kur hynë te Davudi, ai u frikësua prej tyre, po ata i thanë: “Mos ke frikë, ne jemi dy palë në kundërshtim që i kemi bërë padrejtë njëri-tjetrit, ndaj gjyko me drejtësi mes nesh e mos shmang, dhe udhëzona në rrugë të drejtë”. ]]></Verse>
+	<Verse VerseID="23"><![CDATA[Ky miku im i ka nëntëdhjetë e nëntë dele, ndërsa un ë kam vetëm një dhe dhe më ka thënë: “Ma ler mua ta posedoj atë! “ Dhe më rëndoi e më mundi me fjalë!” ]]></Verse>
+	<Verse VerseID="24"><![CDATA[Ai (Davudi) tha: “Ai ka bërë padrejtë ndaj teje me kërkimin e deles tënde (për t’ia bashkuar) te delet e veta. Është e vërtetë se shumica prej otakëve i bëjnë padrejtë njëri-tjetrit, me përjashtim të atyre që kanë besuar dhe punuar vepra të mira, por të tillë janë pak!” e Davudi mendoi se Ne kemi vënë në sprovë atë, andaj kërkoi falje nga Zoti i vet, ra i përkulur dhe u pendua. ]]></Verse>
+	<Verse VerseID="25"><![CDATA[Ne atë ia falë, atijdhe ai është i afërt te Ne dhe ka përfundim (ardhmëri) të mirë. ]]></Verse>
+	<Verse VerseID="26"><![CDATA[O Davud: “Ne të kemi bërë sundimtar në tokë, e ti pra gjyko me drejtësi mes njerëzve, e mos shko pas dëshirave se ato ë shmangin prej rrugës së All-llahu. Ata që largohen prej rrugës së All-llahut i pret dënim i rëndë për shkak se e harruan ditën e përgjegjësisë”. ]]></Verse>
+	<Verse VerseID="27"><![CDATA[Ne nuk e krijuam qiellin e as tokën dhe çka ka në mes tyre, pa qëlllim (shkel e shko), ai është mendim i atyre që nuk besuan, pra dënimi me zjarr është mjerim për ata që nuk besuan. ]]></Verse>
+	<Verse VerseID="28"><![CDATA[A mos do t’i barazojmë ata që besuan dhe bënë vepra të mira me ata që bënë shkatërrime në tokë, apo do t’i konsiderojnë njësoj si të ruajturit prej të këqiave, si ata që janë mëkatarë? ]]></Verse>
+	<Verse VerseID="29"><![CDATA[(Ky është) Libër i begatshëm, Ne ta shpallëm ty këtë, që t’i studiojnë argumentet e tij dhe që të marrin mësim prej tij ata që kanë mend. ]]></Verse>
+	<Verse VerseID="30"><![CDATA[Ne Davudit i falëm Sulejmanin, rob shumë i mirë dhe shumë i kthyer nga Zoti. ]]></Verse>
+	<Verse VerseID="31"><![CDATA[Kur në një parambrëmje iu shfaqën atij kuaj që, kur ishin të ndalur, rrinin gatitu në tri këmbë, e ishin edhe shumë të shpejtë. ]]></Verse>
+	<Verse VerseID="32"><![CDATA[E ai tha: “Unë i dhashë përparësi dashurisë së kuajve, ndaj Zotit tim, derisa (dielli) e fsheh dhe perëndoi”. ]]></Verse>
+	<Verse VerseID="33"><![CDATA[“M’i ktheni ata mua!” Atëherë filloi t’u mësjojë këmbëve e qafave. ]]></Verse>
+	<Verse VerseID="34"><![CDATA[Ne e sprovuam Sulejmanin dhe e mbajtëm në postin e tij si një trup, e pastaj u rikthye n gjendjen në jendjen e parë. ]]></Verse>
+	<Verse VerseID="35"><![CDATA[Tha: “Zoti im, më fal (gabimin), më dhuro asi pushteti që askush pas meje nuk do të ketë; vërtet, Ti je dhuruesi më i madh. ]]></Verse>
+	<Verse VerseID="36"><![CDATA[Ne ia nënshtruam erën që, sipas urdhërit të tij, ajo të ecën lehtë dhe nga të dëshirojë ai. ]]></Verse>
+	<Verse VerseID="37"><![CDATA[Ndërsa djajtë (ia nënshtruam) për çdo ndërtim dhe zhytje në ujë. ]]></Verse>
+	<Verse VerseID="38"><![CDATA[Dhe të tjerët (djaj) që ishin të lidhur në panga. ]]></Verse>
+	<Verse VerseID="39"><![CDATA[Ky është shpërblimi Ynë, e ti dhuro ose mos dhuro, për këtë nuk përgjigjesh. ]]></Verse>
+	<Verse VerseID="40"><![CDATA[Ai vërtet ka vend të lartë te Ne dhe ardhmëri të mirë. ]]></Verse>
+	<Verse VerseID="41"><![CDATA[Përkujto edhe robin tonë Ejubin, kur me lutje iu drejtua Zotit të vet: “Djalli më ka goditur me mundim e dhembje!” ]]></Verse>
+	<Verse VerseID="42"><![CDATA[Bjeri me këmbën tënde tokës! Ky është (ujë) i ftohtë, lahesh dhe pi. ]]></Verse>
+	<Verse VerseID="43"><![CDATA[E nga mëshira Jonë dhe mësim për ata që kanë menduar, Ne ia falëm familjen e tij dhe po aq sa ishin ata. ]]></Verse>
+	<Verse VerseID="44"><![CDATA[E, merre me dorën tënde njëdeng thupra dhe bjeri me të, e mos e thyej betimin! Vërtet, Ne e gjetëm atë të durueshëm. Sa rob shumë i mirë ishte ai dhe i kthyer te Zoti. ]]></Verse>
+	<Verse VerseID="45"><![CDATA[Përkujto robërit tanë Ibrahimin, Is-hakun, Jakubin që ishin të fortë në zbatimin e detyrave dhe largpamës në fe. ]]></Verse>
+	<Verse VerseID="46"><![CDATA[ne i pajisëm ata me një virtyt të posaçëm, me përkujtim ndaj botës tjetër. ]]></Verse>
+	<Verse VerseID="47"><![CDATA[S’ka dyshim se ata ishin te Ne prej të zgjedhurve më të mirë. ]]></Verse>
+	<Verse VerseID="48"><![CDATA[Përkujto Ismajlin, Eljesan, Dhelkiflin, që të gjithë prej të zgjedhurve. ]]></Verse>
+	<Verse VerseID="49"><![CDATA[Ky është një përkujtim. E është e sigurt se ata që janë të ruajtur, kanë një ardhmëri të mirë. ]]></Verse>
+	<Verse VerseID="50"><![CDATA[Xhennetet e Adnit janë me dyer të hapura për ata. ]]></Verse>
+	<Verse VerseID="51"><![CDATA[Aty do të jenë të mbështetur në kolltukë dhe të kërkojnë emë e pije të llojeve të ndryshme. ]]></Verse>
+	<Verse VerseID="52"><![CDATA[Ata kanë pranë vetes (hyri) sypërulura të një moshe. ]]></Verse>
+	<Verse VerseID="53"><![CDATA[Këto janë ato që premtoheshit për ditën e llogarisë. ]]></Verse>
+	<Verse VerseID="54"><![CDATA[Ky është furnizimi Ynë, i cili nuk ka të mbaruar. ]]></Verse>
+	<Verse VerseID="55"><![CDATA[Kjo është kështu, E, sa u përket atyre që nuk besuan, ata kanë një ardhmëri shumë të keqe, ]]></Verse>
+	<Verse VerseID="56"><![CDATA[Xhehennemin që do të hudhen në të, e sa djep i shëmtuar është ai. ]]></Verse>
+	<Verse VerseID="57"><![CDATA[Ky është ujë i valë dhe i ndyrë; le ta shijojnë atë! ]]></Verse>
+	<Verse VerseID="58"><![CDATA[I presin edhe dënime të tjera të llojllojta sikurse ai. ]]></Verse>
+	<Verse VerseID="59"><![CDATA[Ky është një grumbull që bashkohet me ju (u thonë engjëjt parisë): “Mos paqin komoditet as mirëseardhje (thonë paria)!” Ata janë që do të digjen në zjarr. ]]></Verse>
+	<Verse VerseID="60"><![CDATA[Ata (të shtypurit) thonë: “Jo, juve mos u qoftë as mirëseardhja, as komoditeti; ju jeni që na e përgatitët këtë!” Sa vendqëndrim i keq është! ]]></Verse>
+	<Verse VerseID="61"><![CDATA[O Zoti ynë, ata thonë: “Atij që na e bëri këtë, shtoja dyfish dënimin në zjarr!” ]]></Verse>
+	<Verse VerseID="62"><![CDATA[Dhe thonë: “ç’ëshë që nuk po i shohim disa burra që ne i konsideronim prej të këqijve. ]]></Verse>
+	<Verse VerseID="63"><![CDATA[E që i kemi pas marrë ata ër tallje, a mos na u ka larguar shikimi prej tyre?” ]]></Verse>
+	<Verse VerseID="64"><![CDATA[Kjo armiqësi në mes banuesve të zjarrit është e vërtetë. ]]></Verse>
+	<Verse VerseID="65"><![CDATA[Thuaj: “Unë jam vetëm këshillues, e nuk ka ndonjë zot tjetër përpos All-llahut Një, Dërmuesit. ]]></Verse>
+	<Verse VerseID="66"><![CDATA[Zot i qiejve e i tokës dhe ç’ka mes tyre, i plotfuqishmi, Mëkatfalësi”. ]]></Verse>
+	<Verse VerseID="67"><![CDATA[Thusj: “Ky (Kur’ani) është një kumtesë e madhe!” ]]></Verse>
+	<Verse VerseID="68"><![CDATA[Të cilës ju ia ktheni shpinën. ]]></Verse>
+	<Verse VerseID="69"><![CDATA[Unë nuk kam pasur kurrfarë dije për eliten e lartë (melaike) kur ata bën polemikë (rreth Ademit). ]]></Verse>
+	<Verse VerseID="70"><![CDATA[Mua nuk më shpalet tjetër vetëm se, unë nuk jam tjetër pos një tërheqës i hapët i vërejtjes! ]]></Verse>
+	<Verse VerseID="71"><![CDATA[Kur Zoti yt u tha engjëjve: “Unë po krijoi një njeri nga balta, ]]></Verse>
+	<Verse VerseID="72"><![CDATA[dhe kur ta kem përsosur atë dhe t’i kem dhënë nga ana Ime shpirt, ju menjëherë përuljunju atij (në sexhde)”. ]]></Verse>
+	<Verse VerseID="73"><![CDATA[Engjëjt, të gjithë së bashku iu përulën, ]]></Verse>
+	<Verse VerseID="74"><![CDATA[përveç Iblisit që ishte kryelartë dhe që u bë prej jobesimtarëve. ]]></Verse>
+	<Verse VerseID="75"><![CDATA[(Zoti) Tha: “O Iblis, çka të pengoi ty t’i përulësh atij që Unë vetë e krijova? A bëre kryeneçësi, apo ke qenë prej atyre që shesin fodullëk?” ]]></Verse>
+	<Verse VerseID="76"><![CDATA[Ai (Iblisi) tha: “Unë jam më i miri prej tij, mua më ke krijuar nga zjarri, e atë e krijove nga balta!” ]]></Verse>
+	<Verse VerseID="77"><![CDATA[(Zoti) Tha: “dil pra prej tij (prej Xhennetit), ti je i mallkuar. ]]></Verse>
+	<Verse VerseID="78"><![CDATA[Dhe largimi prej mëshirës Sime ka për të përcjellë deri në ditën e gjykimit!” ]]></Verse>
+	<Verse VerseID="79"><![CDATA[Ai tha: “Zoti im, më jep afat deri në ditën e ringjalljes!” ]]></Verse>
+	<Verse VerseID="80"><![CDATA[(Zoti) Tha: “Po, je prej atyre të afatizuarëve, ]]></Verse>
+	<Verse VerseID="81"><![CDATA[deri në kohën e ditës së caktuar!” ]]></Verse>
+	<Verse VerseID="82"><![CDATA[Ai tha: “Pasha madhërinë Tënde, kam për t’i shmangur pre rrugës së drejtë që të gjithë, ]]></Verse>
+	<Verse VerseID="83"><![CDATA[përveç atyre që janë të sinqertë nga robërit e Tu!” ]]></Verse>
+	<Verse VerseID="84"><![CDATA[(Zoti) Tha: “Pasha të vërtetën, e Unë e flas vetëm të vërtetën: ]]></Verse>
+	<Verse VerseID="85"><![CDATA[Unë do ta mbushi Xhehennemin me ty dhe të gjithë ata që vijnë pas teje!” ]]></Verse>
+	<Verse VerseID="86"><![CDATA[Thuaj (Muhammed): “Unë nuk kërkoj pre jush ndonjë shpërblim, dhe unë nuk jam prej atyre që bëjnë trillime”. ]]></Verse>
+	<Verse VerseID="87"><![CDATA[Ky (Kur’ani) nuk është tjetër vetëm se këshillë për botët. ]]></Verse>
+	<Verse VerseID="88"><![CDATA[E ju gjithsesi do ta kuptoni pas pak kohe vërtetësinë e tij.  ]]></Verse>
+</Chapter>

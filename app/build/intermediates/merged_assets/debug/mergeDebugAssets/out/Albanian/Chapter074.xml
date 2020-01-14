@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="74" ChapterName="The Clothe Done">
+	<Verse VerseID="1"><![CDATA[O ti i mbuluar! ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Ngrihu dhe tërhiqu vërejtjen (duke i thirrur). ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Dhe madhëroje Zotin tënd! ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Dhe rrobat tua pastroji! ]]></Verse>
+	<Verse VerseID="5"><![CDATA[Dhe të keqës së ndyrë largohu! ]]></Verse>
+	<Verse VerseID="6"><![CDATA[Dhe mos u mburr me atë që jep e të duket shumë! ]]></Verse>
+	<Verse VerseID="7"><![CDATA[Dhe për hir të Zotit tënd duro! ]]></Verse>
+	<Verse VerseID="8"><![CDATA[E,kur të fryhet në Sur, ]]></Verse>
+	<Verse VerseID="9"><![CDATA[Atëherë ajo është ditë e vështirë. ]]></Verse>
+	<Verse VerseID="10"><![CDATA[Për jobesimtarët është jo e lehtë. ]]></Verse>
+	<Verse VerseID="11"><![CDATA[Ti, më le Mua dhe atë që e krijova të vetmuar. ]]></Verse>
+	<Verse VerseID="12"><![CDATA[Dhe bëra këtë pasuri të madhe. ]]></Verse>
+	<Verse VerseID="13"><![CDATA[E bëra edhe me djem që i ka me vete. ]]></Verse>
+	<Verse VerseID="14"><![CDATA[Dhe Unë i lash në disponim të gjitha mundësitë. ]]></Verse>
+	<Verse VerseID="15"><![CDATA[E ai lakmon që t’i shtoj edhe më tepër. ]]></Verse>
+	<Verse VerseID="16"><![CDATA[E jo, se ai vërtet ishte mohues i fakteve tona! ]]></Verse>
+	<Verse VerseID="17"><![CDATA[Atë do ta ndrydhi me një dënim të rëndë e të padurueshëm. ]]></Verse>
+	<Verse VerseID="18"><![CDATA[Pse ai shumë mendonte, radhitte e përgatiste (për Kur’anin). ]]></Verse>
+	<Verse VerseID="19"><![CDATA[Qoftë i shkatërruar, po si përceptonte? ]]></Verse>
+	<Verse VerseID="20"><![CDATA[Prapë qoftë i shkatërruar, po si përceptonte? ]]></Verse>
+	<Verse VerseID="21"><![CDATA[Ai sërish thellohej në mendime. ]]></Verse>
+	<Verse VerseID="22"><![CDATA[Pastaj mrrolej dhe bëhej edhe i vrazhdë. ]]></Verse>
+	<Verse VerseID="23"><![CDATA[Pastaj ktheu shpinën me mendjemadhësi. ]]></Verse>
+	<Verse VerseID="24"><![CDATA[E tha: “Ky (Kur’ani) nuk është tjetër, vetëm se magji që përcillet prej të tjerëve. ]]></Verse>
+	<Verse VerseID="25"><![CDATA[Ky nuk është tjetër, përveç fjalë njerëzish!” ]]></Verse>
+	<Verse VerseID="26"><![CDATA[E Unë atë do ta hedhë në Sekar! ]]></Verse>
+	<Verse VerseID="27"><![CDATA[E, ku e di ti se çka është Sekar? ]]></Verse>
+	<Verse VerseID="28"><![CDATA[Ai nuk lë send të mbetet pa e djegur. ]]></Verse>
+	<Verse VerseID="29"><![CDATA[Ai është që ua prish dhe ua nxin lëkurat. ]]></Verse>
+	<Verse VerseID="30"><![CDATA[Mbikëqyrës mbi të janë nëntëmbëdhjetë. ]]></Verse>
+	<Verse VerseID="31"><![CDATA[E mbiqëkyrës të zjarrit, Ne nuk bëjmë tjetër, përveç engjëjve dhe numrin e tyre (të përmendur në Kur’an) nuk e bëmë për tjetër, por vetëm si sprovë për ata që nuk besuan, e që të binden ata që u është dhënë libri, e atyre që besuan t’u shtohet besimi, e atyre që u është dhëmë libri dhe besimtarët të mos kenë dyshim, dhe ata që zemrat i kanë të sëmura dhe jobesimtarët të thonë: “çka dashti All-llahu me këtë shembull?” Ja ashtu, All-llahu e lë të humbur atë që do, e ushtrinë e Zotit tënd nuk e di kush pos Atij, e ai (Sekari), nuk është tjetër vetëm se një përkujtim për njerëz. ]]></Verse>
+	<Verse VerseID="32"><![CDATA[Jo, nuk është ashtu, Pasha hënën! ]]></Verse>
+	<Verse VerseID="33"><![CDATA[Edhe natën kur tërhiqet! ]]></Verse>
+	<Verse VerseID="34"><![CDATA[Edhe agimin kur agon! ]]></Verse>
+	<Verse VerseID="35"><![CDATA[S’ka dyshim se ai (Sekari) është një nga belatë më të mëdha. ]]></Verse>
+	<Verse VerseID="36"><![CDATA[Është vërejtje për njerëz! ]]></Verse>
+	<Verse VerseID="37"><![CDATA[Për atë nga mesi juaj që dëshiron të përparojë (në të mira) apo të ngecë. ]]></Verse>
+	<Verse VerseID="38"><![CDATA[Secili njeri është pengë i veprës së vet. ]]></Verse>
+	<Verse VerseID="39"><![CDATA[Përveç atyre të djathtëve. ]]></Verse>
+	<Verse VerseID="40"><![CDATA[Që janë në Xhennete e i bëjnë pyetje njëri-tjetrit, ]]></Verse>
+	<Verse VerseID="41"><![CDATA[Përkitazi me kriminelët (e u thonë): ]]></Verse>
+	<Verse VerseID="42"><![CDATA[“çka u solli juve në Sekar?” ]]></Verse>
+	<Verse VerseID="43"><![CDATA[Ata thonë: “Nuk kemi qenë prej atyre që faleshin ( që bënin namaz); ]]></Verse>
+	<Verse VerseID="44"><![CDATA[Nuk kemi qenë që ushqyenim të varfërit; ]]></Verse>
+	<Verse VerseID="45"><![CDATA[Dhe kemi qenë që përziheshim me të tjerët në punë të kota. ]]></Verse>
+	<Verse VerseID="46"><![CDATA[Dhe kemi qenë që nuk e besonim ditën e gjykimit. ]]></Verse>
+	<Verse VerseID="47"><![CDATA[Derisa na erdhi e vërteta (vdekja)!” ]]></Verse>
+	<Verse VerseID="48"><![CDATA[E tanimë, atyre nuk u bën dobi ndërmjetësimi i ndërmjetësuesve, ]]></Verse>
+	<Verse VerseID="49"><![CDATA[Po çka kishin ata që largohesin prej këshillës (Kur’ait)? ]]></Verse>
+	<Verse VerseID="50"><![CDATA[Ata ishin si gomarë të trembur (të egër). ]]></Verse>
+	<Verse VerseID="51"><![CDATA[Që ikin prej luanit (ose prej gjahtarit). ]]></Verse>
+	<Verse VerseID="52"><![CDATA[Veç kësaj, secili prej tyre dëshironte t’i jepej libër i posaçëm (i hapët, i qartë). ]]></Verse>
+	<Verse VerseID="53"><![CDATA[E jo! Por ata janë që nuk frikësohen botës tjetër. ]]></Verse>
+	<Verse VerseID="54"><![CDATA[Dhe jo! Se ai (Kur’ani) është këshillë e lartë. ]]></Verse>
+	<Verse VerseID="55"><![CDATA[E kush do, këshillohet me të. ]]></Verse>
+	<Verse VerseID="56"><![CDATA[Po ata nuk mund të marrin mësim prej tij, vetëm nëse All-llahu di, Ai është i denjë për t’iu ruajtur dhe i denjë për falje mëkatesh! ]]></Verse>
+</Chapter>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="108" ChapterName="The Heavenly Fount">
+	<Verse VerseID="1"><![CDATA[Ne, vërtet, të dhamë ty shumë mira. ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Andaj, ti falu dhe prej kurban për hurë të Zotit tënd! ]]></Verse>
+	<Verse VerseID="3"><![CDATA[E s’ka dyshim se urrejtësi yt është farësosur.  ]]></Verse>
+</Chapter>

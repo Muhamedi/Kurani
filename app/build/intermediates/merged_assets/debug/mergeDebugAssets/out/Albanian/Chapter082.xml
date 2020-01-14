@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="82" ChapterName="The Cleaving Asund">
+	<Verse VerseID="1"><![CDATA[E kur të çahet qielli. ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Dhe kur të shkapërderdhen yjet. ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Dhe kur të përzihen detet. ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Dhe kur të trazohen varret. ]]></Verse>
+	<Verse VerseID="5"><![CDATA[Atëbotë secili njeri e din se çka punuar dhe çka ka lënë prapa! ]]></Verse>
+	<Verse VerseID="6"><![CDATA[O ti njeri po ç’të mashtroi ty kundrejt Zotit tënd që është bujar e i urtë? ]]></Verse>
+	<Verse VerseID="7"><![CDATA[I cili të krijoi, të përsosi dhe të drejtoi. ]]></Verse>
+	<Verse VerseID="8"><![CDATA[Të formësoi në formën që Ai dëshiroi! ]]></Verse>
+	<Verse VerseID="9"><![CDATA[Jo, nuk është ashtu. Ju përgënjeshtroni ditën e përgjegjësisë. ]]></Verse>
+	<Verse VerseID="10"><![CDATA[Kurse ndaj jush janë përcjellësit! ]]></Verse>
+	<Verse VerseID="11"><![CDATA[Janë shkrues të ndershëm te All-llahu. ]]></Verse>
+	<Verse VerseID="12"><![CDATA[Ata e dinë se çka punoni. ]]></Verse>
+	<Verse VerseID="13"><![CDATA[E s’ka dyshim se të mirët janë në kënaqësinë e përjetimeve (në Xhennet). ]]></Verse>
+	<Verse VerseID="14"><![CDATA[Dhe se mëkatarët janë në Xhehennem. ]]></Verse>
+	<Verse VerseID="15"><![CDATA[Aty futen ata ditën e gjykimit (të cilën nuk e besonin). ]]></Verse>
+	<Verse VerseID="16"><![CDATA[Dhe nuk kanë të larguar prej tij. ]]></Verse>
+	<Verse VerseID="17"><![CDATA[E ç’të mësoi ty se ç’është dita e gjykimit? ]]></Verse>
+	<Verse VerseID="18"><![CDATA[Përsëri, ç’të mësoi ty se ç’është dita e gjykimit? ]]></Verse>
+	<Verse VerseID="19"><![CDATA[Është dita kur askush, askujt nuk do të mund t’i ndihmojë asgjë; atë ditë e tërë çështja i takon vetëm All-llahut!  ]]></Verse>
+</Chapter>

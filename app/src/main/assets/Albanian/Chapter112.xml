@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="112" ChapterName="The Unity">
+	<Verse VerseID="1"><![CDATA[Thuaj: Ai, All-llahu është Një! ]]></Verse>
+	<Verse VerseID="2"><![CDATA[All-llahu është mbështetja (Atij i mbështetet çdo krijesë). ]]></Verse>
+	<Verse VerseID="3"><![CDATA[As s’ka lindur kë, as nuk është i lindur. ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Dhe Atij askush nuk i është i barabartë.  ]]></Verse>
+</Chapter>

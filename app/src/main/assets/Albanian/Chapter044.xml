@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="44" ChapterName="The Evident Smoke">
+	<Verse VerseID="1"><![CDATA[Ha, Mimë. ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Pasha librin sqarues (të së drejtës nga e kota)! ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Ne e zbritëm ate në një natë të bekuar (në natën e begatshme të kadrit). Ne dëshiruam t’u tërheqim vërejtjen,e njerëzit të jenë të gatshëm. ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Në atë (natë) zgjidhet çdo çshtje në mënyrë të prerë. ]]></Verse>
+	<Verse VerseID="5"><![CDATA[Urdhër i përcaktuar nga Vetë Ne. S’ka dyshim se Ne dërguam të dërguar. ]]></Verse>
+	<Verse VerseID="6"><![CDATA[(E zbeitëm) Nga Mëshira e Zotit tënd; Ai është dëgjuesi, i dijshmi. ]]></Verse>
+	<Verse VerseID="7"><![CDATA[Zoti i qiejve e i tokës dhe çka ka ndërmjet tyre, nëse jeni të bindur. ]]></Verse>
+	<Verse VerseID="8"><![CDATA[Nuk ka Zot tjetër, vetëm Ai që jep jetë dhe vdekje, Zoti juaj dhe Zoti i prindërve tuaj të lashtë. ]]></Verse>
+	<Verse VerseID="9"><![CDATA[Por jo, ata (idhujtarët) janë në dyshim, janë duke luajtur. ]]></Verse>
+	<Verse VerseID="10"><![CDATA[Ti pra, prite ditën kur qielli sjell një tym konkret. ]]></Verse>
+	<Verse VerseID="11"><![CDATA[Ai (tymi) i përfdhinë njerëzit. Ky është një ndëshkim i mundimshëm. ]]></Verse>
+	<Verse VerseID="12"><![CDATA[(Ata thonë) Zoti ynë, largoje prej nesh dënimin, ne do të besojmë. ]]></Verse>
+	<Verse VerseID="13"><![CDATA[Prej nga atyre ajo këshillë (ai mësim), kur atyre u pat ardhur pejgamber me argument (e nuk besuan)? ]]></Verse>
+	<Verse VerseID="14"><![CDATA[Po ia kthyen shpinën atij (pejgamberit) dhe thanë: “I mësuar prej dikujt, i çmendur”. ]]></Verse>
+	<Verse VerseID="15"><![CDATA[Ne do t’ua largojmë dënimin për pak kohë, por ju do t’i ktheheni kotësisë. ]]></Verse>
+	<Verse VerseID="16"><![CDATA[(Përkujto) Ditën kur do t’i kapim me atë rrëmbimin Tonë të fuqishëm e do t’u hakmerremi. ]]></Verse>
+	<Verse VerseID="17"><![CDATA[Ne përpara tyre e vumë në sprovë popullin e faraonit, dhe i pat ardhur i dërguar i ndershëm. ]]></Verse>
+	<Verse VerseID="18"><![CDATA[(U pat thënë): “Të m’i dorëzoni robërit e All-llahut, unë sjell argument të sigurt. ]]></Verse>
+	<Verse VerseID="19"><![CDATA[E mos bëni mendjemadhësi ndaj All-llahut, unë sjell argument të sigurt. ]]></Verse>
+	<Verse VerseID="20"><![CDATA[Unë i jam mbështetur Zotit tim dhe Zotit tuaj nga (Kërcënimi) që të më gurëzoni (më mbytni). ]]></Verse>
+	<Verse VerseID="21"><![CDATA[E nëse nuk më besoni atëherë hiqnu meje (më lini të lirë)!” ]]></Verse>
+	<Verse VerseID="22"><![CDATA[E thirri Zotin e vet: “Këta janë popull kriminelë”. ]]></Verse>
+	<Verse VerseID="23"><![CDATA[(Ne i thamë) Tërhiqu me robërit e Mi natën, se do të jeni të ndjekur. ]]></Verse>
+	<Verse VerseID="24"><![CDATA[Dhe lëre detin ashtu të qetë (të hapur) se ata janë ushtri që do të përmbytet. ]]></Verse>
+	<Verse VerseID="25"><![CDATA[Sa kopshte e kroje kanë lënë! ]]></Verse>
+	<Verse VerseID="26"><![CDATA[Edhe ara të mbjella e vende të bukura. ]]></Verse>
+	<Verse VerseID="27"><![CDATA[dhe sa të mira që i kanë përjetuar. ]]></Verse>
+	<Verse VerseID="28"><![CDATA[Ja, ashtu atë ua lëmë në trashëgim një populli tjetër. ]]></Verse>
+	<Verse VerseID="29"><![CDATA[Prë ta nuk qajtën as qielli e as toka dhe atyre nuk iu dha afat. ]]></Verse>
+	<Verse VerseID="30"><![CDATA[Ndërsa Ne i shpëtuam beni israilët prej vuajtjeve nënqmuese, ]]></Verse>
+	<Verse VerseID="31"><![CDATA[Prej faraonit. Vërtet ai ishte mizor i pakufishëm. ]]></Verse>
+	<Verse VerseID="32"><![CDATA[Ne i patëm zgjedhur ata (besimtarët e beni israilëve) me vetëdije ndër njerëzit e asaj kohe. ]]></Verse>
+	<Verse VerseID="33"><![CDATA[Dhe u dhamë argumente (mrekulli) në të cilat patën përvojë të qartë. ]]></Verse>
+	<Verse VerseID="34"><![CDATA[E këta (populli yt) me siguri do të thonë: ]]></Verse>
+	<Verse VerseID="35"><![CDATA[“S’ka tjetër, vetëm ajo vdekja jonë e parë dhe ne nuk do të ringjallemi! ]]></Verse>
+	<Verse VerseID="36"><![CDATA[Nëse jeni të vërtetë çka thoni (u thonë Muhammedit e besimtarëve), na sillni pra (në jetë) etërit tanë (të vdekur)! ]]></Verse>
+	<Verse VerseID="37"><![CDATA[A janë ata (idhujtarët) më të fortë, apo populli i Tubeit dhe ata që ishin përpara tyre. Ne ata i zhdukëm, sepse ishin kriminelë. ]]></Verse>
+	<Verse VerseID="38"><![CDATA[Ne nuk krijuam qiejt e tokën dhe çka ndërmjet tyre, pa një qëllim. ]]></Verse>
+	<Verse VerseID="39"><![CDATA[Por, Ne i krijuam të dyja me qëllim të caktuar, mirëpo shumica e tyre nuk dinë. ]]></Verse>
+	<Verse VerseID="40"><![CDATA[S’ka dyshim se dita e kijametit ku kryhet gjykimi, është e caktim i të gjithë atyre. ]]></Verse>
+	<Verse VerseID="41"><![CDATA[Në atë ditë nuk bën dobi asgjë miku për mikun, e as nuk mund të ndihmohen. ]]></Verse>
+	<Verse VerseID="42"><![CDATA[Përjashtim bën ai që e mëshiron All-llahu, se Ai është ngadhnjyesi, i mëshirshmi. ]]></Verse>
+	<Verse VerseID="43"><![CDATA[Është e vërtetë se pema e Zekumit, ]]></Verse>
+	<Verse VerseID="44"><![CDATA[Do të jetë ushqim i mëkatarëve. ]]></Verse>
+	<Verse VerseID="45"><![CDATA[vlon si katran (si pezhgeja) në barqet. ]]></Verse>
+	<Verse VerseID="46"><![CDATA[Ashtu si vlon uji i valë. ]]></Verse>
+	<Verse VerseID="47"><![CDATA[(U thuhet engjëjve për mëkatarin) Rrëmbene e grahne ne mes të Xhehennemit. ]]></Verse>
+	<Verse VerseID="48"><![CDATA[Dhe hudhni mbi kokën e tij ujin e valë e shtonja mundimin. ]]></Verse>
+	<Verse VerseID="49"><![CDATA[(I thuhet): Shijoje! se ti je ai forti, i autoritetshmi. ]]></Verse>
+	<Verse VerseID="50"><![CDATA[E ky është ai (dënimi) për të cilin dyshonit. ]]></Verse>
+	<Verse VerseID="51"><![CDATA[Vërtet, ata që i patën frikë Zotit, janë në vende të qeta. ]]></Verse>
+	<Verse VerseID="52"><![CDATA[Janë në Xhennete e në burime që rrjedhin. ]]></Verse>
+	<Verse VerseID="53"><![CDATA[Veshin petka nga mëndafshi e kadifeja, ulur ballë për ballë. ]]></Verse>
+	<Verse VerseID="54"><![CDATA[Ja kështu, edhe e martojmë më bardhoshe symëdha (me hyrija). ]]></Verse>
+	<Verse VerseID="55"><![CDATA[aty kërkojnë t’u sillen çdo lloj peme dhe atyjanë të sigurt. ]]></Verse>
+	<Verse VerseID="56"><![CDATA[Aty nuk do të përjetojnë vdekjen, përveç asaj të parës në dynja. Ata i shpëtoi (All-llahu) prej vuajtjeve të Xhehennemit. ]]></Verse>
+	<Verse VerseID="57"><![CDATA[(Ato të mira) Janë dhuratë nga Zoti yt,e ai është shpëtim i madh. ]]></Verse>
+	<Verse VerseID="58"><![CDATA[Ne ua bëmë të lehtë atë (Kur’anin) në gjuhën tënde ashtu që ata të marin mësim. ]]></Verse>
+	<Verse VerseID="59"><![CDATA[(Meqë nuk po marrim mësim) Ti pra, prit se edhe ata janë duke pritur.       ]]></Verse>
+</Chapter>

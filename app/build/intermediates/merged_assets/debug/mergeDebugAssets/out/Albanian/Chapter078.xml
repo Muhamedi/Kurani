@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="78" ChapterName="The Great Event">
+	<Verse VerseID="1"><![CDATA[Për çka ata i bëjnë pyetje njëri-tjetri? ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Për lajmin e madh e tronditës. ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Në të cilin ata janë në kundërshti. ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Jo, të mos pyesin, sepse ata do ta kuptojnë! ]]></Verse>
+	<Verse VerseID="5"><![CDATA[Përsëri Jo, se ata do ta kuptojnë! ]]></Verse>
+	<Verse VerseID="6"><![CDATA[A nuk e bëmë Ne tokën të përshtatshme (për jetë), ]]></Verse>
+	<Verse VerseID="7"><![CDATA[Ndërsa kodrat shtylla? ]]></Verse>
+	<Verse VerseID="8"><![CDATA[Dhe Ne u krijuam juve në çifte. ]]></Verse>
+	<Verse VerseID="9"><![CDATA[Dhe gjumin tuaj ua bëmë për pushim. ]]></Verse>
+	<Verse VerseID="10"><![CDATA[Dhe natën ua bëmë mbulesë (si rrobet). ]]></Verse>
+	<Verse VerseID="11"><![CDATA[Ndërsa ditën e bëmë për gjallërim. ]]></Verse>
+	<Verse VerseID="12"><![CDATA[Dhe Ne kemi ndërtuar mbi ju një shtatëshe të fortë. ]]></Verse>
+	<Verse VerseID="13"><![CDATA[Dhe kemi vënë ndriçuesin që flakëron. ]]></Verse>
+	<Verse VerseID="14"><![CDATA[Dhe prej reve të shtrydhura kemi lëshuar shi të madh. ]]></Verse>
+	<Verse VerseID="15"><![CDATA[Që me të të rrisim drithëra e bimë. ]]></Verse>
+	<Verse VerseID="16"><![CDATA[Edhe kopshte të dendura palë mbi palë. ]]></Verse>
+	<Verse VerseID="17"><![CDATA[S’ka dyshim se dita e gjykimit është caktuar. ]]></Verse>
+	<Verse VerseID="18"><![CDATA[Është dita që i fryhet surit, e ju vini grupe-grupe. ]]></Verse>
+	<Verse VerseID="19"><![CDATA[Dhe qielli hapet e bëhet dyer-dyer. ]]></Verse>
+	<Verse VerseID="20"><![CDATA[Dhe kodrat shkulen dhe bëhen pluhur (si valë rrezesh). ]]></Verse>
+	<Verse VerseID="21"><![CDATA[E Xhehennemi është në pritë (në pusi). ]]></Verse>
+	<Verse VerseID="22"><![CDATA[Është vendstrehim i arrogantëve. ]]></Verse>
+	<Verse VerseID="23"><![CDATA[Aty do të mbesin për tërë kohën (pa mbarim). ]]></Verse>
+	<Verse VerseID="24"><![CDATA[Aty nuk do të shijojnë as freskim, as ndonjë pije. ]]></Verse>
+	<Verse VerseID="25"><![CDATA[Përveç ujë të valë e kalbësirë. ]]></Verse>
+	<Verse VerseID="26"><![CDATA[Si ndëshkim i merituar. ]]></Verse>
+	<Verse VerseID="27"><![CDATA[Ata ishin që nuk pritnin se do të jepin llogari. ]]></Verse>
+	<Verse VerseID="28"><![CDATA[Dhe argumentet Tona i përgënjeshtruan më këmbëngulje. ]]></Verse>
+	<Verse VerseID="29"><![CDATA[Ndërsa Ne çdo send e kemi ruajtur me shkrim të saktë. ]]></Verse>
+	<Verse VerseID="30"><![CDATA[E ju pra, vuani, se Ne nuk do t’u shtojmë tjetër vetëm se vuajtje. ]]></Verse>
+	<Verse VerseID="31"><![CDATA[S’ka dyshim se të devotshmit kanë fitime të mëdha. ]]></Verse>
+	<Verse VerseID="32"><![CDATA[Kopshte e vreshta rrushi. ]]></Verse>
+	<Verse VerseID="33"><![CDATA[Edhe vasha të një moshe. ]]></Verse>
+	<Verse VerseID="34"><![CDATA[Edhe gota të mbushura plot verë. ]]></Verse>
+	<Verse VerseID="35"><![CDATA[Aty nuk dëgjojnë fjalë të kota, as gënjeshtra. ]]></Verse>
+	<Verse VerseID="36"><![CDATA[Shpërblime e dhurata të shumta dhënë nga Zoti yt. ]]></Verse>
+	<Verse VerseID="37"><![CDATA[Zoti i qiejve e i tokës, dhe çka ka ndërmjet tyre, që është mëshirues, të cilit nuk kanë të drejtë t’i bëjnë vërejtje. ]]></Verse>
+	<Verse VerseID="38"><![CDATA[Atë ditë Xibrili dhe engjëjt qëndrojnë të rreshtuar, askush nuk flet pos atij që e lejon Mëshiruesi, dhe i cili e thotë të vërtetën. ]]></Verse>
+	<Verse VerseID="39"><![CDATA[Ajo është dita e vërtetë, e kush dëshiron le të kthehet rrugës te Zoti i vet. ]]></Verse>
+	<Verse VerseID="40"><![CDATA[Ne ua tërhoqëm juve (idhujtarëve) vërejtjen për një dënim të afërt, në ditën kur njeriu (besimtar) shikon se çka i kanë sjellë duart e veta, e jobesimtari thotë: “Ah, sa mirë do të ishte për mua sikur të isha dhe"! ]]></Verse>
+</Chapter>

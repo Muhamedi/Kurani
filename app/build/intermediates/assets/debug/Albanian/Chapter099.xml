@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="99" ChapterName="The Shaking">
+	<Verse VerseID="1"><![CDATA[Kur të dridhet toka me dridhjen e saj të fuqishme, ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Dhe të nxjerrë toka atë që ka në mbrendinë e saj (barrën nga brenda), ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Dhe njeriu të thotë: “ç’ka kjo (që bën këtë dridhje)?” ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Atë ditë, ajo i rrëfen tregimet e veta, ]]></Verse>
+	<Verse VerseID="5"><![CDATA[Ngase Zoti yt e ka urdhëruar atë. ]]></Verse>
+	<Verse VerseID="6"><![CDATA[Atë ditë njerëzit shfaqen të ndarë në grupe që të shpërblehen për veprat e tyre. ]]></Verse>
+	<Verse VerseID="7"><![CDATA[E kushe punoi ndonjë të mirë, që pëshon sa grimca, atë do ta gjejë. ]]></Verse>
+	<Verse VerseID="8"><![CDATA[Dhe kush punoi ndonjë të keqe sa grimca, atë do ta gjejë.  ]]></Verse>
+</Chapter>

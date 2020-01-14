@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="89" ChapterName="The Daybreak">
+	<Verse VerseID="1"><![CDATA[Pasha agimin! ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Pasha dhjetë netët! ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Pasha çiftin dhe pasha tekun! ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Pasha natën që shkon! ]]></Verse>
+	<Verse VerseID="5"><![CDATA[A janë këto betime për të mençurin? ]]></Verse>
+	<Verse VerseID="6"><![CDATA[A nuk e i ti se ç’bëri Zoti yt me Ad-in? ]]></Verse>
+	<Verse VerseID="7"><![CDATA[Me banorët e Iremit me ndërtesa të larta? ]]></Verse>
+	<Verse VerseID="8"><![CDATA[Që si ata (populli Ad) nuk është krijuar askush në tokë! ]]></Verse>
+	<Verse VerseID="9"><![CDATA[Dhe me Themudin, të cilët shpuan shkëmbinj në luginën (kura), ]]></Verse>
+	<Verse VerseID="10"><![CDATA[Dhe me faraonin i fortifikuar me tenda (ushtarake)! ]]></Verse>
+	<Verse VerseID="11"><![CDATA[Të cilët e tepruan me krime në tokë. ]]></Verse>
+	<Verse VerseID="12"><![CDATA[Dhe në të shtuan shkatërrimin. ]]></Verse>
+	<Verse VerseID="13"><![CDATA[E All-llahu kundër tyre lëshoi lloj-lloj dënimesh. ]]></Verse>
+	<Verse VerseID="14"><![CDATA[Pse Zoti yt është që përcjell (u rri në pritë). ]]></Verse>
+	<Verse VerseID="15"><![CDATA[E njeriu, kur e sprovon Zoti i tij, e nderon dhe e begaton, ai thotë: “Zoti im më ka nderuar!” ]]></Verse>
+	<Verse VerseID="16"><![CDATA[Por, kur për ta sprovuar ia pakëson furnizimin (e varfëron), ai thotë: “Zoti im më ka nënçmuar!” ]]></Verse>
+	<Verse VerseID="17"><![CDATA[Jo, nuk është ashtu! Por (punoni edhe më zi) ju nuk përfillnit bonjakun, ]]></Verse>
+	<Verse VerseID="18"><![CDATA[Nuk cytni njëri-tjetrin për ta ushqyer të varfërin, ]]></Verse>
+	<Verse VerseID="19"><![CDATA[Dhe ju e hani me të madhe trashëgimin (padrejtë). ]]></Verse>
+	<Verse VerseID="20"><![CDATA[Dhe pasurinë e doni së tepërmi. ]]></Verse>
+	<Verse VerseID="21"><![CDATA[Jo, mosni ashtu! Kur të dridhet toka njëpasnjëshëm! ]]></Verse>
+	<Verse VerseID="22"><![CDATA[Dhe kur të vijë Zoti yt dhe engjëjt qëndrojnë rradhë-rradhë! ]]></Verse>
+	<Verse VerseID="23"><![CDATA[Dhe atë ditë sillet Xhehennemi, ditën kur përkujtohet njeriu, e ç’dobi i bën atij përkujtimi? ]]></Verse>
+	<Verse VerseID="24"><![CDATA[Thotë: “O, i gjori unë, sikur të isha i parapërgatitur për jetën time!” ]]></Verse>
+	<Verse VerseID="25"><![CDATA[Pra, ditën kur nuk dënon si Ai askush. ]]></Verse>
+	<Verse VerseID="26"><![CDATA[Dhe nuk do të farkojë pranga si Ai askush. ]]></Verse>
+	<Verse VerseID="27"><![CDATA[O shpirt i qetësuar! ]]></Verse>
+	<Verse VerseID="28"><![CDATA[Kthehu te Zoti yt i kënaqur (për vehte) e kënaqës (për Zotin)! ]]></Verse>
+	<Verse VerseID="29"><![CDATA[Hyr mes robërve të Mi! ]]></Verse>
+	<Verse VerseID="30"><![CDATA[Dhe hyr në Xhennetin Tim!  ]]></Verse>
+</Chapter>

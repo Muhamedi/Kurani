@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="53" ChapterName="The Star">
+	<Verse VerseID="1"><![CDATA[Pasha yllin kur bie! ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Shoku juaj nuk ka humbur, e as që ka devijuar ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Dhe ai nuk flet nga dëshira ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Ajo nuk është tjetër pos shpalljes që i shpallet ]]></Verse>
+	<Verse VerseID="5"><![CDATA[Atë ia mësoi fuqiforti (Xhibrili) ]]></Verse>
+	<Verse VerseID="6"><![CDATA[Që ka mendje precize dhe që u përqëndrua në formën e vet ]]></Verse>
+	<Verse VerseID="7"><![CDATA[Dhe ai (Xhibrili) ishte në horizontin e lartë ]]></Verse>
+	<Verse VerseID="8"><![CDATA[Pastaj u lëshua dhe iu afrua ]]></Verse>
+	<Verse VerseID="9"><![CDATA[E ishte afër sa dy harqe, apo edhe më afër ]]></Verse>
+	<Verse VerseID="10"><![CDATA[Dhe i shpalli robit të Tij (All-llahut) atë që ia shpalli. ]]></Verse>
+	<Verse VerseID="11"><![CDATA[Zemra nuk mohoi atë që pa ]]></Verse>
+	<Verse VerseID="12"><![CDATA[A po i bëni polemikë atij për atë që ka parë? ]]></Verse>
+	<Verse VerseID="13"><![CDATA[Ai e ka parë (Xhibrilin) edhe herën tjetër ]]></Verse>
+	<Verse VerseID="14"><![CDATA[Te Sidretul Munteha ]]></Verse>
+	<Verse VerseID="15"><![CDATA[Pranë së cilës është xhennetul Me’va ]]></Verse>
+	<Verse VerseID="16"><![CDATA[Atëherë kur Sidrën e mbuloi ajo që e mbuloi ]]></Verse>
+	<Verse VerseID="17"><![CDATA[Shikimi i tij nuk lakoi e as nuk tejkaloi ]]></Verse>
+	<Verse VerseID="18"><![CDATA[Ai vërtet pa disa nga shenjat më të mëdha të Zotit të vet ]]></Verse>
+	<Verse VerseID="19"><![CDATA[E ju, a shihni Latin dhe Uzanë? ]]></Verse>
+	<Verse VerseID="20"><![CDATA[Dhe atë të tretin, të pavlefshmin? ]]></Verse>
+	<Verse VerseID="21"><![CDATA[A mendoni se për ju janë meshkujt, e për Të fe-mrat? ]]></Verse>
+	<Verse VerseID="22"><![CDATA[Atëherë ajo është një ndarje e padrejtë! ]]></Verse>
+	<Verse VerseID="23"><![CDATA[Ata (që i adhuroni) nuk janë tjetër, vetëm se emra që ju dhe prindërit tuaj i emërtuat; All-llahu nuk zbriti për ta ndonjë fakt. Por ata (idhujtarët), nuk ndjekin tjetër vetëm se paragjykime dhe çka duan vetë, megji-thqë prej Zotit të tyre u pat ardhur udhëzimi ]]></Verse>
+	<Verse VerseID="24"><![CDATA[A mos i takon njeriut ajo që dëshiron? ]]></Verse>
+	<Verse VerseID="25"><![CDATA[E dihet se vetëm All-llahut i takon bota tjetër dhe kjo botë ]]></Verse>
+	<Verse VerseID="26"><![CDATA[E sa engjëj ka në qiej, ndërmjetësimi i të cilëve nuk bën dobi vetëm pasi që All-llahu të japë leje për atë që dëshiron dhe me të cilën është i kënaqur ]]></Verse>
+	<Verse VerseID="27"><![CDATA[Ata që nuk e besojnë jetën tjetër, engjëjt i emërto-jnë me emra femrash ]]></Verse>
+	<Verse VerseID="28"><![CDATA[Ata nuk dinë asgjë për atë (emërtim) dhe nuk ndjekin tjetër vetëm paragjykime, e paragjykimi nuk është asgjë ndaj së vërtetës ]]></Verse>
+	<Verse VerseID="29"><![CDATA[Andaj ti largohu prej atij që ia ka kthyer shpinën Kur’anit dhe që nuk do tjetër pos jetës së kësaj bote! ]]></Verse>
+	<Verse VerseID="30"><![CDATA[Ajo është e tërë dituria që kanë arritur, e Zoti yt di më së miri për atë që është larguar nga rruga e Tij dhe Ai di më së miri për atë që është në rrugën e drejtë ]]></Verse>
+	<Verse VerseID="31"><![CDATA[Dhe vetëm të All-llahut janë ç’ka në qiej dhe në tokë - për t’i shpërblyer ata që bënë keq me të keqen e tyre dhe për t’i shpërblyer ata që bënë mirë me të mirën e tyre ]]></Verse>
+	<Verse VerseID="32"><![CDATA[Ata që largohen prej mëkateve të mëdha dhe prej punëve të ndyta, përpos ndonjë pune të imët, s’ka dy-shim se Zoti yt gjerësisht përfshin me falje, se Ai di më së miri për ju edhe para se t’ju krijojë, kur filloi krijimin tuaj nga dheu ndërsa ju ishit të fshehur në barqet e nënave tuaja. Pra mos lavdëroni veten, se Ai e di kush është më i ruajtur ]]></Verse>
+	<Verse VerseID="33"><![CDATA[A e ke parë atë që u zmbrap? ]]></Verse>
+	<Verse VerseID="34"><![CDATA[Që dha pak e pastaj e ndërpreu? ]]></Verse>
+	<Verse VerseID="35"><![CDATA[A mos ka ai njohuri për të fshehtën e po e sheh? ]]></Verse>
+	<Verse VerseID="36"><![CDATA[A nuk është informuar me atë që gjendet në fletushkat e Musait ]]></Verse>
+	<Verse VerseID="37"><![CDATA[Dhe të Ibrahimit, që gjithnjë plotësonte obligimet ]]></Verse>
+	<Verse VerseID="38"><![CDATA[(Në të cilat shkruan) Se askush nuk e bartë barrën e tjetrit ]]></Verse>
+	<Verse VerseID="39"><![CDATA[Dhe se njeriut nuk i takon tjetër pos asaj që ka punuar ]]></Verse>
+	<Verse VerseID="40"><![CDATA[Dhe se mundi i tij më vonë do të shihet ]]></Verse>
+	<Verse VerseID="41"><![CDATA[Pastaj ai shpërblehet ose dënohet më plotësisht ]]></Verse>
+	<Verse VerseID="42"><![CDATA[Dhe se kthimi përfundimtar është te Zoti yt ]]></Verse>
+	<Verse VerseID="43"><![CDATA[Dhe se Ai jep qeshjen dhe Ai jep të qarit ]]></Verse>
+	<Verse VerseID="44"><![CDATA[Dhe se Ai jep vdekjen dhe Ai jep jetën ]]></Verse>
+	<Verse VerseID="45"><![CDATA[Dhe Ai krijon llojet - mashkullin dhe femrën ]]></Verse>
+	<Verse VerseID="46"><![CDATA[Nga pika e farës që hidhet ]]></Verse>
+	<Verse VerseID="47"><![CDATA[Dhe se Ai ringjallë ]]></Verse>
+	<Verse VerseID="48"><![CDATA[Dhe se Ai jep pasurinë dhe varfërinë ]]></Verse>
+	<Verse VerseID="49"><![CDATA[Dhe se Ai është Zoti i Shi’rasë (ylli polar) ]]></Verse>
+	<Verse VerseID="50"><![CDATA[Dhe Ai shkatërroi Adin e lashtë ]]></Verse>
+	<Verse VerseID="51"><![CDATA[Edhe Themudin, të cilët nuk i kurseu (nga dënimi) ]]></Verse>
+	<Verse VerseID="52"><![CDATA[Edhe popullin e Nuhut më herët, vërtet ata ishin edhe më shkatërrues dhe renegatë ]]></Verse>
+	<Verse VerseID="53"><![CDATA[Edhe Mu’tefikën (venbanimin e popullit të Lutit) e lëshoi prej së larti ]]></Verse>
+	<Verse VerseID="54"><![CDATA[E i përfshiu ata ajo që i përfshiu ]]></Verse>
+	<Verse VerseID="55"><![CDATA[Pra cilës së mirë të Zotit tënd i dyshon? ]]></Verse>
+	<Verse VerseID="56"><![CDATA[Ky është një qortues i ngjashëm me qortuesit e parë ]]></Verse>
+	<Verse VerseID="57"><![CDATA[E afërta është afruar ]]></Verse>
+	<Verse VerseID="58"><![CDATA[All-llahut është i vetmi që do ta tregojë ]]></Verse>
+	<Verse VerseID="59"><![CDATA[A këtij ligjërimi po i çuditeni? ]]></Verse>
+	<Verse VerseID="60"><![CDATA[E po qeshni dhe nuk po qani?! ]]></Verse>
+	<Verse VerseID="61"><![CDATA[E madje jeni edhe të pakujdesshëm! ]]></Verse>
+	<Verse VerseID="62"><![CDATA[Pra, bini në sexhde për All-llahun dhe Adhurojeni!   ]]></Verse>
+</Chapter>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="70" ChapterName="The Ways Of Ascent">
+	<Verse VerseID="1"><![CDATA[Një lutës e kerkoi dënimin e pashmangshëm, ]]></Verse>
+	<Verse VerseID="2"><![CDATA[për jobesimtarët. Atë (dënim) s’ka kush që mund ta ndalë. ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Ai dënim vjen nga All-llahu, pronari ishkallëve të larta (në qiej). ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Atje ngjiten engjëjt dhe shpirti (Xhibrili) në një ditë që zgjatë pesëdhjetë mijë vjet (ose lartësia e atyre shkallëve është pesëdhjetë mijë vjet). ]]></Verse>
+	<Verse VerseID="5"><![CDATA[Ti, pra, duro me një durim pa ankesë (të mirë). ]]></Verse>
+	<Verse VerseID="6"><![CDATA[Atyre u duket ai larg, ]]></Verse>
+	<Verse VerseID="7"><![CDATA[Kurse Neve ai na duket afër. ]]></Verse>
+	<Verse VerseID="8"><![CDATA[Dita kur qielli të bëhet si kallaji i shkrirë. ]]></Verse>
+	<Verse VerseID="9"><![CDATA[Kodrat të bëhen si leshi i lënurur. ]]></Verse>
+	<Verse VerseID="10"><![CDATA[Dhe asnjë mik nuk pyet për mikun. ]]></Verse>
+	<Verse VerseID="11"><![CDATA[Edhe pse ata shihen ndërmjet vete (edhe njihen, por ikin prej njëri-tjetrit). Krimineli dëshiron sikur të kishte paguar dënimin e asaj dite me bijtë e vet. ]]></Verse>
+	<Verse VerseID="12"><![CDATA[Dhe me gruan e vet dhe me vëllain e vet. ]]></Verse>
+	<Verse VerseID="13"><![CDATA[Edhe me të afërmit e tij që ai te ata mbështetej. ]]></Verse>
+	<Verse VerseID="14"><![CDATA[Edhe me krejt çka ka në tokë, e vetëm të kishte shpëtuar! ]]></Verse>
+	<Verse VerseID="15"><![CDATA[Jo, kurrsesi, ajo (para) është Ledhdha - flaka (emër i Xhehennemit). ]]></Verse>
+	<Verse VerseID="16"><![CDATA[Është që heq kapakët e kokës. ]]></Verse>
+	<Verse VerseID="17"><![CDATA[Që e thërret (tërheq prej vetes) atë që është zbbrapsur e larguar (prej besimit). ]]></Verse>
+	<Verse VerseID="18"><![CDATA[Dhe që ka tubuar (pasuri) dhe e ka ruajtur (fshehur). ]]></Verse>
+	<Verse VerseID="19"><![CDATA[Është e vërtetë se njeriu është i prirur të jetë i padurueshëm. ]]></Verse>
+	<Verse VerseID="20"><![CDATA[Pse kur e godit ndonjë e keqe, ai ankohet së tepërmi. ]]></Verse>
+	<Verse VerseID="21"><![CDATA[Ndërkaq, kur e gjen e mira, ai bëhet tepër koprac. ]]></Verse>
+	<Verse VerseID="22"><![CDATA[Përveç atyre që falen, ]]></Verse>
+	<Verse VerseID="23"><![CDATA[të cilët janë të rregullt në faljen e namazit të tyre. ]]></Verse>
+	<Verse VerseID="24"><![CDATA[Dhe ata që në pasurinë e vet kanë ndarë në një pjesë të caktuar. ]]></Verse>
+	<Verse VerseID="25"><![CDATA[Për lypësin dhe për nevojtarin që nuk lyp. ]]></Verse>
+	<Verse VerseID="26"><![CDATA[Edhe ata që e besojnë bindshëm ditën e gjykimit. ]]></Verse>
+	<Verse VerseID="27"><![CDATA[Edhe ata që i frikësohen dënimit nga Zoti i tyre. ]]></Verse>
+	<Verse VerseID="28"><![CDATA[Sepse është e vërtetë që nuk ka shpëtim prej dënimit nga Zoti i tyre. ]]></Verse>
+	<Verse VerseID="29"><![CDATA[Edhe ata që janë ruajtur prej punëve të ndyra (amorale). ]]></Verse>
+	<Verse VerseID="30"><![CDATA[Me përjashtim ndaj grave të veta dhe ndaj robëreshave që i kanë në posedim, ata nuk qortohen për to. ]]></Verse>
+	<Verse VerseID="31"><![CDATA[E kush kërkon përveç tyre, të tillët janë të shfrenuar (meritojnë dënim). ]]></Verse>
+	<Verse VerseID="32"><![CDATA[Edhe ata që janë besnikë ndaj amanetit që u është besuar dhe ndaj premtimit të dhënë. ]]></Verse>
+	<Verse VerseID="33"><![CDATA[Edhe ata që dëshminë e vet e zbatojnë (nuk e mohojnë, nuk e fshehin). ]]></Verse>
+	<Verse VerseID="34"><![CDATA[Edhe ata që janë të kujdesshëm ndaj rregullave të namazit të tyre. ]]></Verse>
+	<Verse VerseID="35"><![CDATA[Të tillët janë në Xhennete dhe janë të nderuar. ]]></Verse>
+	<Verse VerseID="36"><![CDATA[ç’është me ata që nuk besuan dhe zgjasin qafat nga ti? ]]></Verse>
+	<Verse VerseID="37"><![CDATA[Ulën në grupe në të djathtë e në të majtë teje? ]]></Verse>
+	<Verse VerseID="38"><![CDATA[A dëshiron secili prej tyre të hyjë në Xhennetin r begatshëm? ]]></Verse>
+	<Verse VerseID="39"><![CDATA[Kurrsesi! Ne i krijuam ata nga ajo çka ata e dinë. ]]></Verse>
+	<Verse VerseID="40"><![CDATA[Pra betohem në Zotin e lindjeve e të perëndimeve, se Ne kemi fuqi. ]]></Verse>
+	<Verse VerseID="41"><![CDATA[të zëvendësojmë me më të mirë se ata dhe Ne nuk mund të na dalë kush para. ]]></Verse>
+	<Verse VerseID="42"><![CDATA[Po ti lëri ata të zhyten edhe më thellë në të kota dhe të dëfrehen deri që të ballafaqohen në ditën e tyre që po u premtohet. ]]></Verse>
+	<Verse VerseID="43"><![CDATA[Ditën kur duke u ngutur dalin prej varreve, sikur nguteshin te idhujt, ]]></Verse>
+	<Verse VerseID="44"><![CDATA[Me shikimet e tyre të përulura i ka kapluar poshtërimi. Ajo është dita që ka qenë premtuar.  ]]></Verse>
+</Chapter>

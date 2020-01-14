@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="100" ChapterName="The Assaulters">
+	<Verse VerseID="1"><![CDATA[Pasha vrapuesit e shpejtë (kuajt) që hingëllojnë! ]]></Verse>
+	<Verse VerseID="2"><![CDATA[E që me thundrat e tyre nxjerrin xixëllima zjarri nga gurët, ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Dhe të cilët vërsulen herët në agim. ]]></Verse>
+	<Verse VerseID="4"><![CDATA[E me të (vërsulje) atëherë çojnë pluhur. ]]></Verse>
+	<Verse VerseID="5"><![CDATA[Dhe ashtu hidhen në mesin e grumbullit (të armikut). ]]></Verse>
+	<Verse VerseID="6"><![CDATA[Vërtet, njeriu është përbuzës ndaj Zotit të vet. ]]></Verse>
+	<Verse VerseID="7"><![CDATA[Edhe vetë është dëshmues i asaj (përbuzje). ]]></Verse>
+	<Verse VerseID="8"><![CDATA[Dhe ai është që shumë e do pasurinë. ]]></Verse>
+	<Verse VerseID="9"><![CDATA[A nuk e di ai se kur të nxirret çka ëstë në varreza? ]]></Verse>
+	<Verse VerseID="10"><![CDATA[Dhe të tubohet (të dalë në shesh) ajo që ishte në gjoksa. ]]></Verse>
+	<Verse VerseID="11"><![CDATA[E atë ditë, pa dyshim Zoti i tyre është i njohur për punën e tyre.  ]]></Verse>
+</Chapter>

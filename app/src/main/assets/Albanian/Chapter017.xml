@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="17" ChapterName="The Israelites">
+	<Verse VerseID="1"><![CDATA[Pa të meta është Lartëmadhëria e Atij që robin e Vet e aloi në një pjesë të natës prej Mesxhidi Haramit (prej Qabes) gjer në Mesxhidi Aksa (Bejti Mukaddes), rrethinën e të cilës Ne e kemi bekuar, (ia bëmë këtë udhëtim) për t’ia treguar atij disa nga argumentet Tona. vërtet, Ai është dëgjuesi ( i fjalëve të Mu hamedit), pamësi (i punëve të Muhammedit). ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Edhe Musai Ne i kemi dhënë librin dhe atë (librin) e bëmë udhërrëfyes për beni israilët që të mos marrin, përveç Meje, ndonjë që i besojnë çështjet. ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Pasardhësit të atyre që i batëm (ishpëtuam) së bashku me Nuhun (bëhuni mirënjohës!) Vërtet ai ishte rob shumë falënderues. ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Ne u kumtuam në libër beni israilve: “Ju do të bëni shkatërrime dy herë në tokë dhe do të tejkaloni duke bërë zullum të madh”. ]]></Verse>
+	<Verse VerseID="5"><![CDATA[Kur erdhi koha e premtimit të parë, Ne dërguam kundër jush njerëz Tanë, që ishin të fuqishëm e të ashpër (sulmues) dhe ata hulumtuan (rreth e përqark) përreth vendit (duke mos u frikësuar). E ai (ndëshkim) ishte vendim i preë. ]]></Verse>
+	<Verse VerseID="6"><![CDATA[Pastaj, Ne ua kthyem juve mbisundimin kundër atyre, ju përforcuam me pasuri e me djem dhe ju shtuam më së shumti. ]]></Verse>
+	<Verse VerseID="7"><![CDATA[Nëse bëni mirë, bëni për vete, e nëse bëni keq, bëni kundër vetes. E kur vjen koha e fundit (herën e dytë Ne i dërgojmë) që t’ju shëmtojnë të fytyrat tuaja, që të hyjnë në xhaminë (Aksa) sikurse hynë heërn e parë dhe që të shkatërrojnë rrënjësisht atë që arrijnë. ]]></Verse>
+	<Verse VerseID="8"><![CDATA[Zoti juaj do t’ju mëshirojë (nëse pendoheni), e nëse ju i ktheheni 9të keqes), kthehemi (me ndëshkim) edhe Ne. E Xhehennemin e kemi bërë burg për jobesimtarët. ]]></Verse>
+	<Verse VerseID="9"><![CDATA[Është e vërtet se ky Kur’an udhëzon për atë rrugë që ështëmë se e vërteta, e besimtarët që bëjnë vepra të mira i përgëzon se ata pa dyshim do të kenë shpërblim të madh. ]]></Verse>
+	<Verse VerseID="10"><![CDATA[Ndëkaq, për ata që nuk e besojnë botën tjetër, Ne kemi përgaditur një dënim të rëndë. ]]></Verse>
+	<Verse VerseID="11"><![CDATA[Njeriu (e tepron) lutet për keq, ashtu sikurse lutet për mirë, (po Zoti nuk e pranon lutjen e tij për keq); njeriu (nga vetë natyra e tij) është i ngutshëm. ]]></Verse>
+	<Verse VerseID="12"><![CDATA[Ne i bëmë natën dhe ditën dy fakte (që dokumentojnë për fuqinë Tonë), e shenjën e natës e shlyem me (e errësuam), e shenjën e ditës e bëmë të ndritshme që të mund të angazhoheni për shfrytëzimin e begative të dhuruara nga Zoti juaj, dhe që të mësoni njehësimin e vjetëve dhe llogaritjen (e kohës). Ne kemi sqaruar çdo send në mënyrë të hollësishme. ]]></Verse>
+	<Verse VerseID="13"><![CDATA[Secili njeri ia kemi njgjeshur në qafë fluturakën (shënimin - për veprimin) e tij, në ditën e gjykimit, Nee do t’ia prezentojmë atij libër të hapur, ]]></Verse>
+	<Verse VerseID="14"><![CDATA[“Lexo librn tënd, mjafton të jesh sot llogaritës i vetvetes”. ]]></Verse>
+	<Verse VerseID="15"><![CDATA[Kush e udhëzon veten në rrugën e drejtë, ai e ka udhëzuar vetëm vetveten e vet, e kush e ka bërë humbjen kundër vetvetes së vet, e askushnuk do ta batë barrën e tjetrit. E Ne nuk dënuam askë para se t’ia dërgojmë të dërguarin. ]]></Verse>
+	<Verse VerseID="16"><![CDATA[kur duam të shkatërrojmë ndonjë vend (popull), i urdhërojmë pasanikët (parinë) e atyhit (të jenë në rrugë), e ata kundërshtojnë; atëherë zbatohet dënimi ei merituar kundër tyre dhe i shkatërrojmë krejtësisht. ]]></Verse>
+	<Verse VerseID="17"><![CDATA[Sa e sa gjenerata i kemi shkatërruar pas Nuhut. Mjaft është Zoti yt vëzhgues i mëkateve të robëve të Tij. ]]></Verse>
+	<Verse VerseID="18"><![CDATA[kush është që ka për qëllim vetëm kët botë, Ne atij që duam i japim në të aq sa duam, e pastaj atij i bëjmë të hyjë në Xhehennem i nënqmuar, i përbuzur. ]]></Verse>
+	<Verse VerseID="19"><![CDATA[E kush e ka për qëllim botën tjetër, duke qenë ai besimtarë, përpiqet për të ashtu si i tako asaj, angazhimi i tyre do të jetë i pranishëm (te Zoti). ]]></Verse>
+	<Verse VerseID="20"><![CDATA[Ne secilit atyre dhe atyre i japim nga të mirat e Zotit tënd dhe dhënia e Zotit tënd nuk është e kufizuar. ]]></Verse>
+	<Verse VerseID="21"><![CDATA[Shiko se si Ne i kemi dallluar disa prej tjerëve, po dallimi në botën tjetër është më i madh dhe është përparësi më e madhe. ]]></Verse>
+	<Verse VerseID="22"><![CDATA[E mos shoqëro me All-llahun ndonjë zot tjetër, e të bëhesh i qortuar i papërkrahur. ]]></Verse>
+	<Verse VerseID="23"><![CDATA[Zoti yt ka dhënë urdhër të prerë që të mos adhuroni tjetër pos Tij, që të silleni në mënyrë bamirëse ndaj prindërve. Nëse njërin prej tyre, ose që të dy, i ka kapur pleqëria pranë kujdesit tënd, atëherë mos u thuaj atyre as “of - oh”, as mos u bë i vrazhdë ndaj tyre, po atyre thuaju fjalë të mira (të buta respektuese). ]]></Verse>
+	<Verse VerseID="24"><![CDATA[Dhe në shenjë mëshire shtrije pranë tyre krahun përulës e respektues dhe thuaj: “Zoti im! mëshiroi ata të dy, sikurse më edukuan mua kur isha i vogël”. ]]></Verse>
+	<Verse VerseID="25"><![CDATA[Zoti juaj e di më së miri atë që keni në shpirtin tuaj. Nëse keni qëllime të mira, vërtet Ai u fal atyre që pendohen. ]]></Verse>
+	<Verse VerseID="26"><![CDATA[Dhe jepi çdo të afërmi të drejtën që i takon, edhe të varfërit, edhe atij në kurbet, po mos shpenzo tepëre pa rrugë. ]]></Verse>
+	<Verse VerseID="27"><![CDATA[Ata që shpenzojnë tepër (mastrafxhinjtë) janë vllezër (në veprim) të djajve, e djalli është përbuzës i madh i Zotit të Tij. ]]></Verse>
+	<Verse VerseID="28"><![CDATA[Nëse detyrohesh t’ua kthesh shpinën atyre (të afërme etj. ), duke kërkuar mëshirën, të cilën e shpreson nga Zoti yt (furnizim për t’i ndihmuar ata), atëherë thuaju atyre fja;ë të mira (të lehta). ]]></Verse>
+	<Verse VerseID="29"><![CDATA[Dhe mos e bën dorën tënde të lidur për qafe (mos u bë koprrac), e as mos e shtrij në tërësi, e të bmetesh i qortuar dhe duarthatë (nga shpenzimi i tepërt). ]]></Verse>
+	<Verse VerseID="30"><![CDATA[S’ka dyshim se Zoti yt është Ai që furnizon me bollëk atë që do dhe ia kufizon atij që do. Ai hollësisht e di për robtë e vet dhe i vështron. ]]></Verse>
+	<Verse VerseID="31"><![CDATA[Ju mos i mbytni fëmijët tuaj nga frika e varfërisë, se Ne ua sigurojmë furnizimin atyre dhe juve, e mbytja e tyre është mëkat i madh. ]]></Verse>
+	<Verse VerseID="32"><![CDATA[Dhe mos iu afroni amoralitetit (zinasë), sepse vërtet ai shtë vepër e shëmtuar dhe është një rrugë e keqe. ]]></Verse>
+	<Verse VerseID="33"><![CDATA[Dhe mos mbytni njerin që All-llahu ka ndaluar (mbytjen e tij), përveç me drejtësi (që e kërkon sheriati). E kush mbytet pa të drejtë (pa faj), kujdestarit të tij Ne i kemi dhënë të drejtë (të kërkojë drejtësinë), e ai të mos kalojë kufirin në mbytje derisa ai është i ndihmuar (pprej Zotit). ]]></Verse>
+	<Verse VerseID="34"><![CDATA[Mos përdoroni pasurinë e jetimit ndryshe vetëm në mënyrë të mirë (për t’ia shtuar), derisa ai të arijë pjekurinë e vet. Premtimin zbatonie, pse për premtim ka përgjegjësi. ]]></Verse>
+	<Verse VerseID="35"><![CDATA[Masën mbusheni kur matni (me enë) dhe peshoni me peshojë të drejtë (precize). Kjo është më e dobishme dhe ka përfundim më të mirë. ]]></Verse>
+	<Verse VerseID="36"><![CDATA[Mos iu qas asaj për të cilën nuk kë njohuri, pse të dëgjuarit, të pamët dhe zemra, për të gjitha këto ka përgjegjësi. ]]></Verse>
+	<Verse VerseID="37"><![CDATA[Dhe mos ec nëpër tokë me mburrje, pse ti as nuk mund ta çashë tokën as nuk mund ta arrishë lartësinë e maleve. ]]></Verse>
+	<Verse VerseID="38"><![CDATA[E keqja e të gjitha këtyre është e urrejtur te Zoti yt. ]]></Verse>
+	<Verse VerseID="39"><![CDATA[Këto janë nga urtësia që Zoti yt të shpalli ty. Mos shoqëro me All-llahun ndonjë zot tjetër e të hidhesh në Xhehennem i qortuar dhe i larguar. ]]></Verse>
+	<Verse VerseID="40"><![CDATA[A mos u dalloi Zoti juaj me djem, e për vete zgjodhi melaike që ju i mendoni femra? Vërtet, ju jeni duke thënë fjalë të mëdha. ]]></Verse>
+	<Verse VerseID="41"><![CDATA[Ne sqaruam në mnyrë të ndryshme (argumentet) në këtë Kur’an, ahtu që ata të nxjerrin përvojë, por kjo nuk u shtoi atyre tjetër, vetëm se largim (nga e vërteta). ]]></Verse>
+	<Verse VerseID="42"><![CDATA[Thuaj: “sikur të kishte zota të tjerë përveç Atij, sikundër thonë ata, atëherë ata (zotat) do të kërkonin rrugë për mbizotërim ndaj të Madhëruarit (për t’ia marrë pushtetin). ]]></Verse>
+	<Verse VerseID="43"><![CDATA[I pa të meta është Ai, Lartësia e Tijështë e madhe nga ajo që thonë ata. ]]></Verse>
+	<Verse VerseID="44"><![CDATA[Lartmadhëri të merituar i shprehin Atij shtatë qiejt e toka dhe çka ka në to, e nuk ka asnjë send që nuk e madhëron (nuk i bënë tesbihë), duke i shprehur falënderim Atij, por ju nuk kuptoni atë madhërim të tyre (pse nuk është në gjuhën e tuaj). Ai është i butë dhe fal shumë. ]]></Verse>
+	<Verse VerseID="45"><![CDATA[Kur ti e lexon Kur’anin, në mes teje dhe atyre që nuk e besojnë botën tjetër, Ne e vëmë një perde të padukshme. ]]></Verse>
+	<Verse VerseID="46"><![CDATA[Ndërkaq, në zemrat e tyre vëmë një mbulesë dhe shurdhim të thellë të veshëve të tyre që nuk mund ta kuptojnë atë. E kur e përmend ti në Kur’an Zotin tënd, vetëm Atë, ata ikin mbrapa dhe largohen. ]]></Verse>
+	<Verse VerseID="47"><![CDATA[Shih se si të mveshin ty epitete (i çmendur, poet, i magjepsur), andaj ata kanë humbur dhe nuk mund të gjejnë rrugën (e vërtetë). ]]></Verse>
+	<Verse VerseID="48"><![CDATA[Ata thanë: “Apasi të bëhemi eshtra të kalbur, dhe e pluhur, a mos do të bëhemi krijesë e re e ringjallur?” ]]></Verse>
+	<Verse VerseID="49"><![CDATA[Thuaj: “Edhe nëse të jeni gurë a hekur!” ]]></Verse>
+	<Verse VerseID="50"><![CDATA[Ose ndonjë krijesë që ju duket e madhe! Ata do të thonë: “Kush do të në rikthejë neve në jetë?” Thuaj: “Ai që ju krijoi për të parën herë!?? E ata do të tundin kokat e tyre nga ti e do të thonë: “Kur është ajo (ringjallja)?” Thuaj: “Ndoshta do të jetë afër!” ]]></Verse>
+	<Verse VerseID="51"><![CDATA[(ringjallja është) Atë ditë kur Ai j thërret, kurse ju i përgjigjeni të përulur e duke lavdëruar Atë, e ju duket se ju qëndruat (në dynja) vetëëm pak kohë. ]]></Verse>
+	<Verse VerseID="52"><![CDATA[E ti robve të Mi thuaju: “Le ta thon ata që është më e mira, pse djalli ndësen mes tyre, e është e ditur se djalli është armik i hapët i njeriut”. ]]></Verse>
+	<Verse VerseID="53"><![CDATA[Zoti i juaj më së miri e di gjendjen tuaj, nëse Ai do, ju mëshiron dhe nëse Ai do, ju dënon, e ty (Muhammed) nuk të kemi dërguar rojë të tyre (nuk të besuam ty punën e tyre e t’i fusësh me dhunë në besim). ]]></Verse>
+	<Verse VerseID="54"><![CDATA[Zoti yt e di më së miri gjenden e atij që është në qiej e tokë. Ne kemi dalluar disa pejgamberë nga të tjerët, prandaj, Davudit i kemi dhënë Zebur (shënime). ]]></Verse>
+	<Verse VerseID="55"><![CDATA[Thuaj: “Ftoni ata, të cilët i menduat (zota) pos Atij, e ata nuk mund të heqin prej jush mjerimin, as nuk mund të mënjanojnë”. ]]></Verse>
+	<Verse VerseID="56"><![CDATA[Të tillë (zotat) që këta po lusin (pos Zotit), vetë ata (zotat e tyre) kërkojnë afrimin (te Zoti i vërtetë), shpresojnë në mëshirën e Tij dhe i frikësohen dënimit të Tij. Vërtet, dënimit të Zotit tënf ëshë për t’iu ruajtur. ]]></Verse>
+	<Verse VerseID="57"><![CDATA[Nuk ka asnjë nga fshatrat (nga vendbanimet e kundërshtarëve) e që Ne nuk do ta shkatërrojmë ose ndëshkojmë atë me dënim të ashpër para ditës së kijametit. Kjo është theksuar në Libër (lehvi mahfudh). ]]></Verse>
+	<Verse VerseID="58"><![CDATA[Neve nuk na pengoi asgjë që t’u sjellim argumente (mrekulli0, pos asaj që ata të parët i përgënjeshtruan ato. Ne i dhamë Themudit deven (mrekulli) konkrete, e ata e mohuan atë. E mrekullitë (ose fenomenet natyrore që shkatërrojnë), Ne nuk i dërgojmë për tjetër vetëm për frikësim. ]]></Verse>
+	<Verse VerseID="59"><![CDATA[përkujto, kur Ne të thamë: “Zoti yt ka përfshirë (me dijen e Vet) të gjithë njerëzit (e di që këta nuk besojmë edhe në ju sjellësh mrekulli). E atë pamjen tënde që të treguam (natën e Miraxhit) dhe pemën e mallkuar (të përmendur në Kur’an), nuk ibëmë tjetër vetëm sprovë për njerëz. Ne i frikësojmë ata (idhujtarët), po nuk shton ai tjetër vetëm se rebelim të madh. ]]></Verse>
+	<Verse VerseID="60"><![CDATA[Përkujto kur Ne u thamë engjëjve: “Bëni sexhde Ademit!” (në shenjë përshëndetjeje) e ata i bënë, me përjashtim të Iblisit. Ai tha: “A t’i bej sexhde atij që e krijove nga balta?” ]]></Verse>
+	<Verse VerseID="61"><![CDATA[(mandej vazhdoi e) tha: “A e sheh (i tha Zotit) këtë që Ti e vlerësove mbi mua, nëse më lë të jetojë deri në ditën e kijametit, unë gjithsesi do t’i shfaros pasardhësit e tij, më përjashtim të një pakice”. ]]></Verse>
+	<Verse VerseID="62"><![CDATA[(Zoti) tha: “Shko, ekush prej tyre vjen pas teje, shpërblimi juaj është Xhehennemi, shpërblim i plotë”. ]]></Verse>
+	<Verse VerseID="63"><![CDATA[Dhe me atë alarmin e zërit tënd, mashtroje atë që mundesh prej tyre, me kalorësit e këmbësorët tu thirri (bërtitu) ata, përzieju me ta në pasuri dhe në fëmijë dhe premtoju atyre, po shejtani nuk u premton tjetër, përveç mashtrim. ]]></Verse>
+	<Verse VerseID="64"><![CDATA[Në të vërtet, ti nuk ke kurrfarë fuqie ndaj robërve të Mi. Mbrojtja e Zotit tënd është e mjaftueshme (për ata). ]]></Verse>
+	<Verse VerseID="65"><![CDATA[Zoti juaj është Ai që për ju mundëssoi lundrimin e anijeve në det në mënyrë që të kërkoni nga të mirat e Tij. Vërtet, Ai është shumë mëshirues ndaj jush. ]]></Verse>
+	<Verse VerseID="66"><![CDATA[E kur ju kap juve paniku (frika) në det, i humbni (nga kujtesa) ata që i lutni, u mbete vetëm Ai (All-llahu), mirpo pasi që Ai t’ju shpëtojë e të arrini në tokë, ia ktheni shpinën. Ashtu, njeriu është përbuzës. ]]></Verse>
+	<Verse VerseID="67"><![CDATA[A mos jeni të siguruar që nuk do t’u shafitë në tokë ose nuk do t’ju lëshojëndonjë shtërngatë e ju nuk do të keni mbrojtës. ]]></Verse>
+	<Verse VerseID="68"><![CDATA[A mos jeni të sigurt se Ai nuk do t’ju kthejë njëherë tjetër në det, et’ju lëshojë ndonje furtunë të erës, e për shkak të mosbesimit tuaj t’ju fndosë, e pastaj nuk do të gjeni kiush do të hakmerrej kundër nesh për ju. ]]></Verse>
+	<Verse VerseID="69"><![CDATA[Ne, vërtet nderuam pasardhësit e Ademit (njerëzit), u mundësuam të udhëtojnë hipur në tokë e në det, ibegatuam me ushqime të mira, i vlerësuam ata (i lartësuam) ndaj shumicës së krijesave që Ne i krijuam. ]]></Verse>
+	<Verse VerseID="70"><![CDATA[(përkujto) Ditën kur do të thërrasim secilin njeri me prijësin (librin, pejgamberin, shënimet e veprave) e tyre. E atij që i jepet libri i tij nga e djathta e tij, të tillët i lexojnë shënimet e tyre (të mira), dhe nuk u bëhet e padrejtë asnjë fije. ]]></Verse>
+	<Verse VerseID="71"><![CDATA[E kush ka qenë i verbër në këtë (botë), ai do të jetë edhe në botën tjetër i verbër dhe më i humburi i rrugës së drejtë. ]]></Verse>
+	<Verse VerseID="72"><![CDATA[Në të vërtetë ata (idhujtarët) gati arritën të sprovijnë ty nga ajo që Ne ta shpallëm, e të trillosh tjetër nga çka të shpallëm, e atëherë do të zinin ty mik. ]]></Verse>
+	<Verse VerseID="73"><![CDATA[Dhe sikur Ne të mos të kishim forcuar ty, ti gati anove diçka pak te ta. ]]></Verse>
+	<Verse VerseID="74"><![CDATA[E atëherë Ne do ta shijonim mundimin dyfish të kësaj jete dhe dyfish të jetës tjetër, e pastaj ti nuk do të gjeje mbrojtës kundër nesh. ]]></Verse>
+	<Verse VerseID="75"><![CDATA[E atëherë Ne do ta shijonim mundimin dyfish të kësaj jete dhe dyfish të jetës tjetër, e pastaj ti nuk do të do të gjeje mbrojtës kundër nesh. ]]></Verse>
+	<Verse VerseID="76"><![CDATA[Ata gati të shqetësuar në tokë (në Mekë) për të përzënë prej saj, po atëherë edhe ata nuk do të mbeteshin pas teje (pas pak kohe do të shkatërroheshin). ]]></Verse>
+	<Verse VerseID="77"><![CDATA[Ky është ligji i Tij edh me të dërguarit që i dërgoi para teje. E në ligjin Tonë ti nuk gjen ndryshim. ]]></Verse>
+	<Verse VerseID="78"><![CDATA[Fale namazin kur zbret (nga zeniti) dielli, e deri në errësirën e natës dhe duke bërë lutjen (namazin) e agimit. Vërtet, lutja e agimit është e përcjellur. ]]></Verse>
+	<Verse VerseID="79"><![CDATA[Dhe në një pjesë të natës zgjohu me të (me Kur’anin - namazin), është e sigurt se Zoti yt do të ngrisë ty në një vend të lavdishëm. ]]></Verse>
+	<Verse VerseID="80"><![CDATA[Dhe thuaj: “Zoti im, më shpjer në vend të mirë dhe më nxjerr në mënyrë yë ndershme dhe nga ana Jote më dhuro fuqi ndihmuese”. ]]></Verse>
+	<Verse VerseID="81"><![CDATA[Dhe thuaj: “Erdhi e vërteta e u zhduk e kota”. Vërtet, e kota gjithnjë ka qenë e zhdukur. ]]></Verse>
+	<Verse VerseID="82"><![CDATA[Ne të shpallim Kur’anin që është shërim për besimtarët, kurse jobesimtarëve nuk u dhton tjetërpërpos dëshprim. ]]></Verse>
+	<Verse VerseID="83"><![CDATA[E kur e begatojmë (me të mira) njerin, ai prapësohet dhe largohet i mashtruar, e kur e godet e keqja, ai humb shpresën. ]]></Verse>
+	<Verse VerseID="84"><![CDATA[Thual: “Secili vepron sipas rrugës së vet, e Zoti juaj e di më së miri për atë që është në rrugë më të drejtë”. ]]></Verse>
+	<Verse VerseID="85"><![CDATA[Të pyesin ty për shpirtin; Thuaj: “shpirti është çështëje që i përket vetëm Zoti tim, e juve ju është dhënë fort pak dije”. ]]></Verse>
+	<Verse VerseID="86"><![CDATA[Po të kishim dëshiruar, Ne do ta shlyenim nga gjoksi yt atë që të shpallëm ty, e ti nuk do të gjeje mbrojtës që do të ruane. ]]></Verse>
+	<Verse VerseID="87"><![CDATA[Por kjo është mëshirë nga Zoti yt dhe mirësia e Tij ndaj teje, vërtet është e madhe. ]]></Verse>
+	<Verse VerseID="88"><![CDATA[Thuaj: “Edhe sikur të bashkoheshin njerëzit dhe xhinët për të sjellë një Kur’an të tillë, ata nuk do të mund të bënin si ky sado që do ta ndihmonin njëri - tjetrin”. ]]></Verse>
+	<Verse VerseID="89"><![CDATA[Ne sqruam njerëzve në këtë Kur’an shëmbuj (argumente) të çdo lloji, e shumica e njerëzve nuk deshi tjetër, vetëm mohimin. ]]></Verse>
+	<Verse VerseID="90"><![CDATA[Ata thanë: “Nuk të besojmë ty derisa që të na nxjerrësh prej tokës burime. ]]></Verse>
+	<Verse VerseID="91"><![CDATA[Ose, (nuk të besojmë deri që) të kesh kopshte me hurma e me rrush, e të bësh të rrjedhin vazhdimisht lumenj në mesin e tyre. ]]></Verse>
+	<Verse VerseID="92"><![CDATA[Ose, (nuk të besojmë derisa) të bjerë mbi qiell copa - copa, ashtu si po mendon ti (se do të na dënojë Zoti), apo të na sjellësh All-llahun dhe engjëjt pranë nesh. ]]></Verse>
+	<Verse VerseID="93"><![CDATA[Ose të kesh një shtëpi prej ari, apo të ngjirtesh lart në qiell, po ne nuk të besojmë për ngjitjen tënde derisa të na sjellësh një libër që ta lexojmë?!” Thuaj “Subhanallah - i Madhërishëm është Zoti im, a mos jam unë tjetër vetëm se njeri, pejgamber?” ]]></Verse>
+	<Verse VerseID="94"><![CDATA[Po njerëzit nuk i pengojnë tjetër që të besojnë, kur u erdhi atyre shpallja, vetëm se thoshin: “A thua All-llahu dërgoi njerin pejgamberë!” ]]></Verse>
+	<Verse VerseID="95"><![CDATA[Thuaj: “Sikur të kishte në tokë engjëj që ecin qetë (si njerëzit), Ne do t’u çonim atyre nga qielli engjëj pejgamberë!” ]]></Verse>
+	<Verse VerseID="96"><![CDATA[Thuaj: “All-llahu më mjafton për dëshmitar mes meje dhe mes jush, Ai hpllësisht injeh dhe i sheh robtë e vet”. ]]></Verse>
+	<Verse VerseID="97"><![CDATA[Atë që All-llahu e drejton në rrugë të drejtë, ai është udhëzuar, e atë që e le të humbur, për ata nuk do të gjesh ndihmëtarë përveç Atij. Në ditën e kijametit Ne i tubojmë ata duke i tërhequr rrëshqanas me fytyra për dhe, të verbër, memecë të shurdhët. Vendi ti tyre është Xhehennemi, sa herë që të pushojë flaka Ne u shtojmë flakën e zjarrit. ]]></Verse>
+	<Verse VerseID="98"><![CDATA[Ai (dënim) është meritë e tyre, ngase ata mohuan argumentet tona dhe thanë: “A pasi të bëhemi eshtra e pluhur do të ringjallemi krijesë e re?” ]]></Verse>
+	<Verse VerseID="99"><![CDATA[A nuk e kuptuan ata se All-llahu që krijoi qiejt e tokën është i plotëfuqishëm që të krijojë ështu siç janë ata, dh Ai u ka caktuar afatin (e vdekjes e të ringjalljes) në të cilin nuk ka dyshim, po zullumqarët nuk deshën tjetër vetëm të refuzojnë. ]]></Verse>
+	<Verse VerseID="100"><![CDATA[Thuaj: “Sikur të kishit depotë e begative të Zotit tim, nga frika se po shpenzohen, do të bëheni koprracë; njeriu është dorështrënguar”. ]]></Verse>
+	<Verse VerseID="101"><![CDATA[Ne i patëm dhënë Musait nëntë argumente (mrekulli) të qarta. Pyeti pra ti (Muhammed) beni israilët (nëse duan të dëshmojën) kur ai u ka ardhur atyre (Musai), e atiji pat thnë faraoni: O Musa, unë mendoj ti je i magjepsur! ]]></Verse>
+	<Verse VerseID="102"><![CDATA[Ai (Musai) tha: “Po ti e di se ato (mrekullitë) nuk i zbriti kush tjetër pos Zotit të qiejve e të tokës, i zbriti të dukshme, e unë besoj, o faraon! se ti je shkatërruar”. ]]></Verse>
+	<Verse VerseID="103"><![CDATA[Ai (faraoni) deshi t’i dëbojë ata nga vendi (Egjipti), kurse Ne e përmbysëm atë dhe të gjithë ata që ishin me të së bashku. ]]></Verse>
+	<Verse VerseID="104"><![CDATA[Pas tij beni israilve u thamë: “Rrini në vend, e kur të vijë koga e botës tjetër, Ne ju sjellim të gjithëve të përzier”. ]]></Verse>
+	<Verse VerseID="105"><![CDATA[Ne me urtësi e zbritëm atë (Kur’anin) dhe me urtësi është zbritur. E ty nuk të dërguam tjetër vetëm se përgëzues dhe qortues. ]]></Verse>
+	<Verse VerseID="106"><![CDATA[Dhe (ta shpallëm) Kur’anin që Ne e ndam pjesë - pjesë për t’ua lexuar njerëzve dalëngadalë dhe ashtu e shpallëm atë një pas një. ]]></Verse>
+	<Verse VerseID="107"><![CDATA[Thuaj: “I besuat ju atij ose nuk i besuat (atij nuk i bëhet dëm), e atyre që u është dhënë dijeni (nga lbrat e parë) para tij, kur u lexohet atyre, ata hudhen me fytyra (përdhe) duke i bërë sexhde”. ]]></Verse>
+	<Verse VerseID="108"><![CDATA[Dhe thonë: “I lartësuar është Zoti ynë, premtimi i Zotit tonë është realizuar”. ]]></Verse>
+	<Verse VerseID="109"><![CDATA[Dhe duke qarë hudhen me fytyra (kur e dëgjojnë Kur’anin) dhe ai ua shton eshe më përuljen (ndaj All-llahut0. ]]></Verse>
+	<Verse VerseID="110"><![CDATA[Thuaj: “Thërrisni: All-llah ose thërrisni Er Rrahman, me të cilindo që ta thërrisni (me këta dy emra), emrat e Tij janë më të bukurit. E ti mos e ngrit zërin (duke lexuar) në namazin tënd, po as mos e ul tepër në të, e mes kësaj kërkoje njërrugë mesatare”. ]]></Verse>
+	<Verse VerseID="111"><![CDATA[Dhe thuaj: “Falenderuar qoftë All-llahu, i cili nuk pati fëmijë dhe nuk ka për Të shok në sundim, dhe i përket aftësisë, nuk ka nevojë për ndihmëtarë, dhe madhëroje Atë me madhërinë që i takon”.  ]]></Verse>
+</Chapter>

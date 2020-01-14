@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="103" ChapterName="Time">
+	<Verse VerseID="1"><![CDATA[Pasha kohën! ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Nuk ka dyshim njeriu është në një humbje të sigurt. ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Me përjashtim të atyre që besuan, që bënë vepra të mira, që porositën njëri-tjetrin t’i përmbahen të vërtetës dhe që këshilluan njëri-tjetrin të jenë të durueshëm.  ]]></Verse>
+</Chapter>

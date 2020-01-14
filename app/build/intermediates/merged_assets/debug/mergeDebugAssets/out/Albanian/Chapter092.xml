@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="92" ChapterName="The Night">
+	<Verse VerseID="1"><![CDATA[Pasha natën që me errësirë mbulon gjithësinë! ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Pasha ditën kur ajo shkrepëtin! ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Pasha Atë që krijoi mashkullin e femrën! ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Vërtet, veprimi juaj është i lloj-llojtë. ]]></Verse>
+	<Verse VerseID="5"><![CDATA[E sa i përket atij që jep dhe ruhet, ]]></Verse>
+	<Verse VerseID="6"><![CDATA[Dhe vërteton bindshëm për më të mirën, ]]></Verse>
+	<Verse VerseID="7"><![CDATA[Ne do ta përgatisim atë për më të lehtën. ]]></Verse>
+	<Verse VerseID="8"><![CDATA[E sa i përket atij që bën koprraci dhe ndien veten të pavarur (nga Zoti), ]]></Verse>
+	<Verse VerseID="9"><![CDATA[Dhe që mohon atë më të mirën, ]]></Verse>
+	<Verse VerseID="10"><![CDATA[Ne do ta përgatisim për më të vështirën. ]]></Verse>
+	<Verse VerseID="11"><![CDATA[E pasuria e tij nuk do t’i bëjë dobi, kur ai të zhduket. ]]></Verse>
+	<Verse VerseID="12"><![CDATA[Detyrë e jonë është vetëm të udhëzojmë. ]]></Verse>
+	<Verse VerseID="13"><![CDATA[Dhe vetëm e Jona është bota tjetër si dhe kjo. ]]></Verse>
+	<Verse VerseID="14"><![CDATA[Unë ua kam tërhequr vërejtjen për zjarrin të ndezur fort. ]]></Verse>
+	<Verse VerseID="15"><![CDATA[Që aty nuk hyn tjëtërkush, pos atij që është më i prishuri. ]]></Verse>
+	<Verse VerseID="16"><![CDATA[I cili përgënjeshtroi dhe u zmbraps. ]]></Verse>
+	<Verse VerseID="17"><![CDATA[Ndërsa ai që është më i devotshëm do të jetë larg tij. ]]></Verse>
+	<Verse VerseID="18"><![CDATA[Ai që e jep pasurinë e vet e pastrohet, ]]></Verse>
+	<Verse VerseID="19"><![CDATA[E jo për ta shpërblyer ndokë që i ka bërë mirë më parë. ]]></Verse>
+	<Verse VerseID="20"><![CDATA[Por vetëm për të fituar kënaqësinë e Zotit të vet, më të lartit, ]]></Verse>
+	<Verse VerseID="21"><![CDATA[Për Zotin, ai do të gëzojë atë kënaqësi!  ]]></Verse>
+</Chapter>

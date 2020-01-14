@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="87" ChapterName="The Most High">
+	<Verse VerseID="1"><![CDATA[Madhëroje emrin e Zotin tënd të Lartë! ]]></Verse>
+	<Verse VerseID="2"><![CDATA[I cili krijoi dhe përsosi, ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Dhe i cili përcaktoi e orientoi, ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Dhe i cili mundësoi mbirjen e kullosës; ]]></Verse>
+	<Verse VerseID="5"><![CDATA[E pastaj atë e bëri mbeturinë të zezë. ]]></Verse>
+	<Verse VerseID="6"><![CDATA[Ne do të lexojmë ty e nuk do të harrosh (Kur’anin). ]]></Verse>
+	<Verse VerseID="7"><![CDATA[Përveç asaj që All-llahu dëshiron. Ai e di të haptën e të fshehtën. ]]></Verse>
+	<Verse VerseID="8"><![CDATA[Dhe Ne do ta lehtësojmë ty më të lehtën. ]]></Verse>
+	<Verse VerseID="9"><![CDATA[Pra këshillo aty ku këshilla bën dobi. ]]></Verse>
+	<Verse VerseID="10"><![CDATA[Do të këshillohet ai që ka frikë, ]]></Verse>
+	<Verse VerseID="11"><![CDATA[Ndërsa do të shmanget më i keqi, ]]></Verse>
+	<Verse VerseID="12"><![CDATA[I cili do të hyjë në zjarrin e madh. ]]></Verse>
+	<Verse VerseID="13"><![CDATA[Pastaj nuk do të vdesë në të, por as nuk do të jetojë. ]]></Verse>
+	<Verse VerseID="14"><![CDATA[Ka shpëtuar ai që është patruar. ]]></Verse>
+	<Verse VerseID="15"><![CDATA[Që e përkujton emrin e Zotit të vet dhe falet. ]]></Verse>
+	<Verse VerseID="16"><![CDATA[Po ju i jepni përparësi jetës së dunjasë, ]]></Verse>
+	<Verse VerseID="17"><![CDATA[Ndërsa ahireti (amshimi) është më i mirë dhe e përjetshëm. ]]></Verse>
+	<Verse VerseID="18"><![CDATA[Vërtet kjo ishte në broshurat e lashta: ]]></Verse>
+	<Verse VerseID="19"><![CDATA[në broshurat e Ibrahimit dhe të Musait.  ]]></Verse>
+</Chapter>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="106" ChapterName="The Qureaish">
+	<Verse VerseID="1"><![CDATA[Për hirë të garantimit që e gëzojnë kurejshitët! ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Garantimin e udhëtimit të tyre të lirë dimërit dhe verës! ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Pra, le ta adhurojnë Zotin e kësaj shtëpie, ]]></Verse>
+	<Verse VerseID="4"><![CDATA[I cili i ushqeu pas urisë dhe i siguroi prej çdo frike!  ]]></Verse>
+</Chapter>

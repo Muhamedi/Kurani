@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="104" ChapterName="The Slanderer">
+	<Verse VerseID="1"><![CDATA[Mjerë për secilin që e ofendon e përqesh (njerëzit), ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Që ka tubuar pasuri dhe që atë e ruan të mos i pakësohet. ]]></Verse>
+	<Verse VerseID="3"><![CDATA[E mendon se pasuria e tij do të bëjë të përjetshëm. ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Jo, të mos medojë ashtu! Se ai pa tjetër do të hidhet në Hutame. ]]></Verse>
+	<Verse VerseID="5"><![CDATA[E çka dini ti se ç’është Hutame? ]]></Verse>
+	<Verse VerseID="6"><![CDATA[Është zjarri i All-llahut i ndezur fort. ]]></Verse>
+	<Verse VerseID="7"><![CDATA[Që depërton deri në loçkë të zemrës. ]]></Verse>
+	<Verse VerseID="8"><![CDATA[Ai i mbyll ata, ua zë frymën. ]]></Verse>
+	<Verse VerseID="9"><![CDATA[Ata janë të lidhur në pranga  ]]></Verse>
+</Chapter>

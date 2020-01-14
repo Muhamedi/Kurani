@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="93" ChapterName="The Early Hours">
+	<Verse VerseID="1"><![CDATA[Pasha paraditën! ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Pasha natën kur shtrinë errësirën! ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Zoti yt nuk të ka lënë, as nuk të ka përbuzur. ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Dhe se bota e ardhshme është shumë më e mirë për ty se e para. ]]></Verse>
+	<Verse VerseID="5"><![CDATA[E Zoti yt do të jepë ty, e ti do të kënaqesh. ]]></Verse>
+	<Verse VerseID="6"><![CDATA[A nuk të gjeti ty jetim, e Ai të bëri vend (të dha përkrahje). ]]></Verse>
+	<Verse VerseID="7"><![CDATA[Dhe të gjeti të paudhëzuar e Ai të udhëzojë. ]]></Verse>
+	<Verse VerseID="8"><![CDATA[dhe të gjeti të varfër, e Ai të begatoi. ]]></Verse>
+	<Verse VerseID="9"><![CDATA[Pra, mos e përul jetimin! ]]></Verse>
+	<Verse VerseID="10"><![CDATA[As lypësin mos e përzë! ]]></Verse>
+	<Verse VerseID="11"><![CDATA[E me të mirat që të dha Zoti yt, trego (udhëzo njerëz)!  ]]></Verse>
+</Chapter>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE Chapter [
+	<!ATTLIST Chapter ChapterID CDATA #REQUIRED>
+	<!ATTLIST Chapter ChapterName CDATA #REQUIRED>
+	<!ELEMENT Chapter (Verse+)>
+	<!ATTLIST Verse VerseID CDATA #REQUIRED>
+	<!ELEMENT Verse (#PCDATA)>
+]>
+<!-- This SQL Query Generated at 27 August 2018 08:54 (UTC) from www.qurandatabase.org -->
+<Chapter ChapterID="88" ChapterName="The Overwhelming">
+	<Verse VerseID="1"><![CDATA[A të erdhi ty lajmi për belanë që kaplon (kijameti)? ]]></Verse>
+	<Verse VerseID="2"><![CDATA[Atë ditë sheh fytyra të përulura, ]]></Verse>
+	<Verse VerseID="3"><![CDATA[Të lodhura e të rraskapitura (nga mundimi). ]]></Verse>
+	<Verse VerseID="4"><![CDATA[Ato hyjnë në zjarrin të ndezur fort, ]]></Verse>
+	<Verse VerseID="5"><![CDATA[U jepet të pijnë prej një kroi të valë. ]]></Verse>
+	<Verse VerseID="6"><![CDATA[Ata kanë ushqim tjetër pos një barishte me ferra helmuese. ]]></Verse>
+	<Verse VerseID="7"><![CDATA[Që as nuk jep fuqi, as nuk largon uri. ]]></Verse>
+	<Verse VerseID="8"><![CDATA[Atë ditë dheh fytyra të ndritshme, ]]></Verse>
+	<Verse VerseID="9"><![CDATA[Të kënaqura për veprimet e veta, ]]></Verse>
+	<Verse VerseID="10"><![CDATA[Në Xhennet të shkallës së lartë, ]]></Verse>
+	<Verse VerseID="11"><![CDATA[Aty nuk dëgjojnë fjalë të pakëndshme, ]]></Verse>
+	<Verse VerseID="12"><![CDATA[Aty ka kroje që rrjedhin, ]]></Verse>
+	<Verse VerseID="13"><![CDATA[13-14. Aty kanë shtretër të lartë, ]]></Verse>
+	<Verse VerseID="14"><![CDATA[13-14. Aty kanë shtretër të lartë, ]]></Verse>
+	<Verse VerseID="15"><![CDATA[Edhe jastekë të renduar për mbështetje, ]]></Verse>
+	<Verse VerseID="16"><![CDATA[Edhe qilima të shtruar. ]]></Verse>
+	<Verse VerseID="17"><![CDATA[A nuk i shikojnë devet se si janë krijuar? ]]></Verse>
+	<Verse VerseID="18"><![CDATA[Edhe qiellin se si është ngritur lart! ]]></Verse>
+	<Verse VerseID="19"><![CDATA[Edhe kodrat se si janë venduar! ]]></Verse>
+	<Verse VerseID="20"><![CDATA[Edhe tokën se si është shtruar! ]]></Verse>
+	<Verse VerseID="21"><![CDATA[E ti pra, këshillo, se je vetëm përkujtues, ]]></Verse>
+	<Verse VerseID="22"><![CDATA[Ti ndaj tyre nuk je mbizotërues! ]]></Verse>
+	<Verse VerseID="23"><![CDATA[Përveç atij zbrapset e nuk beson, ]]></Verse>
+	<Verse VerseID="24"><![CDATA[All-llahu atë me vuajtje e dënon. ]]></Verse>
+	<Verse VerseID="25"><![CDATA[Vetëm te Ne kthimin e kanë. ]]></Verse>
+	<Verse VerseID="26"><![CDATA[Dhe vetëm detyrë Jona është llogaira e tyre.  ]]></Verse>
+</Chapter>
